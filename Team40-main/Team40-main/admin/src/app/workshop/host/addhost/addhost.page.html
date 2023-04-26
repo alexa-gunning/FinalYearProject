@@ -1,0 +1,31 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-button class="ion-float-left" id="homebtn" (click)="HomeBtn()">
+      <ion-icon name="home"></ion-icon>
+      </ion-button>
+    <ion-title>Add host<ion-icon name="information-circle" (click)="Info()"></ion-icon></ion-title>
+    <!-- cancel and add buttons -->
+    <ion-buttons slot="secondary">
+      <ion-back-button text="Cancel"></ion-back-button>
+      <ion-button (click)="addHost()">Save</ion-button>
+    </ion-buttons>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content>
+
+
+    <form [formGroup]="HostForm"  >
+    <ion-item>
+      <ion-label position="stacked">Host Name</ion-label><br>
+      <ion-input type="text" formControlName="hostName" placeholder="Jane"></ion-input>
+    </ion-item>
+    <ion-item>
+      <ion-label position="stacked">Host Surname</ion-label><br>
+      <ion-input type="text" formControlName="hostSurname" placeholder="Doe"></ion-input>
+    </ion-item>
+    <ion-item>
+      <ion-label position="stacked">Host Email</ion-label><br>
+      <ion-input type="email" formControlName="hostEmail" placeholder="janedoe@gmail.com"></ion-input>
+    </ion-item>
+  </form>

@@ -1,0 +1,52 @@
+<ion-header [translucent]="true">
+  <ion-toolbar>
+    <ion-button class="ion-float-left" id="homebtn" (click)="HomeBtn()">
+      <ion-icon name="home"></ion-icon>
+      </ion-button>
+    <ion-title>
+      Orders Report
+    </ion-title>
+  </ion-toolbar>
+</ion-header>
+<br>
+<br>
+<ion-content >
+
+  <div style="padding-left:40% ;">
+  <ion-label for="startdate">Start Date</ion-label>
+  <br>
+  <br>
+  <input type="date" name="startdate">
+  <br>
+  <br>
+  <ion-label for="enddate">End Date</ion-label>
+  <br>
+  <br>
+  <input type="date" name="enddate">
+  <br>
+  <br>
+  <ion-list>
+    <ion-item style="padding-right:60% ;">
+      <ion-select placeholder="Select Interval">
+        <ion-select-option value="Daily">Daily</ion-select-option>
+        <ion-select-option value="Monthly">Monthly</ion-select-option>
+        <ion-select-option value="Yearly">Yearly</ion-select-option>
+      </ion-select>
+    </ion-item>
+  </ion-list>
+</div>
+<br>
+<div>
+  <p>Key</p>
+  <p>Blue: Placed Orders</p>
+  <p>Green: Completed Orders</p>
+  <p>Red: Cancelled Orders</p>
+</div>
+<canvas id="htmlData" #barCanvas style="position:relative;height:20vh;width:40vh"></canvas>
+<br>
+<br>
+<div>
+  <ion-button style="float: right" class="btn btn-success btn-block" (click)="openPDF()">Download PDF</ion-button>
+</div>
+</ion-content>
+

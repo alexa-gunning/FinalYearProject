@@ -1,0 +1,22 @@
+#invhomediv{
+    margin: 0 auto;
+    position: relative;
+    top: 15%;
+ left: 5%;
+}
+ion-button{
+    height: 100px;
+    width: 150px;
+    margin: 30px;
+}
+
+
+
+
+ion-content {
+    --background: none;
+    background-image: url('/assets/resinpic.jpeg');
+    background-position: center top;
+    background-repeat: no-repeat;
+    background-size: cover;
+}

@@ -1,0 +1,39 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-button class="ion-float-left" id="homebtn" (click)="HomeBtn()">
+      <ion-icon name="home"></ion-icon>
+      </ion-button>
+    <ion-title>Update item<ion-icon name="information-circle" (click)="Info()"></ion-icon></ion-title>
+        <!-- cancel and update buttons -->
+    <ion-buttons slot="secondary">
+      <ion-back-button text="Cancel"></ion-back-button>
+      <ion-button (click)="Update()">Update</ion-button>
+    </ion-buttons>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content>
+
+  <form [formGroup]="uItemForm" >
+    <div *ngFor="let i of item"> 
+    <ion-item  >
+      <ion-label position="stacked">Item Name</ion-label><br>
+      <ion-input type="text" formControlName="itemName" [(ngModel)]="i.itemName"></ion-input>
+    </ion-item>
+
+    <ion-item > 
+    
+      <ion-label position="stacked">Quantity on hand</ion-label><br>
+      <ion-input type="text" formControlName="quantityOnHand"[(ngModel)]="i.quantityOnHand"></ion-input>
+    </ion-item>
+    <ion-item > 
+    
+      <ion-label position="stacked">last updated</ion-label><br>
+      <ion-datetime displayFormat="YYYY-MM-DDTHH:mm:ss" formControlName="lastUpdated" [(ngModel)]="i.lastUpdated"></ion-datetime>
+    </ion-item>
+  </div>
+    </form>
+
+ 
+
+</ion-content>

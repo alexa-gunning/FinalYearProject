@@ -1,0 +1,25 @@
+<header>Add Address</header>
+<button style="background-color: lightgrey" (click)="Back()">Back to previous page</button>
+<form class="form" [formGroup]="Address">
+<div>
+    <label>Street number</label>
+    <input type="number" formControlName="streetNumber">
+</div>
+<div>
+    <label>Street name</label>
+    <input type="text"  formControlName="streetName">
+</div>
+<div>
+    <label>City</label>
+    <input type="text"  formControlName="city">
+</div>
+<div>
+    <label>Province</label>
+    <input type="text"  formControlName="province">
+</div>
+<div>
+    <label>Postal code</label>
+    <input type="number"  formControlName="areaCode">
+</div>
+<button style="color: #E9BF4B"(click)="Save()">Save Address</button>
+</form>

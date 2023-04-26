@@ -1,0 +1,51 @@
+<ion-header [translucent]="true">
+  <ion-toolbar>
+    <ion-button class="ion-float-left" id="homebtn" (click)="HomeBtn()">
+      <ion-icon name="home"></ion-icon>
+      </ion-button>
+    <ion-title class="ion-text-center">
+    Hosts
+      <ion-button class="ion-float-right" id="titlebtn" (click)="AddBtn()">
+       Add host
+      </ion-button>
+    </ion-title>
+  </ion-toolbar>
+</ion-header>
+<ion-content [fullscreen]="true">
+  <ion-searchbar [(ngModel)]="searchTerm"  placeholder="Search hosts"></ion-searchbar>
+  <!-- view table -->
+<ion-grid>
+
+  <!-- headers -->
+  <ion-row id="tblheader">
+    <ion-col>
+      <div>Name</div>
+    </ion-col>
+    <ion-col>
+      <div>Surname</div>
+    </ion-col>
+    <ion-col>
+      <div>Email Address</div>
+    </ion-col>
+    <ion-col>
+    </ion-col>
+  </ion-row>
+
+  <!-- contents -->
+   <ion-row *ngFor="let host of this.Host | filter: searchTerm">
+    <ion-col>
+      <div>{{host.hostName}}</div>
+    </ion-col>
+    <ion-col>
+      <div>{{host.hostSurname}}</div>
+    </ion-col>
+    <ion-col>
+      <div>{{host.hostEmail}}</div>
+    </ion-col>
+    <ion-col>
+      <ion-icon name="pencil" (click)="Update(host.hostId)"></ion-icon>
+      <ion-icon name="trash-outline" (click)="Delete(host)"></ion-icon>
+    </ion-col>
+   </ion-row>
+
+   </ion-grid>

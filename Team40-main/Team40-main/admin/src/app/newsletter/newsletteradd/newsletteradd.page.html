@@ -1,0 +1,35 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-title>Send newsletter</ion-title>
+  </ion-toolbar>
+</ion-header>
+
+
+
+<form [formGroup]="NewsletterForm">
+
+  <ion-item>
+    <ion-label position="stacked">Subject Line</ion-label><br>
+    <ion-input type="text" formControlName="subjectline"></ion-input>
+  </ion-item>
+
+
+  <ion-item>
+    <ion-label position="stacked">Message</ion-label><br>
+    <ion-textarea type="text" formControlName="messagebody"></ion-textarea>
+  </ion-item>
+
+
+  <ion-button expand="full">
+    <ion-icon lazy="true" slot="start" name="image"></ion-icon>
+    
+    <input type="file" (change)="loadImageFromDevice($event)" id="file-input">
+    <ion-textarea type="text" formControlName = "attachmentraw"></ion-textarea>
+  </ion-button>
+
+  
+
+
+  <ion-button (click)="SendNewsLetter()">Send</ion-button>
+
+</form>  

@@ -1,0 +1,51 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-button class="ion-float-left" id="homebtn" (click)="HomeBtn()">
+      <ion-icon name="home"></ion-icon>
+      </ion-button>
+     
+    <ion-title>Update supplier purchase<ion-icon name="information-circle" (click)="Info()"></ion-icon></ion-title>
+        <!-- cancel and save buttons -->
+    <ion-buttons slot="secondary">
+      <ion-back-button text="Cancel"></ion-back-button>
+      <ion-button (click)="Update()">Save</ion-button>
+    </ion-buttons> 
+  </ion-toolbar>
+</ion-header>
+
+<ion-content>
+
+  <form [formGroup]="uPurchaseForm"  >
+    <div *ngFor="let i of purchase">
+    <ion-item>
+      <ion-label position="stacked">Price (R)</ion-label><br>
+      <ion-input type="number" formControlName="price" [(ngModel)]="i.price"></ion-input>
+    </ion-item>
+    <ion-item>
+      <ion-label position="stacked">Quantity purchased</ion-label><br>
+      <ion-input type="number" formControlName="quantityPurchased"[(ngModel)]="i.quantityPurchased"></ion-input>
+    </ion-item>
+    <ion-list>
+    <ion-item>
+      <ion-label position="stacked">Item name </ion-label><br>
+      <ion-select  formControlName="inventoryId">
+        <ion-select-option  *ngFor="let i of items" value="{{i.inventoryId}}">{{i.itemName}}</ion-select-option>
+      </ion-select>
+    </ion-item>
+  </ion-list>
+  <ion-list>
+    <ion-item>
+      <ion-label position="stacked">Supplier </ion-label><br>
+      <ion-select  formControlName="supplierId">
+        <ion-select-option  *ngFor="let i of suppliers" value="{{i.supplierId}}">{{i.supplierName}}</ion-select-option>
+      </ion-select>
+    </ion-item>
+  </ion-list>
+  <ion-item>
+    <ion-label position="stacked">Date</ion-label><br>
+    <!-- <ion-input type="text" formControlName="lastUpdated"> -->
+      <ion-datetime displayFormat="YYYY-MM-DDTHH:mm:ss" formControlName="date" [(ngModel)]="i.date"></ion-datetime>
+    <!-- </ion-input> -->
+  </ion-item>
+</div>
+  </form>

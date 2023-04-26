@@ -1,0 +1,27 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-button class="ion-float-left" id="homebtn" (click)="HomeBtn()">
+      <ion-icon name="home"></ion-icon>
+      </ion-button>
+    <ion-title>Add Venue<ion-icon name="information-circle" (click)="Info()"></ion-icon></ion-title>
+        <!-- cancel and save buttons -->
+    <ion-buttons slot="secondary">
+      <ion-back-button text="Cancel"></ion-back-button>
+      <ion-button (click)="addVenue()">Save</ion-button>
+    </ion-buttons>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content>
+
+  <form [formGroup]="VenueForm" >
+    <ion-item>
+      <ion-label position="stacked">Name</ion-label><br>
+      <ion-input type="text" formControlName="venueName" placeholder="The Resin Venue"></ion-input>
+    </ion-item>
+    <ion-item>
+      <ion-label position="stacked">Address</ion-label><br>
+      <ion-input type="text" formControlName="address" placeholder="12 Street, Johannesburg, Gauteng"></ion-input>
+    </ion-item>
+
+    </form>

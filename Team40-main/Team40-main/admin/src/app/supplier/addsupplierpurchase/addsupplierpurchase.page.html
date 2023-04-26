@@ -1,0 +1,49 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-title>Add Supplier Purchase</ion-title>
+        <!-- cancel and save buttons -->
+    <ion-buttons slot="secondary">
+      <ion-back-button text="Cancel"></ion-back-button>
+      <ion-button (click)="addItem()">Save</ion-button>
+    </ion-buttons>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content>
+ 
+  <form [formGroup]="PurchaseForm"  >
+    <ion-item>
+      <ion-label position="stacked">Date</ion-label><br>
+      <!-- <ion-input type="text" formControlName="lastUpdated"> -->
+        <ion-datetime displayFormat="YYYY-MM-DDTHH:mm:ss" formControlName="date"></ion-datetime>
+      <!-- </ion-input> -->
+    </ion-item>
+    <ion-item>
+      <ion-label position="stacked">Price</ion-label><br>
+      <ion-input type="number" formControlName="price"></ion-input>
+    </ion-item>
+    <ion-item>
+      <ion-label position="stacked">Quantity Purchased</ion-label><br>
+      <ion-input type="number" formControlName="quantityPurchased"></ion-input>
+    </ion-item>
+    <ion-item>
+      <ion-label position="stacked">Total Cost</ion-label><br>
+      <ion-input type="number" formControlName="totalCost"></ion-input>
+    </ion-item>
+    <ion-item>
+      <ion-label position="stacked">Supplier Name</ion-label><br>
+      <ion-input type="text" formControlName="supplierName"></ion-input>
+    </ion-item>
+    <ion-item>
+      <ion-label position="stacked">Supplier Email</ion-label><br>
+      <ion-input type="email" formControlName="supplierEmail"></ion-input>
+    </ion-item>
+    <ion-item>
+      <ion-label position="stacked">Inventory Item Price</ion-label><br>
+      <ion-input type="number" formControlName="inventoryItemPrice"></ion-input>
+    </ion-item>
+    <ion-item>
+      <ion-label position="stacked">Item Name</ion-label><br>
+      <ion-input type="text" formControlName="itemName"></ion-input>
+    </ion-item>
+    <ion-item>

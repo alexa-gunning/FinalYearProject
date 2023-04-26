@@ -1,0 +1,38 @@
+<ion-content >
+  <div style="display:flex;justify-content:center;align-items:center;height:100%">
+   <form [formGroup]="form">
+    <ion-card>
+      <ion-card-header>
+        <ion-card-title color="warning">ResinArt By Paige</ion-card-title>
+      </ion-card-header>
+        <!--Username Code-->
+      <ion-card-content>
+        <form class="form" [formGroup]="form">
+        <ion-item>
+          <ion-label position="floating">Username</ion-label>
+          <ion-input type="text" formControlName="userName"></ion-input>
+        </ion-item>
+        <ion-label color="danger" *ngIf="form.get('userName').touched && form.get('userName').errors?.required">Please enter a username</ion-label>
+        <br>
+         <!--Password Code-->
+        <ion-item>
+          <ion-label position="floating">Password</ion-label>
+          <ion-input type="password" formControlName="password"></ion-input>
+        </ion-item>
+        <ion-label color="danger" *ngIf="form.get('password').touched && form.get('password').errors?.required">Please enter a passowrd</ion-label>
+        <br>
+        <!--Buttons Code-->
+        <ion-button color="medium" Fill="clear" size="full">Forgot Password</ion-button>
+        <br>
+        <span>
+          <ion-button color="success" (click)="Login()" [disabled]="!form.valid">Login</ion-button>
+          <ion-button color="medium" (click)="SignUp()">SignUp</ion-button>
+          <ion-button color="medium" (click)="Forgot()">Forgot password</ion-button>
+          <!--[disabled]="!form.valid" -->
+        </span>
+      </form>
+      </ion-card-content>
+    </ion-card>
+   </form>
+  </div>
+</ion-content>

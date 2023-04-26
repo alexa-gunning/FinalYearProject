@@ -1,0 +1,11 @@
+<header>Your addresses</header>
+<button style="background-color: lightgray;" (click)="Back()">Back to previous page</button>
+<button style="color: #E9BF4B" (click)="Add()">Add address</button> <br> <br> <br>
+<table>
+    <tr  *ngFor="let i of addresses">
+    <td class="col1">{{i.streetNumber}} {{i.streetName}},{{i.city}}, {{i.province}}, {{i.areaCode}}, {{i.country}}   </td> 
+
+    <td  class="col2">  <button style="color: red" (click)="Delete(i)">delete address</button>
+     <button style="color: red" (click)="Update(i.addressId)">update address</button></td>
+</tr>
+</table>

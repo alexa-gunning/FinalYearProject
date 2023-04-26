@@ -1,0 +1,25 @@
+<header>Workshops </header>
+<form [formGroup]="BookingForm"   *ngFor="let i of workshop" >
+     <!-- *ngFor="let i of workshop" -->
+<!-- <label>Please select a workshop to book</label>  -->
+<br>
+<!-- <select >
+
+     <option  *ngFor="let i of workshop" 
+    value="{{i.workshopId}}"   -->
+  <input type="hidden"
+ id="id({{i.workshopId}})"   value="{{i.workshopId}}" > <br>
+<label>Workshop type: {{i.typeDescription}}<br> 
+     Workshop date and time: {{i.workshopDate}} 
+     <br> Workshop venue: {{i.venueName}} ({{i.address}}) <br>
+     Workshop price: {{i.price | currency: 'R'}} <br>
+     Workshop host: {{i.hostName}}
+</label>
+     <!-- {{i.typeDescription}} workshop on {{i.workshopDate}} at {{i.venueName}} -->
+ <!-- </option>
+ </select>  -->
+
+ <br>
+<button style="color: #E9BF4B"  (click)="MakeBooking(i)">Book</button>
+
+</form>

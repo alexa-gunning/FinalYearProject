@@ -1,0 +1,25 @@
+<header>My orders</header>
+<content >
+<table >
+<tr class="header">
+    <td class="col1">Order number</td> 
+    <td class="col1">Order date</td> 
+    <td class="col2">Product ordered</td>
+    <td class="col2">Quantity ordered</td>
+    <td class="col3">Delivery company</td>
+    <td class="col4">Delivery address</td>
+    <!-- <td class="col5">Order status</td> -->
+</tr>
+<tr  *ngFor="let i of orders">
+    <td class="col1">{{i.orderProductId}}</td> 
+    <td class="col2">{{i.date}}</td> 
+    <td class="col3">{{i.productName}}</td>
+    <td class="col4">{{i.quantity}}</td>
+    <td class="col5">{{i.deliveryCompanyName}}</td>
+    <td class="col6"> {{i.streetNumber}} {{i.streetName}}, {{i.city}}, {{i.province}}, {{i.areaCode}}, {{i.country}}</td>
+    <!-- <td class="col5"> {{i.description}}</td> -->
+    <!-- <td class="col6"><button (click)="Delete(i)" style="color: red" >Cancel booking</button></td> -->
+</tr>
+
+</table>
+</content>

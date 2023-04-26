@@ -1,0 +1,60 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-button class="ion-float-left" id="homebtn" (click)="HomeBtn()">
+      <ion-icon name="home"></ion-icon>
+      </ion-button>
+     
+    <ion-title>Add Client<ion-icon name="information-circle" (click)="Info()"></ion-icon></ion-title>
+        <!-- cancel and save buttons -->
+    <ion-buttons slot="secondary">
+      <ion-back-button text="Cancel"></ion-back-button>
+      <ion-button (click)="addClient()">Save</ion-button>
+    </ion-buttons>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content>
+
+  <form [formGroup]="ClientForm"  >
+    <ion-item>
+      <ion-label position="stacked">Name</ion-label><br>
+      <ion-input type="text" formControlName="name" placeholder="Jane"></ion-input>
+    </ion-item>
+    <ion-item>
+      <ion-label position="stacked">Surname</ion-label><br>
+      <ion-input type="text" formControlName="surname" placeholder="Smith"></ion-input>
+    </ion-item>
+    <ion-item>
+      <ion-label position="stacked">Email Address</ion-label><br>
+      <ion-input type="email" formControlName="emailAddress" placeholder="jane@gmail.com"></ion-input>
+    </ion-item>
+    
+    <ion-item>
+      <ion-label>Newsletter</ion-label>
+      <ion-checkbox></ion-checkbox>
+    </ion-item>
+
+ 
+    <ion-item>
+      <ion-label position="stacked">Phone Number</ion-label><br>
+      <ion-input type="text" formControlName="phoneNumber" placeholder="0795840245"></ion-input>
+    </ion-item>
+
+    <ion-item>
+      <ion-label position="stacked">Birth Date</ion-label><br>
+      <ion-datetime displayFormat="YYYY-MM-DDTHH:mm:ss" formControlName="birthDate" ></ion-datetime>
+    </ion-item>
+    <ion-list>
+    <ion-item>
+      <ion-label position="stacked">Gender</ion-label><br>
+      <ion-select  formControlName="genderId">
+        <ion-select-option  *ngFor="let i of gender" value="{{i.genderId}}">{{i.genderName}}</ion-select-option>
+      </ion-select>
+    </ion-item>
+    
+
+  </ion-list>
+ 
+
+
+  

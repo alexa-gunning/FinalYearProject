@@ -1,0 +1,22 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-button class="ion-float-left" id="homebtn" (click)="HomeBtn()">
+      <ion-icon name="home"></ion-icon>
+      </ion-button>
+    <ion-title>Add percentage<ion-icon name="information-circle" (click)="Info()"></ion-icon></ion-title>
+        <!-- cancel and save buttons -->
+    <ion-buttons slot="secondary">
+      <ion-back-button text="Cancel"></ion-back-button>
+      <ion-button (click)="addItem()">Save</ion-button>
+    </ion-buttons>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content>
+
+  <form [formGroup]="TypeForm"  >
+    <ion-item>
+      <ion-label position="stacked">Percentage</ion-label><br>
+      <ion-input type="number" formControlName="percentage" placeholder="25"></ion-input>
+    </ion-item>
+  

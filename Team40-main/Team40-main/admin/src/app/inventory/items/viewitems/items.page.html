@@ -1,0 +1,52 @@
+<ion-header [translucent]="true">
+  <ion-toolbar>
+    <ion-button class="ion-float-left" id="homebtn" (click)="HomeBtn()">
+      <ion-icon name="home"></ion-icon>
+      </ion-button>
+    <ion-title class="ion-text-center">
+     Inventory items
+
+      <ion-button class="ion-float-right" id="titlebtn" (click)="AddBtn()">
+       Add items
+      </ion-button>
+    </ion-title>
+  </ion-toolbar>
+</ion-header>
+<ion-content [fullscreen]="true">
+  <ion-searchbar [(ngModel)]="searchTerm" placeholder="Search inventory items"></ion-searchbar>
+  <!-- view table -->
+<ion-grid>
+
+  <!-- headers -->
+  <ion-row id="tblheader">
+    <ion-col>
+      <div>Item name</div>
+    </ion-col>
+    <ion-col>
+      <div>Quantity on hand</div>
+    </ion-col>
+    <ion-col>
+      <div>Last updated</div>
+    </ion-col>
+    <ion-col>
+    </ion-col>
+  </ion-row>
+
+  <!-- contents -->
+   <ion-row *ngFor="let inv of items | filter: searchTerm">
+    <ion-col>
+      <div>{{inv.itemName}}</div>
+    </ion-col>
+    <ion-col>
+      <div>{{inv.quantityOnHand}}</div>
+    </ion-col>
+    <ion-col>
+      <div>{{inv.lastUpdated}}</div>
+    </ion-col>
+    <ion-col>
+      <ion-icon name="pencil" (click)="Update(inv.inventoryId)"></ion-icon>
+      <ion-icon name="trash-outline" (click)="Delete(inv)"></ion-icon>
+    </ion-col>
+   </ion-row>
+
+   </ion-grid>

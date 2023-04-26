@@ -1,0 +1,25 @@
+<header>Update Address</header>
+<button style="background-color: lightgrey" (click)="Back()">Back to previous page</button>
+<form class="form" [formGroup]="Address" *ngFor="let i of item">
+<div>
+    <label>Street number</label>
+    <input type="number" formControlName="streetNumber" [(ngModel)]="i.streetNumber">
+</div>
+<div>
+    <label>Street name</label>
+    <input type="text"  formControlName="streetName" [(ngModel)]="i.streetName">
+</div>
+<div>
+    <label>City</label>
+    <input type="text"  formControlName="city" [(ngModel)]="i.city">
+</div>
+<div>
+    <label>Province</label>
+    <input type="text"  formControlName="province" [(ngModel)]="i.province">
+</div>
+<div>
+    <label>Postal code</label>
+    <input type="number"  formControlName="areaCode" [(ngModel)]="i.areaCode">
+</div>
+<button style="color: #E9BF4B"(click)="Save()">Update Address</button>
+</form>

@@ -1,0 +1,951 @@
+D:\_University\2022\University Modules 2022\Semester 1\INF370\Team Notes\Iteration 6\Code\API\Iteration 1\team40_iteration6_user\bin\Debug\net5.0\appsettings.Development.json
+D:\_University\2022\University Modules 2022\Semester 1\INF370\Team Notes\Iteration 6\Code\API\Iteration 1\team40_iteration6_user\bin\Debug\net5.0\appsettings.json
+D:\_University\2022\University Modules 2022\Semester 1\INF370\Team Notes\Iteration 6\Code\API\Iteration 1\team40_iteration6_user\bin\Debug\net5.0\team40_iteration6_user.exe
+D:\_University\2022\University Modules 2022\Semester 1\INF370\Team Notes\Iteration 6\Code\API\Iteration 1\team40_iteration6_user\bin\Debug\net5.0\team40_iteration6_user.deps.json
+D:\_University\2022\University Modules 2022\Semester 1\INF370\Team Notes\Iteration 6\Code\API\Iteration 1\team40_iteration6_user\bin\Debug\net5.0\team40_iteration6_user.runtimeconfig.json
+D:\_University\2022\University Modules 2022\Semester 1\INF370\Team Notes\Iteration 6\Code\API\Iteration 1\team40_iteration6_user\bin\Debug\net5.0\team40_iteration6_user.runtimeconfig.dev.json
+D:\_University\2022\University Modules 2022\Semester 1\INF370\Team Notes\Iteration 6\Code\API\Iteration 1\team40_iteration6_user\bin\Debug\net5.0\team40_iteration6_user.dll
+D:\_University\2022\University Modules 2022\Semester 1\INF370\Team Notes\Iteration 6\Code\API\Iteration 1\team40_iteration6_user\bin\Debug\net5.0\ref\team40_iteration6_user.dll
+D:\_University\2022\University Modules 2022\Semester 1\INF370\Team Notes\Iteration 6\Code\API\Iteration 1\team40_iteration6_user\bin\Debug\net5.0\team40_iteration6_user.pdb
+D:\_University\2022\University Modules 2022\Semester 1\INF370\Team Notes\Iteration 6\Code\API\Iteration 1\team40_iteration6_user\bin\Debug\net5.0\Humanizer.dll
+D:\_University\2022\University Modules 2022\Semester 1\INF370\Team Notes\Iteration 6\Code\API\Iteration 1\team40_iteration6_user\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\_University\2022\University Modules 2022\Semester 1\INF370\Team Notes\Iteration 6\Code\API\Iteration 1\team40_iteration6_user\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\_University\2022\University Modules 2022\Semester 1\INF370\Team Notes\Iteration 6\Code\API\Iteration 1\team40_iteration6_user\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\_University\2022\University Modules 2022\Semester 1\INF370\Team Notes\Iteration 6\Code\API\Iteration 1\team40_iteration6_user\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\_University\2022\University Modules 2022\Semester 1\INF370\Team Notes\Iteration 6\Code\API\Iteration 1\team40_iteration6_user\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\_University\2022\University Modules 2022\Semester 1\INF370\Team Notes\Iteration 6\Code\API\Iteration 1\team40_iteration6_user\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\_University\2022\University Modules 2022\Semester 1\INF370\Team Notes\Iteration 6\Code\API\Iteration 1\team40_iteration6_user\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\_University\2022\University Modules 2022\Semester 1\INF370\Team Notes\Iteration 6\Code\API\Iteration 1\team40_iteration6_user\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\_University\2022\University Modules 2022\Semester 1\INF370\Team Notes\Iteration 6\Code\API\Iteration 1\team40_iteration6_user\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\_University\2022\University Modules 2022\Semester 1\INF370\Team Notes\Iteration 6\Code\API\Iteration 1\team40_iteration6_user\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\_University\2022\University Modules 2022\Semester 1\INF370\Team Notes\Iteration 6\Code\API\Iteration 1\team40_iteration6_user\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\_University\2022\University Modules 2022\Semester 1\INF370\Team Notes\Iteration 6\Code\API\Iteration 1\team40_iteration6_user\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\_University\2022\University Modules 2022\Semester 1\INF370\Team Notes\Iteration 6\Code\API\Iteration 1\team40_iteration6_user\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\_University\2022\University Modules 2022\Semester 1\INF370\Team Notes\Iteration 6\Code\API\Iteration 1\team40_iteration6_user\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\_University\2022\University Modules 2022\Semester 1\INF370\Team Notes\Iteration 6\Code\API\Iteration 1\team40_iteration6_user\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\_University\2022\University Modules 2022\Semester 1\INF370\Team Notes\Iteration 6\Code\API\Iteration 1\team40_iteration6_user\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\_University\2022\University Modules 2022\Semester 1\INF370\Team Notes\Iteration 6\Code\API\Iteration 1\team40_iteration6_user\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\_University\2022\University Modules 2022\Semester 1\INF370\Team Notes\Iteration 6\Code\API\Iteration 1\team40_iteration6_user\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\_University\2022\University Modules 2022\Semester 1\INF370\Team Notes\Iteration 6\Code\API\Iteration 1\team40_iteration6_user\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\_University\2022\University Modules 2022\Semester 1\INF370\Team Notes\Iteration 6\Code\API\Iteration 1\team40_iteration6_user\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\_University\2022\University Modules 2022\Semester 1\INF370\Team Notes\Iteration 6\Code\API\Iteration 1\team40_iteration6_user\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\_University\2022\University Modules 2022\Semester 1\INF370\Team Notes\Iteration 6\Code\API\Iteration 1\team40_iteration6_user\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\_University\2022\University Modules 2022\Semester 1\INF370\Team Notes\Iteration 6\Code\API\Iteration 1\team40_iteration6_user\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\_University\2022\University Modules 2022\Semester 1\INF370\Team Notes\Iteration 6\Code\API\Iteration 1\team40_iteration6_user\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\_University\2022\University Modules 2022\Semester 1\INF370\Team Notes\Iteration 6\Code\API\Iteration 1\team40_iteration6_user\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\_University\2022\University Modules 2022\Semester 1\INF370\Team Notes\Iteration 6\Code\API\Iteration 1\team40_iteration6_user\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\_University\2022\University Modules 2022\Semester 1\INF370\Team Notes\Iteration 6\Code\API\Iteration 1\team40_iteration6_user\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\_University\2022\University Modules 2022\Semester 1\INF370\Team Notes\Iteration 6\Code\API\Iteration 1\team40_iteration6_user\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\_University\2022\University Modules 2022\Semester 1\INF370\Team Notes\Iteration 6\Code\API\Iteration 1\team40_iteration6_user\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\_University\2022\University Modules 2022\Semester 1\INF370\Team Notes\Iteration 6\Code\API\Iteration 1\team40_iteration6_user\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\_University\2022\University Modules 2022\Semester 1\INF370\Team Notes\Iteration 6\Code\API\Iteration 1\team40_iteration6_user\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\_University\2022\University Modules 2022\Semester 1\INF370\Team Notes\Iteration 6\Code\API\Iteration 1\team40_iteration6_user\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\_University\2022\University Modules 2022\Semester 1\INF370\Team Notes\Iteration 6\Code\API\Iteration 1\team40_iteration6_user\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\_University\2022\University Modules 2022\Semester 1\INF370\Team Notes\Iteration 6\Code\API\Iteration 1\team40_iteration6_user\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\_University\2022\University Modules 2022\Semester 1\INF370\Team Notes\Iteration 6\Code\API\Iteration 1\team40_iteration6_user\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\_University\2022\University Modules 2022\Semester 1\INF370\Team Notes\Iteration 6\Code\API\Iteration 1\team40_iteration6_user\obj\Debug\net5.0\team40_iteration6_user.csproj.AssemblyReference.cache
+D:\_University\2022\University Modules 2022\Semester 1\INF370\Team Notes\Iteration 6\Code\API\Iteration 1\team40_iteration6_user\obj\Debug\net5.0\team40_iteration6_user.GeneratedMSBuildEditorConfig.editorconfig
+D:\_University\2022\University Modules 2022\Semester 1\INF370\Team Notes\Iteration 6\Code\API\Iteration 1\team40_iteration6_user\obj\Debug\net5.0\team40_iteration6_user.AssemblyInfoInputs.cache
+D:\_University\2022\University Modules 2022\Semester 1\INF370\Team Notes\Iteration 6\Code\API\Iteration 1\team40_iteration6_user\obj\Debug\net5.0\team40_iteration6_user.AssemblyInfo.cs
+D:\_University\2022\University Modules 2022\Semester 1\INF370\Team Notes\Iteration 6\Code\API\Iteration 1\team40_iteration6_user\obj\Debug\net5.0\team40_iteration6_user.csproj.CoreCompileInputs.cache
+D:\_University\2022\University Modules 2022\Semester 1\INF370\Team Notes\Iteration 6\Code\API\Iteration 1\team40_iteration6_user\obj\Debug\net5.0\team40_iteration6_user.MvcApplicationPartsAssemblyInfo.cs
+D:\_University\2022\University Modules 2022\Semester 1\INF370\Team Notes\Iteration 6\Code\API\Iteration 1\team40_iteration6_user\obj\Debug\net5.0\team40_iteration6_user.MvcApplicationPartsAssemblyInfo.cache
+D:\_University\2022\University Modules 2022\Semester 1\INF370\Team Notes\Iteration 6\Code\API\Iteration 1\team40_iteration6_user\obj\Debug\net5.0\staticwebassets\team40_iteration6_user.StaticWebAssets.Manifest.cache
+D:\_University\2022\University Modules 2022\Semester 1\INF370\Team Notes\Iteration 6\Code\API\Iteration 1\team40_iteration6_user\obj\Debug\net5.0\staticwebassets\team40_iteration6_user.StaticWebAssets.xml
+D:\_University\2022\University Modules 2022\Semester 1\INF370\Team Notes\Iteration 6\Code\API\Iteration 1\team40_iteration6_user\obj\Debug\net5.0\scopedcss\bundle\team40_iteration6_user.styles.css
+D:\_University\2022\University Modules 2022\Semester 1\INF370\Team Notes\Iteration 6\Code\API\Iteration 1\team40_iteration6_user\obj\Debug\net5.0\team40_iteration6_user.RazorTargetAssemblyInfo.cache
+D:\_University\2022\University Modules 2022\Semester 1\INF370\Team Notes\Iteration 6\Code\API\Iteration 1\team40_iteration6_user\obj\Debug\net5.0\team40_iteration6_user.csproj.CopyComplete
+D:\_University\2022\University Modules 2022\Semester 1\INF370\Team Notes\Iteration 6\Code\API\Iteration 1\team40_iteration6_user\obj\Debug\net5.0\team40_iteration6_user.dll
+D:\_University\2022\University Modules 2022\Semester 1\INF370\Team Notes\Iteration 6\Code\API\Iteration 1\team40_iteration6_user\obj\Debug\net5.0\ref\team40_iteration6_user.dll
+D:\_University\2022\University Modules 2022\Semester 1\INF370\Team Notes\Iteration 6\Code\API\Iteration 1\team40_iteration6_user\obj\Debug\net5.0\team40_iteration6_user.pdb
+D:\_University\2022\University Modules 2022\Semester 1\INF370\Team Notes\Iteration 6\Code\API\Iteration 1\team40_iteration6_user\obj\Debug\net5.0\team40_iteration6_user.genruntimeconfig.cache
+C:\Users\27726\Desktop\TEAM40 Code\team40_iteration6_user\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\27726\Desktop\TEAM40 Code\team40_iteration6_user\bin\Debug\net5.0\appsettings.json
+C:\Users\27726\Desktop\TEAM40 Code\team40_iteration6_user\bin\Debug\net5.0\team40_iteration6_user.exe
+C:\Users\27726\Desktop\TEAM40 Code\team40_iteration6_user\bin\Debug\net5.0\team40_iteration6_user.deps.json
+C:\Users\27726\Desktop\TEAM40 Code\team40_iteration6_user\bin\Debug\net5.0\team40_iteration6_user.runtimeconfig.json
+C:\Users\27726\Desktop\TEAM40 Code\team40_iteration6_user\bin\Debug\net5.0\team40_iteration6_user.runtimeconfig.dev.json
+C:\Users\27726\Desktop\TEAM40 Code\team40_iteration6_user\bin\Debug\net5.0\team40_iteration6_user.dll
+C:\Users\27726\Desktop\TEAM40 Code\team40_iteration6_user\bin\Debug\net5.0\ref\team40_iteration6_user.dll
+C:\Users\27726\Desktop\TEAM40 Code\team40_iteration6_user\bin\Debug\net5.0\team40_iteration6_user.pdb
+C:\Users\27726\Desktop\TEAM40 Code\team40_iteration6_user\bin\Debug\net5.0\Humanizer.dll
+C:\Users\27726\Desktop\TEAM40 Code\team40_iteration6_user\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\27726\Desktop\TEAM40 Code\team40_iteration6_user\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\27726\Desktop\TEAM40 Code\team40_iteration6_user\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\27726\Desktop\TEAM40 Code\team40_iteration6_user\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\27726\Desktop\TEAM40 Code\team40_iteration6_user\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\27726\Desktop\TEAM40 Code\team40_iteration6_user\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\27726\Desktop\TEAM40 Code\team40_iteration6_user\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\27726\Desktop\TEAM40 Code\team40_iteration6_user\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\27726\Desktop\TEAM40 Code\team40_iteration6_user\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\27726\Desktop\TEAM40 Code\team40_iteration6_user\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\27726\Desktop\TEAM40 Code\team40_iteration6_user\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\27726\Desktop\TEAM40 Code\team40_iteration6_user\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\27726\Desktop\TEAM40 Code\team40_iteration6_user\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\27726\Desktop\TEAM40 Code\team40_iteration6_user\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\27726\Desktop\TEAM40 Code\team40_iteration6_user\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\27726\Desktop\TEAM40 Code\team40_iteration6_user\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\27726\Desktop\TEAM40 Code\team40_iteration6_user\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\27726\Desktop\TEAM40 Code\team40_iteration6_user\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\27726\Desktop\TEAM40 Code\team40_iteration6_user\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\27726\Desktop\TEAM40 Code\team40_iteration6_user\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\27726\Desktop\TEAM40 Code\team40_iteration6_user\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\27726\Desktop\TEAM40 Code\team40_iteration6_user\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\27726\Desktop\TEAM40 Code\team40_iteration6_user\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\27726\Desktop\TEAM40 Code\team40_iteration6_user\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\27726\Desktop\TEAM40 Code\team40_iteration6_user\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\27726\Desktop\TEAM40 Code\team40_iteration6_user\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\27726\Desktop\TEAM40 Code\team40_iteration6_user\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\27726\Desktop\TEAM40 Code\team40_iteration6_user\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\27726\Desktop\TEAM40 Code\team40_iteration6_user\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\27726\Desktop\TEAM40 Code\team40_iteration6_user\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\27726\Desktop\TEAM40 Code\team40_iteration6_user\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\27726\Desktop\TEAM40 Code\team40_iteration6_user\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\27726\Desktop\TEAM40 Code\team40_iteration6_user\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\27726\Desktop\TEAM40 Code\team40_iteration6_user\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\27726\Desktop\TEAM40 Code\team40_iteration6_user\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\27726\Desktop\TEAM40 Code\team40_iteration6_user\obj\Debug\net5.0\team40_iteration6_user.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\27726\Desktop\TEAM40 Code\team40_iteration6_user\obj\Debug\net5.0\team40_iteration6_user.AssemblyInfoInputs.cache
+C:\Users\27726\Desktop\TEAM40 Code\team40_iteration6_user\obj\Debug\net5.0\team40_iteration6_user.AssemblyInfo.cs
+C:\Users\27726\Desktop\TEAM40 Code\team40_iteration6_user\obj\Debug\net5.0\team40_iteration6_user.csproj.CoreCompileInputs.cache
+C:\Users\27726\Desktop\TEAM40 Code\team40_iteration6_user\obj\Debug\net5.0\team40_iteration6_user.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\27726\Desktop\TEAM40 Code\team40_iteration6_user\obj\Debug\net5.0\team40_iteration6_user.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\27726\Desktop\TEAM40 Code\team40_iteration6_user\obj\Debug\net5.0\staticwebassets\team40_iteration6_user.StaticWebAssets.Manifest.cache
+C:\Users\27726\Desktop\TEAM40 Code\team40_iteration6_user\obj\Debug\net5.0\staticwebassets\team40_iteration6_user.StaticWebAssets.xml
+C:\Users\27726\Desktop\TEAM40 Code\team40_iteration6_user\obj\Debug\net5.0\scopedcss\bundle\team40_iteration6_user.styles.css
+C:\Users\27726\Desktop\TEAM40 Code\team40_iteration6_user\obj\Debug\net5.0\team40_iteration6_user.RazorTargetAssemblyInfo.cache
+C:\Users\27726\Desktop\TEAM40 Code\team40_iteration6_user\obj\Debug\net5.0\team40_iteration6_user.csproj.CopyComplete
+C:\Users\27726\Desktop\TEAM40 Code\team40_iteration6_user\obj\Debug\net5.0\team40_iteration6_user.dll
+C:\Users\27726\Desktop\TEAM40 Code\team40_iteration6_user\obj\Debug\net5.0\ref\team40_iteration6_user.dll
+C:\Users\27726\Desktop\TEAM40 Code\team40_iteration6_user\obj\Debug\net5.0\team40_iteration6_user.pdb
+C:\Users\27726\Desktop\TEAM40 Code\team40_iteration6_user\obj\Debug\net5.0\team40_iteration6_user.genruntimeconfig.cache
+C:\Users\27726\Desktop\TEAM40 Code\team40_iteration6_user\obj\Debug\net5.0\team40_iteration6_user.csproj.AssemblyReference.cache
+D:\_University\2022\University Modules 2022\Semester 1\INF370\Team Notes\Iteration 6\Code\API\WorkingApiTeam40\team40_iteration6_user\bin\Debug\net5.0\appsettings.Development.json
+D:\_University\2022\University Modules 2022\Semester 1\INF370\Team Notes\Iteration 6\Code\API\WorkingApiTeam40\team40_iteration6_user\bin\Debug\net5.0\appsettings.json
+D:\_University\2022\University Modules 2022\Semester 1\INF370\Team Notes\Iteration 6\Code\API\WorkingApiTeam40\team40_iteration6_user\bin\Debug\net5.0\team40_iteration6_user.exe
+D:\_University\2022\University Modules 2022\Semester 1\INF370\Team Notes\Iteration 6\Code\API\WorkingApiTeam40\team40_iteration6_user\bin\Debug\net5.0\team40_iteration6_user.deps.json
+D:\_University\2022\University Modules 2022\Semester 1\INF370\Team Notes\Iteration 6\Code\API\WorkingApiTeam40\team40_iteration6_user\bin\Debug\net5.0\team40_iteration6_user.runtimeconfig.json
+D:\_University\2022\University Modules 2022\Semester 1\INF370\Team Notes\Iteration 6\Code\API\WorkingApiTeam40\team40_iteration6_user\bin\Debug\net5.0\team40_iteration6_user.runtimeconfig.dev.json
+D:\_University\2022\University Modules 2022\Semester 1\INF370\Team Notes\Iteration 6\Code\API\WorkingApiTeam40\team40_iteration6_user\bin\Debug\net5.0\team40_iteration6_user.dll
+D:\_University\2022\University Modules 2022\Semester 1\INF370\Team Notes\Iteration 6\Code\API\WorkingApiTeam40\team40_iteration6_user\bin\Debug\net5.0\ref\team40_iteration6_user.dll
+D:\_University\2022\University Modules 2022\Semester 1\INF370\Team Notes\Iteration 6\Code\API\WorkingApiTeam40\team40_iteration6_user\bin\Debug\net5.0\team40_iteration6_user.pdb
+D:\_University\2022\University Modules 2022\Semester 1\INF370\Team Notes\Iteration 6\Code\API\WorkingApiTeam40\team40_iteration6_user\bin\Debug\net5.0\Humanizer.dll
+D:\_University\2022\University Modules 2022\Semester 1\INF370\Team Notes\Iteration 6\Code\API\WorkingApiTeam40\team40_iteration6_user\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\_University\2022\University Modules 2022\Semester 1\INF370\Team Notes\Iteration 6\Code\API\WorkingApiTeam40\team40_iteration6_user\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\_University\2022\University Modules 2022\Semester 1\INF370\Team Notes\Iteration 6\Code\API\WorkingApiTeam40\team40_iteration6_user\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\_University\2022\University Modules 2022\Semester 1\INF370\Team Notes\Iteration 6\Code\API\WorkingApiTeam40\team40_iteration6_user\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\_University\2022\University Modules 2022\Semester 1\INF370\Team Notes\Iteration 6\Code\API\WorkingApiTeam40\team40_iteration6_user\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\_University\2022\University Modules 2022\Semester 1\INF370\Team Notes\Iteration 6\Code\API\WorkingApiTeam40\team40_iteration6_user\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\_University\2022\University Modules 2022\Semester 1\INF370\Team Notes\Iteration 6\Code\API\WorkingApiTeam40\team40_iteration6_user\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\_University\2022\University Modules 2022\Semester 1\INF370\Team Notes\Iteration 6\Code\API\WorkingApiTeam40\team40_iteration6_user\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\_University\2022\University Modules 2022\Semester 1\INF370\Team Notes\Iteration 6\Code\API\WorkingApiTeam40\team40_iteration6_user\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\_University\2022\University Modules 2022\Semester 1\INF370\Team Notes\Iteration 6\Code\API\WorkingApiTeam40\team40_iteration6_user\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\_University\2022\University Modules 2022\Semester 1\INF370\Team Notes\Iteration 6\Code\API\WorkingApiTeam40\team40_iteration6_user\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\_University\2022\University Modules 2022\Semester 1\INF370\Team Notes\Iteration 6\Code\API\WorkingApiTeam40\team40_iteration6_user\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\_University\2022\University Modules 2022\Semester 1\INF370\Team Notes\Iteration 6\Code\API\WorkingApiTeam40\team40_iteration6_user\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\_University\2022\University Modules 2022\Semester 1\INF370\Team Notes\Iteration 6\Code\API\WorkingApiTeam40\team40_iteration6_user\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\_University\2022\University Modules 2022\Semester 1\INF370\Team Notes\Iteration 6\Code\API\WorkingApiTeam40\team40_iteration6_user\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\_University\2022\University Modules 2022\Semester 1\INF370\Team Notes\Iteration 6\Code\API\WorkingApiTeam40\team40_iteration6_user\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\_University\2022\University Modules 2022\Semester 1\INF370\Team Notes\Iteration 6\Code\API\WorkingApiTeam40\team40_iteration6_user\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\_University\2022\University Modules 2022\Semester 1\INF370\Team Notes\Iteration 6\Code\API\WorkingApiTeam40\team40_iteration6_user\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\_University\2022\University Modules 2022\Semester 1\INF370\Team Notes\Iteration 6\Code\API\WorkingApiTeam40\team40_iteration6_user\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\_University\2022\University Modules 2022\Semester 1\INF370\Team Notes\Iteration 6\Code\API\WorkingApiTeam40\team40_iteration6_user\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\_University\2022\University Modules 2022\Semester 1\INF370\Team Notes\Iteration 6\Code\API\WorkingApiTeam40\team40_iteration6_user\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\_University\2022\University Modules 2022\Semester 1\INF370\Team Notes\Iteration 6\Code\API\WorkingApiTeam40\team40_iteration6_user\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\_University\2022\University Modules 2022\Semester 1\INF370\Team Notes\Iteration 6\Code\API\WorkingApiTeam40\team40_iteration6_user\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\_University\2022\University Modules 2022\Semester 1\INF370\Team Notes\Iteration 6\Code\API\WorkingApiTeam40\team40_iteration6_user\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\_University\2022\University Modules 2022\Semester 1\INF370\Team Notes\Iteration 6\Code\API\WorkingApiTeam40\team40_iteration6_user\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\_University\2022\University Modules 2022\Semester 1\INF370\Team Notes\Iteration 6\Code\API\WorkingApiTeam40\team40_iteration6_user\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\_University\2022\University Modules 2022\Semester 1\INF370\Team Notes\Iteration 6\Code\API\WorkingApiTeam40\team40_iteration6_user\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\_University\2022\University Modules 2022\Semester 1\INF370\Team Notes\Iteration 6\Code\API\WorkingApiTeam40\team40_iteration6_user\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\_University\2022\University Modules 2022\Semester 1\INF370\Team Notes\Iteration 6\Code\API\WorkingApiTeam40\team40_iteration6_user\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\_University\2022\University Modules 2022\Semester 1\INF370\Team Notes\Iteration 6\Code\API\WorkingApiTeam40\team40_iteration6_user\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\_University\2022\University Modules 2022\Semester 1\INF370\Team Notes\Iteration 6\Code\API\WorkingApiTeam40\team40_iteration6_user\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\_University\2022\University Modules 2022\Semester 1\INF370\Team Notes\Iteration 6\Code\API\WorkingApiTeam40\team40_iteration6_user\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\_University\2022\University Modules 2022\Semester 1\INF370\Team Notes\Iteration 6\Code\API\WorkingApiTeam40\team40_iteration6_user\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\_University\2022\University Modules 2022\Semester 1\INF370\Team Notes\Iteration 6\Code\API\WorkingApiTeam40\team40_iteration6_user\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\_University\2022\University Modules 2022\Semester 1\INF370\Team Notes\Iteration 6\Code\API\WorkingApiTeam40\team40_iteration6_user\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\_University\2022\University Modules 2022\Semester 1\INF370\Team Notes\Iteration 6\Code\API\WorkingApiTeam40\team40_iteration6_user\obj\Debug\net5.0\team40_iteration6_user.GeneratedMSBuildEditorConfig.editorconfig
+D:\_University\2022\University Modules 2022\Semester 1\INF370\Team Notes\Iteration 6\Code\API\WorkingApiTeam40\team40_iteration6_user\obj\Debug\net5.0\team40_iteration6_user.AssemblyInfoInputs.cache
+D:\_University\2022\University Modules 2022\Semester 1\INF370\Team Notes\Iteration 6\Code\API\WorkingApiTeam40\team40_iteration6_user\obj\Debug\net5.0\team40_iteration6_user.AssemblyInfo.cs
+D:\_University\2022\University Modules 2022\Semester 1\INF370\Team Notes\Iteration 6\Code\API\WorkingApiTeam40\team40_iteration6_user\obj\Debug\net5.0\team40_iteration6_user.csproj.CoreCompileInputs.cache
+D:\_University\2022\University Modules 2022\Semester 1\INF370\Team Notes\Iteration 6\Code\API\WorkingApiTeam40\team40_iteration6_user\obj\Debug\net5.0\team40_iteration6_user.MvcApplicationPartsAssemblyInfo.cs
+D:\_University\2022\University Modules 2022\Semester 1\INF370\Team Notes\Iteration 6\Code\API\WorkingApiTeam40\team40_iteration6_user\obj\Debug\net5.0\team40_iteration6_user.MvcApplicationPartsAssemblyInfo.cache
+D:\_University\2022\University Modules 2022\Semester 1\INF370\Team Notes\Iteration 6\Code\API\WorkingApiTeam40\team40_iteration6_user\obj\Debug\net5.0\staticwebassets\team40_iteration6_user.StaticWebAssets.Manifest.cache
+D:\_University\2022\University Modules 2022\Semester 1\INF370\Team Notes\Iteration 6\Code\API\WorkingApiTeam40\team40_iteration6_user\obj\Debug\net5.0\staticwebassets\team40_iteration6_user.StaticWebAssets.xml
+D:\_University\2022\University Modules 2022\Semester 1\INF370\Team Notes\Iteration 6\Code\API\WorkingApiTeam40\team40_iteration6_user\obj\Debug\net5.0\scopedcss\bundle\team40_iteration6_user.styles.css
+D:\_University\2022\University Modules 2022\Semester 1\INF370\Team Notes\Iteration 6\Code\API\WorkingApiTeam40\team40_iteration6_user\obj\Debug\net5.0\team40_iteration6_user.RazorTargetAssemblyInfo.cache
+D:\_University\2022\University Modules 2022\Semester 1\INF370\Team Notes\Iteration 6\Code\API\WorkingApiTeam40\team40_iteration6_user\obj\Debug\net5.0\team40_iteration6_user.csproj.CopyComplete
+D:\_University\2022\University Modules 2022\Semester 1\INF370\Team Notes\Iteration 6\Code\API\WorkingApiTeam40\team40_iteration6_user\obj\Debug\net5.0\team40_iteration6_user.dll
+D:\_University\2022\University Modules 2022\Semester 1\INF370\Team Notes\Iteration 6\Code\API\WorkingApiTeam40\team40_iteration6_user\obj\Debug\net5.0\ref\team40_iteration6_user.dll
+D:\_University\2022\University Modules 2022\Semester 1\INF370\Team Notes\Iteration 6\Code\API\WorkingApiTeam40\team40_iteration6_user\obj\Debug\net5.0\team40_iteration6_user.pdb
+D:\_University\2022\University Modules 2022\Semester 1\INF370\Team Notes\Iteration 6\Code\API\WorkingApiTeam40\team40_iteration6_user\obj\Debug\net5.0\team40_iteration6_user.genruntimeconfig.cache
+C:\Users\User\Documents\INF370\Code\iteration7\API Code\team40_iteration6_user\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\User\Documents\INF370\Code\iteration7\API Code\team40_iteration6_user\bin\Debug\net5.0\appsettings.json
+C:\Users\User\Documents\INF370\Code\iteration7\API Code\team40_iteration6_user\bin\Debug\net5.0\team40_iteration6_user.exe
+C:\Users\User\Documents\INF370\Code\iteration7\API Code\team40_iteration6_user\bin\Debug\net5.0\team40_iteration6_user.deps.json
+C:\Users\User\Documents\INF370\Code\iteration7\API Code\team40_iteration6_user\bin\Debug\net5.0\team40_iteration6_user.runtimeconfig.json
+C:\Users\User\Documents\INF370\Code\iteration7\API Code\team40_iteration6_user\bin\Debug\net5.0\team40_iteration6_user.runtimeconfig.dev.json
+C:\Users\User\Documents\INF370\Code\iteration7\API Code\team40_iteration6_user\bin\Debug\net5.0\team40_iteration6_user.dll
+C:\Users\User\Documents\INF370\Code\iteration7\API Code\team40_iteration6_user\bin\Debug\net5.0\ref\team40_iteration6_user.dll
+C:\Users\User\Documents\INF370\Code\iteration7\API Code\team40_iteration6_user\bin\Debug\net5.0\team40_iteration6_user.pdb
+C:\Users\User\Documents\INF370\Code\iteration7\API Code\team40_iteration6_user\bin\Debug\net5.0\Humanizer.dll
+C:\Users\User\Documents\INF370\Code\iteration7\API Code\team40_iteration6_user\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\User\Documents\INF370\Code\iteration7\API Code\team40_iteration6_user\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\Documents\INF370\Code\iteration7\API Code\team40_iteration6_user\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\Documents\INF370\Code\iteration7\API Code\team40_iteration6_user\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\User\Documents\INF370\Code\iteration7\API Code\team40_iteration6_user\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\Documents\INF370\Code\iteration7\API Code\team40_iteration6_user\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\User\Documents\INF370\Code\iteration7\API Code\team40_iteration6_user\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\Documents\INF370\Code\iteration7\API Code\team40_iteration6_user\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\User\Documents\INF370\Code\iteration7\API Code\team40_iteration6_user\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\Documents\INF370\Code\iteration7\API Code\team40_iteration6_user\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\Documents\INF370\Code\iteration7\API Code\team40_iteration6_user\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User\Documents\INF370\Code\iteration7\API Code\team40_iteration6_user\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User\Documents\INF370\Code\iteration7\API Code\team40_iteration6_user\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\Documents\INF370\Code\iteration7\API Code\team40_iteration6_user\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\User\Documents\INF370\Code\iteration7\API Code\team40_iteration6_user\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\User\Documents\INF370\Code\iteration7\API Code\team40_iteration6_user\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\User\Documents\INF370\Code\iteration7\API Code\team40_iteration6_user\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\User\Documents\INF370\Code\iteration7\API Code\team40_iteration6_user\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\User\Documents\INF370\Code\iteration7\API Code\team40_iteration6_user\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\User\Documents\INF370\Code\iteration7\API Code\team40_iteration6_user\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Documents\INF370\Code\iteration7\API Code\team40_iteration6_user\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\Documents\INF370\Code\iteration7\API Code\team40_iteration6_user\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\User\Documents\INF370\Code\iteration7\API Code\team40_iteration6_user\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Documents\INF370\Code\iteration7\API Code\team40_iteration6_user\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Documents\INF370\Code\iteration7\API Code\team40_iteration6_user\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Documents\INF370\Code\iteration7\API Code\team40_iteration6_user\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Documents\INF370\Code\iteration7\API Code\team40_iteration6_user\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Documents\INF370\Code\iteration7\API Code\team40_iteration6_user\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Documents\INF370\Code\iteration7\API Code\team40_iteration6_user\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Documents\INF370\Code\iteration7\API Code\team40_iteration6_user\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Documents\INF370\Code\iteration7\API Code\team40_iteration6_user\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Documents\INF370\Code\iteration7\API Code\team40_iteration6_user\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Documents\INF370\Code\iteration7\API Code\team40_iteration6_user\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Documents\INF370\Code\iteration7\API Code\team40_iteration6_user\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\User\Documents\INF370\Code\iteration7\API Code\team40_iteration6_user\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Documents\INF370\Code\iteration7\API Code\team40_iteration6_user\obj\Debug\net5.0\team40_iteration6_user.csproj.AssemblyReference.cache
+C:\Users\User\Documents\INF370\Code\iteration7\API Code\team40_iteration6_user\obj\Debug\net5.0\team40_iteration6_user.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\INF370\Code\iteration7\API Code\team40_iteration6_user\obj\Debug\net5.0\team40_iteration6_user.AssemblyInfoInputs.cache
+C:\Users\User\Documents\INF370\Code\iteration7\API Code\team40_iteration6_user\obj\Debug\net5.0\team40_iteration6_user.AssemblyInfo.cs
+C:\Users\User\Documents\INF370\Code\iteration7\API Code\team40_iteration6_user\obj\Debug\net5.0\team40_iteration6_user.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\INF370\Code\iteration7\API Code\team40_iteration6_user\obj\Debug\net5.0\team40_iteration6_user.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\Documents\INF370\Code\iteration7\API Code\team40_iteration6_user\obj\Debug\net5.0\team40_iteration6_user.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Documents\INF370\Code\iteration7\API Code\team40_iteration6_user\obj\Debug\net5.0\staticwebassets\team40_iteration6_user.StaticWebAssets.Manifest.cache
+C:\Users\User\Documents\INF370\Code\iteration7\API Code\team40_iteration6_user\obj\Debug\net5.0\staticwebassets\team40_iteration6_user.StaticWebAssets.xml
+C:\Users\User\Documents\INF370\Code\iteration7\API Code\team40_iteration6_user\obj\Debug\net5.0\scopedcss\bundle\team40_iteration6_user.styles.css
+C:\Users\User\Documents\INF370\Code\iteration7\API Code\team40_iteration6_user\obj\Debug\net5.0\team40_iteration6_user.RazorTargetAssemblyInfo.cache
+C:\Users\User\Documents\INF370\Code\iteration7\API Code\team40_iteration6_user\obj\Debug\net5.0\team40_iteration6_user.csproj.CopyComplete
+C:\Users\User\Documents\INF370\Code\iteration7\API Code\team40_iteration6_user\obj\Debug\net5.0\team40_iteration6_user.dll
+C:\Users\User\Documents\INF370\Code\iteration7\API Code\team40_iteration6_user\obj\Debug\net5.0\ref\team40_iteration6_user.dll
+C:\Users\User\Documents\INF370\Code\iteration7\API Code\team40_iteration6_user\obj\Debug\net5.0\team40_iteration6_user.pdb
+C:\Users\User\Documents\INF370\Code\iteration7\API Code\team40_iteration6_user\obj\Debug\net5.0\team40_iteration6_user.genruntimeconfig.cache
+D:\_University\2022\University Modules 2022\Year 1 - INF370\Team Notes\Iteration 7\Code\API Code (1)\API Code\team40_iteration6_user\obj\Debug\net5.0\team40_iteration6_user.csproj.AssemblyReference.cache
+D:\_University\2022\University Modules 2022\Year 1 - INF370\Team Notes\Iteration 7\Code\API Code (1)\API Code\team40_iteration6_user\obj\Debug\net5.0\team40_iteration6_user.GeneratedMSBuildEditorConfig.editorconfig
+D:\_University\2022\University Modules 2022\Year 1 - INF370\Team Notes\Iteration 7\Code\API Code (1)\API Code\team40_iteration6_user\obj\Debug\net5.0\team40_iteration6_user.AssemblyInfoInputs.cache
+D:\_University\2022\University Modules 2022\Year 1 - INF370\Team Notes\Iteration 7\Code\API Code (1)\API Code\team40_iteration6_user\obj\Debug\net5.0\team40_iteration6_user.AssemblyInfo.cs
+D:\_University\2022\University Modules 2022\Year 1 - INF370\Team Notes\Iteration 7\Code\API Code (1)\API Code\team40_iteration6_user\obj\Debug\net5.0\team40_iteration6_user.csproj.CoreCompileInputs.cache
+D:\_University\2022\University Modules 2022\Year 1 - INF370\Team Notes\Iteration 7\Code\API Code (1)\API Code\team40_iteration6_user\obj\Debug\net5.0\team40_iteration6_user.MvcApplicationPartsAssemblyInfo.cs
+D:\_University\2022\University Modules 2022\Year 1 - INF370\Team Notes\Iteration 7\Code\API Code (1)\API Code\team40_iteration6_user\obj\Debug\net5.0\team40_iteration6_user.MvcApplicationPartsAssemblyInfo.cache
+D:\_University\2022\University Modules 2022\Year 1 - INF370\Team Notes\Iteration 7\Code\API Code (1)\API Code\team40_iteration6_user\obj\Debug\net5.0\team40_iteration6_user.dll
+D:\_University\2022\University Modules 2022\Year 1 - INF370\Team Notes\Iteration 7\Code\API Code (1)\API Code\team40_iteration6_user\obj\Debug\net5.0\ref\team40_iteration6_user.dll
+D:\_University\2022\University Modules 2022\Year 1 - INF370\Team Notes\Iteration 7\Code\API Code (1)\API Code\team40_iteration6_user\obj\Debug\net5.0\team40_iteration6_user.pdb
+D:\_University\2022\University Modules 2022\Year 1 - INF370\Team Notes\Iteration 7\Code\API Code (1)\API Code\team40_iteration6_user\bin\Debug\net5.0\appsettings.Development.json
+D:\_University\2022\University Modules 2022\Year 1 - INF370\Team Notes\Iteration 7\Code\API Code (1)\API Code\team40_iteration6_user\bin\Debug\net5.0\appsettings.json
+D:\_University\2022\University Modules 2022\Year 1 - INF370\Team Notes\Iteration 7\Code\API Code (1)\API Code\team40_iteration6_user\bin\Debug\net5.0\team40_iteration6_user.exe
+D:\_University\2022\University Modules 2022\Year 1 - INF370\Team Notes\Iteration 7\Code\API Code (1)\API Code\team40_iteration6_user\bin\Debug\net5.0\team40_iteration6_user.deps.json
+D:\_University\2022\University Modules 2022\Year 1 - INF370\Team Notes\Iteration 7\Code\API Code (1)\API Code\team40_iteration6_user\bin\Debug\net5.0\team40_iteration6_user.runtimeconfig.json
+D:\_University\2022\University Modules 2022\Year 1 - INF370\Team Notes\Iteration 7\Code\API Code (1)\API Code\team40_iteration6_user\bin\Debug\net5.0\team40_iteration6_user.runtimeconfig.dev.json
+D:\_University\2022\University Modules 2022\Year 1 - INF370\Team Notes\Iteration 7\Code\API Code (1)\API Code\team40_iteration6_user\bin\Debug\net5.0\team40_iteration6_user.dll
+D:\_University\2022\University Modules 2022\Year 1 - INF370\Team Notes\Iteration 7\Code\API Code (1)\API Code\team40_iteration6_user\bin\Debug\net5.0\ref\team40_iteration6_user.dll
+D:\_University\2022\University Modules 2022\Year 1 - INF370\Team Notes\Iteration 7\Code\API Code (1)\API Code\team40_iteration6_user\bin\Debug\net5.0\team40_iteration6_user.pdb
+D:\_University\2022\University Modules 2022\Year 1 - INF370\Team Notes\Iteration 7\Code\API Code (1)\API Code\team40_iteration6_user\bin\Debug\net5.0\Humanizer.dll
+D:\_University\2022\University Modules 2022\Year 1 - INF370\Team Notes\Iteration 7\Code\API Code (1)\API Code\team40_iteration6_user\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\_University\2022\University Modules 2022\Year 1 - INF370\Team Notes\Iteration 7\Code\API Code (1)\API Code\team40_iteration6_user\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\_University\2022\University Modules 2022\Year 1 - INF370\Team Notes\Iteration 7\Code\API Code (1)\API Code\team40_iteration6_user\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\_University\2022\University Modules 2022\Year 1 - INF370\Team Notes\Iteration 7\Code\API Code (1)\API Code\team40_iteration6_user\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\_University\2022\University Modules 2022\Year 1 - INF370\Team Notes\Iteration 7\Code\API Code (1)\API Code\team40_iteration6_user\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\_University\2022\University Modules 2022\Year 1 - INF370\Team Notes\Iteration 7\Code\API Code (1)\API Code\team40_iteration6_user\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\_University\2022\University Modules 2022\Year 1 - INF370\Team Notes\Iteration 7\Code\API Code (1)\API Code\team40_iteration6_user\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\_University\2022\University Modules 2022\Year 1 - INF370\Team Notes\Iteration 7\Code\API Code (1)\API Code\team40_iteration6_user\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\_University\2022\University Modules 2022\Year 1 - INF370\Team Notes\Iteration 7\Code\API Code (1)\API Code\team40_iteration6_user\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\_University\2022\University Modules 2022\Year 1 - INF370\Team Notes\Iteration 7\Code\API Code (1)\API Code\team40_iteration6_user\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\_University\2022\University Modules 2022\Year 1 - INF370\Team Notes\Iteration 7\Code\API Code (1)\API Code\team40_iteration6_user\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\_University\2022\University Modules 2022\Year 1 - INF370\Team Notes\Iteration 7\Code\API Code (1)\API Code\team40_iteration6_user\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\_University\2022\University Modules 2022\Year 1 - INF370\Team Notes\Iteration 7\Code\API Code (1)\API Code\team40_iteration6_user\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\_University\2022\University Modules 2022\Year 1 - INF370\Team Notes\Iteration 7\Code\API Code (1)\API Code\team40_iteration6_user\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\_University\2022\University Modules 2022\Year 1 - INF370\Team Notes\Iteration 7\Code\API Code (1)\API Code\team40_iteration6_user\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\_University\2022\University Modules 2022\Year 1 - INF370\Team Notes\Iteration 7\Code\API Code (1)\API Code\team40_iteration6_user\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\_University\2022\University Modules 2022\Year 1 - INF370\Team Notes\Iteration 7\Code\API Code (1)\API Code\team40_iteration6_user\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\_University\2022\University Modules 2022\Year 1 - INF370\Team Notes\Iteration 7\Code\API Code (1)\API Code\team40_iteration6_user\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\_University\2022\University Modules 2022\Year 1 - INF370\Team Notes\Iteration 7\Code\API Code (1)\API Code\team40_iteration6_user\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\_University\2022\University Modules 2022\Year 1 - INF370\Team Notes\Iteration 7\Code\API Code (1)\API Code\team40_iteration6_user\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\_University\2022\University Modules 2022\Year 1 - INF370\Team Notes\Iteration 7\Code\API Code (1)\API Code\team40_iteration6_user\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\_University\2022\University Modules 2022\Year 1 - INF370\Team Notes\Iteration 7\Code\API Code (1)\API Code\team40_iteration6_user\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\_University\2022\University Modules 2022\Year 1 - INF370\Team Notes\Iteration 7\Code\API Code (1)\API Code\team40_iteration6_user\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\_University\2022\University Modules 2022\Year 1 - INF370\Team Notes\Iteration 7\Code\API Code (1)\API Code\team40_iteration6_user\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\_University\2022\University Modules 2022\Year 1 - INF370\Team Notes\Iteration 7\Code\API Code (1)\API Code\team40_iteration6_user\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\_University\2022\University Modules 2022\Year 1 - INF370\Team Notes\Iteration 7\Code\API Code (1)\API Code\team40_iteration6_user\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\_University\2022\University Modules 2022\Year 1 - INF370\Team Notes\Iteration 7\Code\API Code (1)\API Code\team40_iteration6_user\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\_University\2022\University Modules 2022\Year 1 - INF370\Team Notes\Iteration 7\Code\API Code (1)\API Code\team40_iteration6_user\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\_University\2022\University Modules 2022\Year 1 - INF370\Team Notes\Iteration 7\Code\API Code (1)\API Code\team40_iteration6_user\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\_University\2022\University Modules 2022\Year 1 - INF370\Team Notes\Iteration 7\Code\API Code (1)\API Code\team40_iteration6_user\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\_University\2022\University Modules 2022\Year 1 - INF370\Team Notes\Iteration 7\Code\API Code (1)\API Code\team40_iteration6_user\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\_University\2022\University Modules 2022\Year 1 - INF370\Team Notes\Iteration 7\Code\API Code (1)\API Code\team40_iteration6_user\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\_University\2022\University Modules 2022\Year 1 - INF370\Team Notes\Iteration 7\Code\API Code (1)\API Code\team40_iteration6_user\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\_University\2022\University Modules 2022\Year 1 - INF370\Team Notes\Iteration 7\Code\API Code (1)\API Code\team40_iteration6_user\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\_University\2022\University Modules 2022\Year 1 - INF370\Team Notes\Iteration 7\Code\API Code (1)\API Code\team40_iteration6_user\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\_University\2022\University Modules 2022\Year 1 - INF370\Team Notes\Iteration 7\Code\API Code (1)\API Code\team40_iteration6_user\obj\Debug\net5.0\staticwebassets\team40_iteration6_user.StaticWebAssets.Manifest.cache
+D:\_University\2022\University Modules 2022\Year 1 - INF370\Team Notes\Iteration 7\Code\API Code (1)\API Code\team40_iteration6_user\obj\Debug\net5.0\staticwebassets\team40_iteration6_user.StaticWebAssets.xml
+D:\_University\2022\University Modules 2022\Year 1 - INF370\Team Notes\Iteration 7\Code\API Code (1)\API Code\team40_iteration6_user\obj\Debug\net5.0\scopedcss\bundle\team40_iteration6_user.styles.css
+D:\_University\2022\University Modules 2022\Year 1 - INF370\Team Notes\Iteration 7\Code\API Code (1)\API Code\team40_iteration6_user\obj\Debug\net5.0\team40_iteration6_user.RazorTargetAssemblyInfo.cache
+D:\_University\2022\University Modules 2022\Year 1 - INF370\Team Notes\Iteration 7\Code\API Code (1)\API Code\team40_iteration6_user\obj\Debug\net5.0\team40_iteration6_user.csproj.CopyComplete
+D:\_University\2022\University Modules 2022\Year 1 - INF370\Team Notes\Iteration 7\Code\API Code (1)\API Code\team40_iteration6_user\obj\Debug\net5.0\team40_iteration6_user.genruntimeconfig.cache
+C:\Users\tokol\Downloads\API Code - v1 Iteration 7-20220817T182058Z-001\API Code - v1 Iteration 7\team40_iteration6_user\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\tokol\Downloads\API Code - v1 Iteration 7-20220817T182058Z-001\API Code - v1 Iteration 7\team40_iteration6_user\bin\Debug\net5.0\appsettings.json
+C:\Users\tokol\Downloads\API Code - v1 Iteration 7-20220817T182058Z-001\API Code - v1 Iteration 7\team40_iteration6_user\bin\Debug\net5.0\team40_iteration6_user.StaticWebAssets.xml
+C:\Users\tokol\Downloads\API Code - v1 Iteration 7-20220817T182058Z-001\API Code - v1 Iteration 7\team40_iteration6_user\bin\Debug\net5.0\team40_iteration6_user.exe
+C:\Users\tokol\Downloads\API Code - v1 Iteration 7-20220817T182058Z-001\API Code - v1 Iteration 7\team40_iteration6_user\bin\Debug\net5.0\team40_iteration6_user.deps.json
+C:\Users\tokol\Downloads\API Code - v1 Iteration 7-20220817T182058Z-001\API Code - v1 Iteration 7\team40_iteration6_user\bin\Debug\net5.0\team40_iteration6_user.runtimeconfig.json
+C:\Users\tokol\Downloads\API Code - v1 Iteration 7-20220817T182058Z-001\API Code - v1 Iteration 7\team40_iteration6_user\bin\Debug\net5.0\team40_iteration6_user.runtimeconfig.dev.json
+C:\Users\tokol\Downloads\API Code - v1 Iteration 7-20220817T182058Z-001\API Code - v1 Iteration 7\team40_iteration6_user\bin\Debug\net5.0\team40_iteration6_user.dll
+C:\Users\tokol\Downloads\API Code - v1 Iteration 7-20220817T182058Z-001\API Code - v1 Iteration 7\team40_iteration6_user\bin\Debug\net5.0\team40_iteration6_user.pdb
+C:\Users\tokol\Downloads\API Code - v1 Iteration 7-20220817T182058Z-001\API Code - v1 Iteration 7\team40_iteration6_user\bin\Debug\net5.0\Humanizer.dll
+C:\Users\tokol\Downloads\API Code - v1 Iteration 7-20220817T182058Z-001\API Code - v1 Iteration 7\team40_iteration6_user\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\tokol\Downloads\API Code - v1 Iteration 7-20220817T182058Z-001\API Code - v1 Iteration 7\team40_iteration6_user\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\tokol\Downloads\API Code - v1 Iteration 7-20220817T182058Z-001\API Code - v1 Iteration 7\team40_iteration6_user\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\tokol\Downloads\API Code - v1 Iteration 7-20220817T182058Z-001\API Code - v1 Iteration 7\team40_iteration6_user\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\tokol\Downloads\API Code - v1 Iteration 7-20220817T182058Z-001\API Code - v1 Iteration 7\team40_iteration6_user\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\tokol\Downloads\API Code - v1 Iteration 7-20220817T182058Z-001\API Code - v1 Iteration 7\team40_iteration6_user\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\tokol\Downloads\API Code - v1 Iteration 7-20220817T182058Z-001\API Code - v1 Iteration 7\team40_iteration6_user\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\tokol\Downloads\API Code - v1 Iteration 7-20220817T182058Z-001\API Code - v1 Iteration 7\team40_iteration6_user\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\tokol\Downloads\API Code - v1 Iteration 7-20220817T182058Z-001\API Code - v1 Iteration 7\team40_iteration6_user\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\tokol\Downloads\API Code - v1 Iteration 7-20220817T182058Z-001\API Code - v1 Iteration 7\team40_iteration6_user\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\tokol\Downloads\API Code - v1 Iteration 7-20220817T182058Z-001\API Code - v1 Iteration 7\team40_iteration6_user\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\tokol\Downloads\API Code - v1 Iteration 7-20220817T182058Z-001\API Code - v1 Iteration 7\team40_iteration6_user\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\tokol\Downloads\API Code - v1 Iteration 7-20220817T182058Z-001\API Code - v1 Iteration 7\team40_iteration6_user\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\tokol\Downloads\API Code - v1 Iteration 7-20220817T182058Z-001\API Code - v1 Iteration 7\team40_iteration6_user\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\tokol\Downloads\API Code - v1 Iteration 7-20220817T182058Z-001\API Code - v1 Iteration 7\team40_iteration6_user\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\tokol\Downloads\API Code - v1 Iteration 7-20220817T182058Z-001\API Code - v1 Iteration 7\team40_iteration6_user\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\tokol\Downloads\API Code - v1 Iteration 7-20220817T182058Z-001\API Code - v1 Iteration 7\team40_iteration6_user\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\tokol\Downloads\API Code - v1 Iteration 7-20220817T182058Z-001\API Code - v1 Iteration 7\team40_iteration6_user\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\tokol\Downloads\API Code - v1 Iteration 7-20220817T182058Z-001\API Code - v1 Iteration 7\team40_iteration6_user\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\tokol\Downloads\API Code - v1 Iteration 7-20220817T182058Z-001\API Code - v1 Iteration 7\team40_iteration6_user\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\tokol\Downloads\API Code - v1 Iteration 7-20220817T182058Z-001\API Code - v1 Iteration 7\team40_iteration6_user\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\tokol\Downloads\API Code - v1 Iteration 7-20220817T182058Z-001\API Code - v1 Iteration 7\team40_iteration6_user\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\tokol\Downloads\API Code - v1 Iteration 7-20220817T182058Z-001\API Code - v1 Iteration 7\team40_iteration6_user\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\tokol\Downloads\API Code - v1 Iteration 7-20220817T182058Z-001\API Code - v1 Iteration 7\team40_iteration6_user\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\tokol\Downloads\API Code - v1 Iteration 7-20220817T182058Z-001\API Code - v1 Iteration 7\team40_iteration6_user\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\tokol\Downloads\API Code - v1 Iteration 7-20220817T182058Z-001\API Code - v1 Iteration 7\team40_iteration6_user\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tokol\Downloads\API Code - v1 Iteration 7-20220817T182058Z-001\API Code - v1 Iteration 7\team40_iteration6_user\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\tokol\Downloads\API Code - v1 Iteration 7-20220817T182058Z-001\API Code - v1 Iteration 7\team40_iteration6_user\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tokol\Downloads\API Code - v1 Iteration 7-20220817T182058Z-001\API Code - v1 Iteration 7\team40_iteration6_user\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\tokol\Downloads\API Code - v1 Iteration 7-20220817T182058Z-001\API Code - v1 Iteration 7\team40_iteration6_user\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tokol\Downloads\API Code - v1 Iteration 7-20220817T182058Z-001\API Code - v1 Iteration 7\team40_iteration6_user\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\tokol\Downloads\API Code - v1 Iteration 7-20220817T182058Z-001\API Code - v1 Iteration 7\team40_iteration6_user\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tokol\Downloads\API Code - v1 Iteration 7-20220817T182058Z-001\API Code - v1 Iteration 7\team40_iteration6_user\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\tokol\Downloads\API Code - v1 Iteration 7-20220817T182058Z-001\API Code - v1 Iteration 7\team40_iteration6_user\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\tokol\Downloads\API Code - v1 Iteration 7-20220817T182058Z-001\API Code - v1 Iteration 7\team40_iteration6_user\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\tokol\Downloads\API Code - v1 Iteration 7-20220817T182058Z-001\API Code - v1 Iteration 7\team40_iteration6_user\obj\Debug\net5.0\team40_iteration6_user.csproj.AssemblyReference.cache
+C:\Users\tokol\Downloads\API Code - v1 Iteration 7-20220817T182058Z-001\API Code - v1 Iteration 7\team40_iteration6_user\obj\Debug\net5.0\team40_iteration6_user.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tokol\Downloads\API Code - v1 Iteration 7-20220817T182058Z-001\API Code - v1 Iteration 7\team40_iteration6_user\obj\Debug\net5.0\team40_iteration6_user.AssemblyInfoInputs.cache
+C:\Users\tokol\Downloads\API Code - v1 Iteration 7-20220817T182058Z-001\API Code - v1 Iteration 7\team40_iteration6_user\obj\Debug\net5.0\team40_iteration6_user.AssemblyInfo.cs
+C:\Users\tokol\Downloads\API Code - v1 Iteration 7-20220817T182058Z-001\API Code - v1 Iteration 7\team40_iteration6_user\obj\Debug\net5.0\team40_iteration6_user.csproj.CoreCompileInputs.cache
+C:\Users\tokol\Downloads\API Code - v1 Iteration 7-20220817T182058Z-001\API Code - v1 Iteration 7\team40_iteration6_user\obj\Debug\net5.0\team40_iteration6_user.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\tokol\Downloads\API Code - v1 Iteration 7-20220817T182058Z-001\API Code - v1 Iteration 7\team40_iteration6_user\obj\Debug\net5.0\team40_iteration6_user.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\tokol\Downloads\API Code - v1 Iteration 7-20220817T182058Z-001\API Code - v1 Iteration 7\team40_iteration6_user\obj\Debug\net5.0\scopedcss\bundle\team40_iteration6_user.styles.css
+C:\Users\tokol\Downloads\API Code - v1 Iteration 7-20220817T182058Z-001\API Code - v1 Iteration 7\team40_iteration6_user\obj\Debug\net5.0\staticwebassets\team40_iteration6_user.StaticWebAssets.Manifest.cache
+C:\Users\tokol\Downloads\API Code - v1 Iteration 7-20220817T182058Z-001\API Code - v1 Iteration 7\team40_iteration6_user\obj\Debug\net5.0\team40_iteration6_user.RazorTargetAssemblyInfo.cache
+C:\Users\tokol\Downloads\API Code - v1 Iteration 7-20220817T182058Z-001\API Code - v1 Iteration 7\team40_iteration6_user\obj\Debug\net5.0\team40_iteration6_user.csproj.CopyComplete
+C:\Users\tokol\Downloads\API Code - v1 Iteration 7-20220817T182058Z-001\API Code - v1 Iteration 7\team40_iteration6_user\obj\Debug\net5.0\team40_iteration6_user.dll
+C:\Users\tokol\Downloads\API Code - v1 Iteration 7-20220817T182058Z-001\API Code - v1 Iteration 7\team40_iteration6_user\obj\Debug\net5.0\refint\team40_iteration6_user.dll
+C:\Users\tokol\Downloads\API Code - v1 Iteration 7-20220817T182058Z-001\API Code - v1 Iteration 7\team40_iteration6_user\obj\Debug\net5.0\team40_iteration6_user.pdb
+C:\Users\tokol\Downloads\API Code - v1 Iteration 7-20220817T182058Z-001\API Code - v1 Iteration 7\team40_iteration6_user\obj\Debug\net5.0\team40_iteration6_user.genruntimeconfig.cache
+C:\Users\tokol\Downloads\API Code - v1 Iteration 7-20220817T182058Z-001\API Code - v1 Iteration 7\team40_iteration6_user\obj\Debug\net5.0\ref\team40_iteration6_user.dll
+C:\Users\tokol\Downloads\API Code - v1 Iteration 7-20220817T182058Z-001\API Code - v1 Iteration 7\team40_iteration6_user\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\tokol\Downloads\API Code - v1 Iteration 7-20220817T182058Z-001\API Code - v1 Iteration 7\team40_iteration6_user\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\tokol\Downloads\API Code - v1 Iteration 7-20220817T182058Z-001\API Code - v1 Iteration 7\team40_iteration6_user\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\tokol\Downloads\API Code - v1 Iteration 7-20220817T182058Z-001\API Code - v1 Iteration 7\team40_iteration6_user\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\tokol\Downloads\API Code - v1 Iteration 7-20220817T182058Z-001\API Code - v1 Iteration 7\team40_iteration6_user\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\tokol\Downloads\API Code - v1 Iteration 7-20220817T182058Z-001\API Code - v1 Iteration 7\team40_iteration6_user\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\tokol\Downloads\API Code - v1 Iteration 7-20220817T182058Z-001\API Code - v1 Iteration 7\team40_iteration6_user\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\tokol\Downloads\API Code - v1 Iteration 7-20220817T182058Z-001\API Code - v1 Iteration 7\team40_iteration6_user\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\tokol\Downloads\API Code - v1 Iteration 7-20220817T182058Z-001\API Code - v1 Iteration 7\team40_iteration6_user\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\tokol\Downloads\API Code - v1 Iteration 7-20220817T182058Z-001\API Code - v1 Iteration 7\team40_iteration6_user\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\tokol\Downloads\API Code - v1 Iteration 7-20220817T182058Z-001\API Code - v1 Iteration 7\team40_iteration6_user\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\tokol\Downloads\API Code - v1 Iteration 7-20220817T182058Z-001\API Code - v1 Iteration 7\team40_iteration6_user\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\tokol\Downloads\API Code - v1 Iteration 7-20220817T182058Z-001\API Code - v1 Iteration 7\team40_iteration6_user\obj\Debug\net5.0\staticwebassets\team40_iteration6_user.StaticWebAssets.xml
+C:\Users\User\Downloads\API Code - T Bapela\API Code - T Bapela\team40_iteration6_user\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\User\Downloads\API Code - T Bapela\API Code - T Bapela\team40_iteration6_user\bin\Debug\net5.0\appsettings.json
+C:\Users\User\Downloads\API Code - T Bapela\API Code - T Bapela\team40_iteration6_user\bin\Debug\net5.0\team40_iteration6_user.StaticWebAssets.xml
+C:\Users\User\Downloads\API Code - T Bapela\API Code - T Bapela\team40_iteration6_user\bin\Debug\net5.0\team40_iteration6_user.exe
+C:\Users\User\Downloads\API Code - T Bapela\API Code - T Bapela\team40_iteration6_user\bin\Debug\net5.0\team40_iteration6_user.deps.json
+C:\Users\User\Downloads\API Code - T Bapela\API Code - T Bapela\team40_iteration6_user\bin\Debug\net5.0\team40_iteration6_user.runtimeconfig.json
+C:\Users\User\Downloads\API Code - T Bapela\API Code - T Bapela\team40_iteration6_user\bin\Debug\net5.0\team40_iteration6_user.runtimeconfig.dev.json
+C:\Users\User\Downloads\API Code - T Bapela\API Code - T Bapela\team40_iteration6_user\bin\Debug\net5.0\team40_iteration6_user.dll
+C:\Users\User\Downloads\API Code - T Bapela\API Code - T Bapela\team40_iteration6_user\bin\Debug\net5.0\ref\team40_iteration6_user.dll
+C:\Users\User\Downloads\API Code - T Bapela\API Code - T Bapela\team40_iteration6_user\bin\Debug\net5.0\team40_iteration6_user.pdb
+C:\Users\User\Downloads\API Code - T Bapela\API Code - T Bapela\team40_iteration6_user\bin\Debug\net5.0\Humanizer.dll
+C:\Users\User\Downloads\API Code - T Bapela\API Code - T Bapela\team40_iteration6_user\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\User\Downloads\API Code - T Bapela\API Code - T Bapela\team40_iteration6_user\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\User\Downloads\API Code - T Bapela\API Code - T Bapela\team40_iteration6_user\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\User\Downloads\API Code - T Bapela\API Code - T Bapela\team40_iteration6_user\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\User\Downloads\API Code - T Bapela\API Code - T Bapela\team40_iteration6_user\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\User\Downloads\API Code - T Bapela\API Code - T Bapela\team40_iteration6_user\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\User\Downloads\API Code - T Bapela\API Code - T Bapela\team40_iteration6_user\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\User\Downloads\API Code - T Bapela\API Code - T Bapela\team40_iteration6_user\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\User\Downloads\API Code - T Bapela\API Code - T Bapela\team40_iteration6_user\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\User\Downloads\API Code - T Bapela\API Code - T Bapela\team40_iteration6_user\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\Downloads\API Code - T Bapela\API Code - T Bapela\team40_iteration6_user\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\Downloads\API Code - T Bapela\API Code - T Bapela\team40_iteration6_user\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\User\Downloads\API Code - T Bapela\API Code - T Bapela\team40_iteration6_user\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\Downloads\API Code - T Bapela\API Code - T Bapela\team40_iteration6_user\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\User\Downloads\API Code - T Bapela\API Code - T Bapela\team40_iteration6_user\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\Downloads\API Code - T Bapela\API Code - T Bapela\team40_iteration6_user\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\User\Downloads\API Code - T Bapela\API Code - T Bapela\team40_iteration6_user\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\User\Downloads\API Code - T Bapela\API Code - T Bapela\team40_iteration6_user\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\User\Downloads\API Code - T Bapela\API Code - T Bapela\team40_iteration6_user\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\User\Downloads\API Code - T Bapela\API Code - T Bapela\team40_iteration6_user\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\Downloads\API Code - T Bapela\API Code - T Bapela\team40_iteration6_user\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\Downloads\API Code - T Bapela\API Code - T Bapela\team40_iteration6_user\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User\Downloads\API Code - T Bapela\API Code - T Bapela\team40_iteration6_user\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User\Downloads\API Code - T Bapela\API Code - T Bapela\team40_iteration6_user\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\Downloads\API Code - T Bapela\API Code - T Bapela\team40_iteration6_user\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\User\Downloads\API Code - T Bapela\API Code - T Bapela\team40_iteration6_user\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\User\Downloads\API Code - T Bapela\API Code - T Bapela\team40_iteration6_user\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\User\Downloads\API Code - T Bapela\API Code - T Bapela\team40_iteration6_user\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\User\Downloads\API Code - T Bapela\API Code - T Bapela\team40_iteration6_user\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\User\Downloads\API Code - T Bapela\API Code - T Bapela\team40_iteration6_user\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\User\Downloads\API Code - T Bapela\API Code - T Bapela\team40_iteration6_user\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\User\Downloads\API Code - T Bapela\API Code - T Bapela\team40_iteration6_user\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Downloads\API Code - T Bapela\API Code - T Bapela\team40_iteration6_user\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\Downloads\API Code - T Bapela\API Code - T Bapela\team40_iteration6_user\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\User\Downloads\API Code - T Bapela\API Code - T Bapela\team40_iteration6_user\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Downloads\API Code - T Bapela\API Code - T Bapela\team40_iteration6_user\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Downloads\API Code - T Bapela\API Code - T Bapela\team40_iteration6_user\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Downloads\API Code - T Bapela\API Code - T Bapela\team40_iteration6_user\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Downloads\API Code - T Bapela\API Code - T Bapela\team40_iteration6_user\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Downloads\API Code - T Bapela\API Code - T Bapela\team40_iteration6_user\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Downloads\API Code - T Bapela\API Code - T Bapela\team40_iteration6_user\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Downloads\API Code - T Bapela\API Code - T Bapela\team40_iteration6_user\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Downloads\API Code - T Bapela\API Code - T Bapela\team40_iteration6_user\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Downloads\API Code - T Bapela\API Code - T Bapela\team40_iteration6_user\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Downloads\API Code - T Bapela\API Code - T Bapela\team40_iteration6_user\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Downloads\API Code - T Bapela\API Code - T Bapela\team40_iteration6_user\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\User\Downloads\API Code - T Bapela\API Code - T Bapela\team40_iteration6_user\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Downloads\API Code - T Bapela\API Code - T Bapela\team40_iteration6_user\obj\Debug\net5.0\team40_iteration6_user.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\API Code - T Bapela\API Code - T Bapela\team40_iteration6_user\obj\Debug\net5.0\team40_iteration6_user.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\API Code - T Bapela\API Code - T Bapela\team40_iteration6_user\obj\Debug\net5.0\team40_iteration6_user.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\API Code - T Bapela\API Code - T Bapela\team40_iteration6_user\obj\Debug\net5.0\team40_iteration6_user.AssemblyInfo.cs
+C:\Users\User\Downloads\API Code - T Bapela\API Code - T Bapela\team40_iteration6_user\obj\Debug\net5.0\team40_iteration6_user.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\API Code - T Bapela\API Code - T Bapela\team40_iteration6_user\obj\Debug\net5.0\team40_iteration6_user.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\Downloads\API Code - T Bapela\API Code - T Bapela\team40_iteration6_user\obj\Debug\net5.0\team40_iteration6_user.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Downloads\API Code - T Bapela\API Code - T Bapela\team40_iteration6_user\obj\Debug\net5.0\staticwebassets\team40_iteration6_user.StaticWebAssets.Manifest.cache
+C:\Users\User\Downloads\API Code - T Bapela\API Code - T Bapela\team40_iteration6_user\obj\Debug\net5.0\staticwebassets\team40_iteration6_user.StaticWebAssets.xml
+C:\Users\User\Downloads\API Code - T Bapela\API Code - T Bapela\team40_iteration6_user\obj\Debug\net5.0\scopedcss\bundle\team40_iteration6_user.styles.css
+C:\Users\User\Downloads\API Code - T Bapela\API Code - T Bapela\team40_iteration6_user\obj\Debug\net5.0\team40_iteration6_user.RazorTargetAssemblyInfo.cache
+C:\Users\User\Downloads\API Code - T Bapela\API Code - T Bapela\team40_iteration6_user\obj\Debug\net5.0\team40_iteration6_user.csproj.CopyComplete
+C:\Users\User\Downloads\API Code - T Bapela\API Code - T Bapela\team40_iteration6_user\obj\Debug\net5.0\team40_iteration6_user.dll
+C:\Users\User\Downloads\API Code - T Bapela\API Code - T Bapela\team40_iteration6_user\obj\Debug\net5.0\ref\team40_iteration6_user.dll
+C:\Users\User\Downloads\API Code - T Bapela\API Code - T Bapela\team40_iteration6_user\obj\Debug\net5.0\team40_iteration6_user.pdb
+C:\Users\User\Downloads\API Code - T Bapela\API Code - T Bapela\team40_iteration6_user\obj\Debug\net5.0\team40_iteration6_user.genruntimeconfig.cache
+C:\Users\User\Documents\INF370\Code\Iteration8\API Code - T Bapela\API Code - T Bapela\team40_iteration6_user\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\User\Documents\INF370\Code\Iteration8\API Code - T Bapela\API Code - T Bapela\team40_iteration6_user\bin\Debug\net5.0\appsettings.json
+C:\Users\User\Documents\INF370\Code\Iteration8\API Code - T Bapela\API Code - T Bapela\team40_iteration6_user\bin\Debug\net5.0\team40_iteration6_user.StaticWebAssets.xml
+C:\Users\User\Documents\INF370\Code\Iteration8\API Code - T Bapela\API Code - T Bapela\team40_iteration6_user\bin\Debug\net5.0\team40_iteration6_user.exe
+C:\Users\User\Documents\INF370\Code\Iteration8\API Code - T Bapela\API Code - T Bapela\team40_iteration6_user\bin\Debug\net5.0\team40_iteration6_user.deps.json
+C:\Users\User\Documents\INF370\Code\Iteration8\API Code - T Bapela\API Code - T Bapela\team40_iteration6_user\bin\Debug\net5.0\team40_iteration6_user.runtimeconfig.json
+C:\Users\User\Documents\INF370\Code\Iteration8\API Code - T Bapela\API Code - T Bapela\team40_iteration6_user\bin\Debug\net5.0\team40_iteration6_user.runtimeconfig.dev.json
+C:\Users\User\Documents\INF370\Code\Iteration8\API Code - T Bapela\API Code - T Bapela\team40_iteration6_user\bin\Debug\net5.0\team40_iteration6_user.dll
+C:\Users\User\Documents\INF370\Code\Iteration8\API Code - T Bapela\API Code - T Bapela\team40_iteration6_user\bin\Debug\net5.0\ref\team40_iteration6_user.dll
+C:\Users\User\Documents\INF370\Code\Iteration8\API Code - T Bapela\API Code - T Bapela\team40_iteration6_user\bin\Debug\net5.0\team40_iteration6_user.pdb
+C:\Users\User\Documents\INF370\Code\Iteration8\API Code - T Bapela\API Code - T Bapela\team40_iteration6_user\bin\Debug\net5.0\Humanizer.dll
+C:\Users\User\Documents\INF370\Code\Iteration8\API Code - T Bapela\API Code - T Bapela\team40_iteration6_user\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\User\Documents\INF370\Code\Iteration8\API Code - T Bapela\API Code - T Bapela\team40_iteration6_user\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\User\Documents\INF370\Code\Iteration8\API Code - T Bapela\API Code - T Bapela\team40_iteration6_user\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\User\Documents\INF370\Code\Iteration8\API Code - T Bapela\API Code - T Bapela\team40_iteration6_user\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\User\Documents\INF370\Code\Iteration8\API Code - T Bapela\API Code - T Bapela\team40_iteration6_user\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\User\Documents\INF370\Code\Iteration8\API Code - T Bapela\API Code - T Bapela\team40_iteration6_user\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\User\Documents\INF370\Code\Iteration8\API Code - T Bapela\API Code - T Bapela\team40_iteration6_user\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\User\Documents\INF370\Code\Iteration8\API Code - T Bapela\API Code - T Bapela\team40_iteration6_user\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\User\Documents\INF370\Code\Iteration8\API Code - T Bapela\API Code - T Bapela\team40_iteration6_user\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\User\Documents\INF370\Code\Iteration8\API Code - T Bapela\API Code - T Bapela\team40_iteration6_user\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\Documents\INF370\Code\Iteration8\API Code - T Bapela\API Code - T Bapela\team40_iteration6_user\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\Documents\INF370\Code\Iteration8\API Code - T Bapela\API Code - T Bapela\team40_iteration6_user\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\User\Documents\INF370\Code\Iteration8\API Code - T Bapela\API Code - T Bapela\team40_iteration6_user\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\Documents\INF370\Code\Iteration8\API Code - T Bapela\API Code - T Bapela\team40_iteration6_user\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\User\Documents\INF370\Code\Iteration8\API Code - T Bapela\API Code - T Bapela\team40_iteration6_user\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\Documents\INF370\Code\Iteration8\API Code - T Bapela\API Code - T Bapela\team40_iteration6_user\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\User\Documents\INF370\Code\Iteration8\API Code - T Bapela\API Code - T Bapela\team40_iteration6_user\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\User\Documents\INF370\Code\Iteration8\API Code - T Bapela\API Code - T Bapela\team40_iteration6_user\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\User\Documents\INF370\Code\Iteration8\API Code - T Bapela\API Code - T Bapela\team40_iteration6_user\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\User\Documents\INF370\Code\Iteration8\API Code - T Bapela\API Code - T Bapela\team40_iteration6_user\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\Documents\INF370\Code\Iteration8\API Code - T Bapela\API Code - T Bapela\team40_iteration6_user\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\Documents\INF370\Code\Iteration8\API Code - T Bapela\API Code - T Bapela\team40_iteration6_user\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User\Documents\INF370\Code\Iteration8\API Code - T Bapela\API Code - T Bapela\team40_iteration6_user\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User\Documents\INF370\Code\Iteration8\API Code - T Bapela\API Code - T Bapela\team40_iteration6_user\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\Documents\INF370\Code\Iteration8\API Code - T Bapela\API Code - T Bapela\team40_iteration6_user\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\User\Documents\INF370\Code\Iteration8\API Code - T Bapela\API Code - T Bapela\team40_iteration6_user\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\User\Documents\INF370\Code\Iteration8\API Code - T Bapela\API Code - T Bapela\team40_iteration6_user\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\User\Documents\INF370\Code\Iteration8\API Code - T Bapela\API Code - T Bapela\team40_iteration6_user\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\User\Documents\INF370\Code\Iteration8\API Code - T Bapela\API Code - T Bapela\team40_iteration6_user\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\User\Documents\INF370\Code\Iteration8\API Code - T Bapela\API Code - T Bapela\team40_iteration6_user\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\User\Documents\INF370\Code\Iteration8\API Code - T Bapela\API Code - T Bapela\team40_iteration6_user\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\User\Documents\INF370\Code\Iteration8\API Code - T Bapela\API Code - T Bapela\team40_iteration6_user\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Documents\INF370\Code\Iteration8\API Code - T Bapela\API Code - T Bapela\team40_iteration6_user\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\Documents\INF370\Code\Iteration8\API Code - T Bapela\API Code - T Bapela\team40_iteration6_user\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\User\Documents\INF370\Code\Iteration8\API Code - T Bapela\API Code - T Bapela\team40_iteration6_user\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Documents\INF370\Code\Iteration8\API Code - T Bapela\API Code - T Bapela\team40_iteration6_user\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Documents\INF370\Code\Iteration8\API Code - T Bapela\API Code - T Bapela\team40_iteration6_user\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Documents\INF370\Code\Iteration8\API Code - T Bapela\API Code - T Bapela\team40_iteration6_user\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Documents\INF370\Code\Iteration8\API Code - T Bapela\API Code - T Bapela\team40_iteration6_user\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Documents\INF370\Code\Iteration8\API Code - T Bapela\API Code - T Bapela\team40_iteration6_user\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Documents\INF370\Code\Iteration8\API Code - T Bapela\API Code - T Bapela\team40_iteration6_user\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Documents\INF370\Code\Iteration8\API Code - T Bapela\API Code - T Bapela\team40_iteration6_user\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Documents\INF370\Code\Iteration8\API Code - T Bapela\API Code - T Bapela\team40_iteration6_user\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Documents\INF370\Code\Iteration8\API Code - T Bapela\API Code - T Bapela\team40_iteration6_user\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Documents\INF370\Code\Iteration8\API Code - T Bapela\API Code - T Bapela\team40_iteration6_user\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Documents\INF370\Code\Iteration8\API Code - T Bapela\API Code - T Bapela\team40_iteration6_user\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\User\Documents\INF370\Code\Iteration8\API Code - T Bapela\API Code - T Bapela\team40_iteration6_user\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Documents\INF370\Code\Iteration8\API Code - T Bapela\API Code - T Bapela\team40_iteration6_user\obj\Debug\net5.0\team40_iteration6_user.csproj.AssemblyReference.cache
+C:\Users\User\Documents\INF370\Code\Iteration8\API Code - T Bapela\API Code - T Bapela\team40_iteration6_user\obj\Debug\net5.0\team40_iteration6_user.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\INF370\Code\Iteration8\API Code - T Bapela\API Code - T Bapela\team40_iteration6_user\obj\Debug\net5.0\team40_iteration6_user.AssemblyInfoInputs.cache
+C:\Users\User\Documents\INF370\Code\Iteration8\API Code - T Bapela\API Code - T Bapela\team40_iteration6_user\obj\Debug\net5.0\team40_iteration6_user.AssemblyInfo.cs
+C:\Users\User\Documents\INF370\Code\Iteration8\API Code - T Bapela\API Code - T Bapela\team40_iteration6_user\obj\Debug\net5.0\team40_iteration6_user.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\INF370\Code\Iteration8\API Code - T Bapela\API Code - T Bapela\team40_iteration6_user\obj\Debug\net5.0\team40_iteration6_user.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\Documents\INF370\Code\Iteration8\API Code - T Bapela\API Code - T Bapela\team40_iteration6_user\obj\Debug\net5.0\team40_iteration6_user.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Documents\INF370\Code\Iteration8\API Code - T Bapela\API Code - T Bapela\team40_iteration6_user\obj\Debug\net5.0\staticwebassets\team40_iteration6_user.StaticWebAssets.Manifest.cache
+C:\Users\User\Documents\INF370\Code\Iteration8\API Code - T Bapela\API Code - T Bapela\team40_iteration6_user\obj\Debug\net5.0\staticwebassets\team40_iteration6_user.StaticWebAssets.xml
+C:\Users\User\Documents\INF370\Code\Iteration8\API Code - T Bapela\API Code - T Bapela\team40_iteration6_user\obj\Debug\net5.0\scopedcss\bundle\team40_iteration6_user.styles.css
+C:\Users\User\Documents\INF370\Code\Iteration8\API Code - T Bapela\API Code - T Bapela\team40_iteration6_user\obj\Debug\net5.0\team40_iteration6_user.RazorTargetAssemblyInfo.cache
+C:\Users\User\Documents\INF370\Code\Iteration8\API Code - T Bapela\API Code - T Bapela\team40_iteration6_user\obj\Debug\net5.0\team40_iteration6_user.csproj.CopyComplete
+C:\Users\User\Documents\INF370\Code\Iteration8\API Code - T Bapela\API Code - T Bapela\team40_iteration6_user\obj\Debug\net5.0\team40_iteration6_user.dll
+C:\Users\User\Documents\INF370\Code\Iteration8\API Code - T Bapela\API Code - T Bapela\team40_iteration6_user\obj\Debug\net5.0\ref\team40_iteration6_user.dll
+C:\Users\User\Documents\INF370\Code\Iteration8\API Code - T Bapela\API Code - T Bapela\team40_iteration6_user\obj\Debug\net5.0\team40_iteration6_user.pdb
+C:\Users\User\Documents\INF370\Code\Iteration8\API Code - T Bapela\API Code - T Bapela\team40_iteration6_user\obj\Debug\net5.0\team40_iteration6_user.genruntimeconfig.cache
+C:\Users\User\Documents\INF370\Code\Iteration8\team40-main\api\team40_iteration6_user\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\User\Documents\INF370\Code\Iteration8\team40-main\api\team40_iteration6_user\bin\Debug\net5.0\appsettings.json
+C:\Users\User\Documents\INF370\Code\Iteration8\team40-main\api\team40_iteration6_user\bin\Debug\net5.0\team40_iteration6_user.StaticWebAssets.xml
+C:\Users\User\Documents\INF370\Code\Iteration8\team40-main\api\team40_iteration6_user\bin\Debug\net5.0\team40_iteration6_user.exe
+C:\Users\User\Documents\INF370\Code\Iteration8\team40-main\api\team40_iteration6_user\bin\Debug\net5.0\team40_iteration6_user.deps.json
+C:\Users\User\Documents\INF370\Code\Iteration8\team40-main\api\team40_iteration6_user\bin\Debug\net5.0\team40_iteration6_user.runtimeconfig.json
+C:\Users\User\Documents\INF370\Code\Iteration8\team40-main\api\team40_iteration6_user\bin\Debug\net5.0\team40_iteration6_user.runtimeconfig.dev.json
+C:\Users\User\Documents\INF370\Code\Iteration8\team40-main\api\team40_iteration6_user\bin\Debug\net5.0\team40_iteration6_user.dll
+C:\Users\User\Documents\INF370\Code\Iteration8\team40-main\api\team40_iteration6_user\bin\Debug\net5.0\ref\team40_iteration6_user.dll
+C:\Users\User\Documents\INF370\Code\Iteration8\team40-main\api\team40_iteration6_user\bin\Debug\net5.0\team40_iteration6_user.pdb
+C:\Users\User\Documents\INF370\Code\Iteration8\team40-main\api\team40_iteration6_user\bin\Debug\net5.0\Humanizer.dll
+C:\Users\User\Documents\INF370\Code\Iteration8\team40-main\api\team40_iteration6_user\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\User\Documents\INF370\Code\Iteration8\team40-main\api\team40_iteration6_user\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\User\Documents\INF370\Code\Iteration8\team40-main\api\team40_iteration6_user\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\User\Documents\INF370\Code\Iteration8\team40-main\api\team40_iteration6_user\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\User\Documents\INF370\Code\Iteration8\team40-main\api\team40_iteration6_user\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\User\Documents\INF370\Code\Iteration8\team40-main\api\team40_iteration6_user\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\User\Documents\INF370\Code\Iteration8\team40-main\api\team40_iteration6_user\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\User\Documents\INF370\Code\Iteration8\team40-main\api\team40_iteration6_user\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\User\Documents\INF370\Code\Iteration8\team40-main\api\team40_iteration6_user\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\User\Documents\INF370\Code\Iteration8\team40-main\api\team40_iteration6_user\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\Documents\INF370\Code\Iteration8\team40-main\api\team40_iteration6_user\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\Documents\INF370\Code\Iteration8\team40-main\api\team40_iteration6_user\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\User\Documents\INF370\Code\Iteration8\team40-main\api\team40_iteration6_user\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\Documents\INF370\Code\Iteration8\team40-main\api\team40_iteration6_user\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\User\Documents\INF370\Code\Iteration8\team40-main\api\team40_iteration6_user\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\Documents\INF370\Code\Iteration8\team40-main\api\team40_iteration6_user\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\User\Documents\INF370\Code\Iteration8\team40-main\api\team40_iteration6_user\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\User\Documents\INF370\Code\Iteration8\team40-main\api\team40_iteration6_user\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\User\Documents\INF370\Code\Iteration8\team40-main\api\team40_iteration6_user\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\User\Documents\INF370\Code\Iteration8\team40-main\api\team40_iteration6_user\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\Documents\INF370\Code\Iteration8\team40-main\api\team40_iteration6_user\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\Documents\INF370\Code\Iteration8\team40-main\api\team40_iteration6_user\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User\Documents\INF370\Code\Iteration8\team40-main\api\team40_iteration6_user\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User\Documents\INF370\Code\Iteration8\team40-main\api\team40_iteration6_user\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\Documents\INF370\Code\Iteration8\team40-main\api\team40_iteration6_user\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\User\Documents\INF370\Code\Iteration8\team40-main\api\team40_iteration6_user\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\User\Documents\INF370\Code\Iteration8\team40-main\api\team40_iteration6_user\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\User\Documents\INF370\Code\Iteration8\team40-main\api\team40_iteration6_user\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\User\Documents\INF370\Code\Iteration8\team40-main\api\team40_iteration6_user\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\User\Documents\INF370\Code\Iteration8\team40-main\api\team40_iteration6_user\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\User\Documents\INF370\Code\Iteration8\team40-main\api\team40_iteration6_user\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\User\Documents\INF370\Code\Iteration8\team40-main\api\team40_iteration6_user\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Documents\INF370\Code\Iteration8\team40-main\api\team40_iteration6_user\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\Documents\INF370\Code\Iteration8\team40-main\api\team40_iteration6_user\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\User\Documents\INF370\Code\Iteration8\team40-main\api\team40_iteration6_user\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Documents\INF370\Code\Iteration8\team40-main\api\team40_iteration6_user\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Documents\INF370\Code\Iteration8\team40-main\api\team40_iteration6_user\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Documents\INF370\Code\Iteration8\team40-main\api\team40_iteration6_user\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Documents\INF370\Code\Iteration8\team40-main\api\team40_iteration6_user\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Documents\INF370\Code\Iteration8\team40-main\api\team40_iteration6_user\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Documents\INF370\Code\Iteration8\team40-main\api\team40_iteration6_user\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Documents\INF370\Code\Iteration8\team40-main\api\team40_iteration6_user\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Documents\INF370\Code\Iteration8\team40-main\api\team40_iteration6_user\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Documents\INF370\Code\Iteration8\team40-main\api\team40_iteration6_user\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Documents\INF370\Code\Iteration8\team40-main\api\team40_iteration6_user\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Documents\INF370\Code\Iteration8\team40-main\api\team40_iteration6_user\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\User\Documents\INF370\Code\Iteration8\team40-main\api\team40_iteration6_user\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Documents\INF370\Code\Iteration8\team40-main\api\team40_iteration6_user\obj\Debug\net5.0\team40_iteration6_user.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\INF370\Code\Iteration8\team40-main\api\team40_iteration6_user\obj\Debug\net5.0\team40_iteration6_user.AssemblyInfoInputs.cache
+C:\Users\User\Documents\INF370\Code\Iteration8\team40-main\api\team40_iteration6_user\obj\Debug\net5.0\team40_iteration6_user.AssemblyInfo.cs
+C:\Users\User\Documents\INF370\Code\Iteration8\team40-main\api\team40_iteration6_user\obj\Debug\net5.0\team40_iteration6_user.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\INF370\Code\Iteration8\team40-main\api\team40_iteration6_user\obj\Debug\net5.0\team40_iteration6_user.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\Documents\INF370\Code\Iteration8\team40-main\api\team40_iteration6_user\obj\Debug\net5.0\team40_iteration6_user.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Documents\INF370\Code\Iteration8\team40-main\api\team40_iteration6_user\obj\Debug\net5.0\staticwebassets\team40_iteration6_user.StaticWebAssets.Manifest.cache
+C:\Users\User\Documents\INF370\Code\Iteration8\team40-main\api\team40_iteration6_user\obj\Debug\net5.0\staticwebassets\team40_iteration6_user.StaticWebAssets.xml
+C:\Users\User\Documents\INF370\Code\Iteration8\team40-main\api\team40_iteration6_user\obj\Debug\net5.0\scopedcss\bundle\team40_iteration6_user.styles.css
+C:\Users\User\Documents\INF370\Code\Iteration8\team40-main\api\team40_iteration6_user\obj\Debug\net5.0\team40_iteration6_user.RazorTargetAssemblyInfo.cache
+C:\Users\User\Documents\INF370\Code\Iteration8\team40-main\api\team40_iteration6_user\obj\Debug\net5.0\team40_iteration6_user.csproj.CopyComplete
+C:\Users\User\Documents\INF370\Code\Iteration8\team40-main\api\team40_iteration6_user\obj\Debug\net5.0\team40_iteration6_user.dll
+C:\Users\User\Documents\INF370\Code\Iteration8\team40-main\api\team40_iteration6_user\obj\Debug\net5.0\ref\team40_iteration6_user.dll
+C:\Users\User\Documents\INF370\Code\Iteration8\team40-main\api\team40_iteration6_user\obj\Debug\net5.0\team40_iteration6_user.pdb
+C:\Users\User\Documents\INF370\Code\Iteration8\team40-main\api\team40_iteration6_user\obj\Debug\net5.0\team40_iteration6_user.genruntimeconfig.cache
+C:\Users\User\Documents\INF370\Code\Iteration8\team40-main\api\team40_iteration6_user\obj\Debug\net5.0\team40_iteration6_user.csproj.AssemblyReference.cache
+C:\Users\User\Documents\INF370\Code\Iteration10\team40_iteration6_user\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\User\Documents\INF370\Code\Iteration10\team40_iteration6_user\bin\Debug\net5.0\appsettings.json
+C:\Users\User\Documents\INF370\Code\Iteration10\team40_iteration6_user\bin\Debug\net5.0\team40_iteration6_user.StaticWebAssets.xml
+C:\Users\User\Documents\INF370\Code\Iteration10\team40_iteration6_user\bin\Debug\net5.0\team40_iteration6_user.exe
+C:\Users\User\Documents\INF370\Code\Iteration10\team40_iteration6_user\bin\Debug\net5.0\team40_iteration6_user.deps.json
+C:\Users\User\Documents\INF370\Code\Iteration10\team40_iteration6_user\bin\Debug\net5.0\team40_iteration6_user.runtimeconfig.json
+C:\Users\User\Documents\INF370\Code\Iteration10\team40_iteration6_user\bin\Debug\net5.0\team40_iteration6_user.runtimeconfig.dev.json
+C:\Users\User\Documents\INF370\Code\Iteration10\team40_iteration6_user\bin\Debug\net5.0\team40_iteration6_user.dll
+C:\Users\User\Documents\INF370\Code\Iteration10\team40_iteration6_user\bin\Debug\net5.0\ref\team40_iteration6_user.dll
+C:\Users\User\Documents\INF370\Code\Iteration10\team40_iteration6_user\bin\Debug\net5.0\team40_iteration6_user.pdb
+C:\Users\User\Documents\INF370\Code\Iteration10\team40_iteration6_user\bin\Debug\net5.0\Humanizer.dll
+C:\Users\User\Documents\INF370\Code\Iteration10\team40_iteration6_user\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\User\Documents\INF370\Code\Iteration10\team40_iteration6_user\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\User\Documents\INF370\Code\Iteration10\team40_iteration6_user\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\User\Documents\INF370\Code\Iteration10\team40_iteration6_user\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\User\Documents\INF370\Code\Iteration10\team40_iteration6_user\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\User\Documents\INF370\Code\Iteration10\team40_iteration6_user\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\User\Documents\INF370\Code\Iteration10\team40_iteration6_user\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\User\Documents\INF370\Code\Iteration10\team40_iteration6_user\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\User\Documents\INF370\Code\Iteration10\team40_iteration6_user\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\User\Documents\INF370\Code\Iteration10\team40_iteration6_user\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\Documents\INF370\Code\Iteration10\team40_iteration6_user\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\Documents\INF370\Code\Iteration10\team40_iteration6_user\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\User\Documents\INF370\Code\Iteration10\team40_iteration6_user\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\Documents\INF370\Code\Iteration10\team40_iteration6_user\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\User\Documents\INF370\Code\Iteration10\team40_iteration6_user\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\Documents\INF370\Code\Iteration10\team40_iteration6_user\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\User\Documents\INF370\Code\Iteration10\team40_iteration6_user\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\User\Documents\INF370\Code\Iteration10\team40_iteration6_user\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\User\Documents\INF370\Code\Iteration10\team40_iteration6_user\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\User\Documents\INF370\Code\Iteration10\team40_iteration6_user\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\Documents\INF370\Code\Iteration10\team40_iteration6_user\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\Documents\INF370\Code\Iteration10\team40_iteration6_user\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User\Documents\INF370\Code\Iteration10\team40_iteration6_user\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User\Documents\INF370\Code\Iteration10\team40_iteration6_user\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\Documents\INF370\Code\Iteration10\team40_iteration6_user\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\User\Documents\INF370\Code\Iteration10\team40_iteration6_user\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\User\Documents\INF370\Code\Iteration10\team40_iteration6_user\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\User\Documents\INF370\Code\Iteration10\team40_iteration6_user\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\User\Documents\INF370\Code\Iteration10\team40_iteration6_user\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\User\Documents\INF370\Code\Iteration10\team40_iteration6_user\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\User\Documents\INF370\Code\Iteration10\team40_iteration6_user\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\User\Documents\INF370\Code\Iteration10\team40_iteration6_user\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Documents\INF370\Code\Iteration10\team40_iteration6_user\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\Documents\INF370\Code\Iteration10\team40_iteration6_user\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\User\Documents\INF370\Code\Iteration10\team40_iteration6_user\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Documents\INF370\Code\Iteration10\team40_iteration6_user\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Documents\INF370\Code\Iteration10\team40_iteration6_user\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Documents\INF370\Code\Iteration10\team40_iteration6_user\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Documents\INF370\Code\Iteration10\team40_iteration6_user\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Documents\INF370\Code\Iteration10\team40_iteration6_user\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Documents\INF370\Code\Iteration10\team40_iteration6_user\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Documents\INF370\Code\Iteration10\team40_iteration6_user\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Documents\INF370\Code\Iteration10\team40_iteration6_user\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Documents\INF370\Code\Iteration10\team40_iteration6_user\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Documents\INF370\Code\Iteration10\team40_iteration6_user\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Documents\INF370\Code\Iteration10\team40_iteration6_user\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\User\Documents\INF370\Code\Iteration10\team40_iteration6_user\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Documents\INF370\Code\Iteration10\team40_iteration6_user\obj\Debug\net5.0\team40_iteration6_user.csproj.AssemblyReference.cache
+C:\Users\User\Documents\INF370\Code\Iteration10\team40_iteration6_user\obj\Debug\net5.0\team40_iteration6_user.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\INF370\Code\Iteration10\team40_iteration6_user\obj\Debug\net5.0\team40_iteration6_user.AssemblyInfoInputs.cache
+C:\Users\User\Documents\INF370\Code\Iteration10\team40_iteration6_user\obj\Debug\net5.0\team40_iteration6_user.AssemblyInfo.cs
+C:\Users\User\Documents\INF370\Code\Iteration10\team40_iteration6_user\obj\Debug\net5.0\team40_iteration6_user.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\INF370\Code\Iteration10\team40_iteration6_user\obj\Debug\net5.0\team40_iteration6_user.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\Documents\INF370\Code\Iteration10\team40_iteration6_user\obj\Debug\net5.0\team40_iteration6_user.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Documents\INF370\Code\Iteration10\team40_iteration6_user\obj\Debug\net5.0\staticwebassets\team40_iteration6_user.StaticWebAssets.Manifest.cache
+C:\Users\User\Documents\INF370\Code\Iteration10\team40_iteration6_user\obj\Debug\net5.0\staticwebassets\team40_iteration6_user.StaticWebAssets.xml
+C:\Users\User\Documents\INF370\Code\Iteration10\team40_iteration6_user\obj\Debug\net5.0\scopedcss\bundle\team40_iteration6_user.styles.css
+C:\Users\User\Documents\INF370\Code\Iteration10\team40_iteration6_user\obj\Debug\net5.0\team40_iteration6_user.RazorTargetAssemblyInfo.cache
+C:\Users\User\Documents\INF370\Code\Iteration10\team40_iteration6_user\obj\Debug\net5.0\team40_iteration6_user.csproj.CopyComplete
+C:\Users\User\Documents\INF370\Code\Iteration10\team40_iteration6_user\obj\Debug\net5.0\team40_iteration6_user.dll
+C:\Users\User\Documents\INF370\Code\Iteration10\team40_iteration6_user\obj\Debug\net5.0\ref\team40_iteration6_user.dll
+C:\Users\User\Documents\INF370\Code\Iteration10\team40_iteration6_user\obj\Debug\net5.0\team40_iteration6_user.pdb
+C:\Users\User\Documents\INF370\Code\Iteration10\team40_iteration6_user\obj\Debug\net5.0\team40_iteration6_user.genruntimeconfig.cache
+C:\Users\User\Documents\INF370\Code\Iteration10\team40_iteration6_user\bin\Debug\net5.0\Audit.NET.dll
+C:\Users\User\Documents\INF370\Code\Iteration10\team40_iteration6_user\bin\Debug\net5.0\Audit.WebApi.dll
+C:\Users\User\Documents\INF370\Code\Iteration10\team40_iteration6_user\bin\Debug\net5.0\System.Text.Json.dll
+C:\Users\User\Documents\INF370\Code\Team40\team40_iteration6_user\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\User\Documents\INF370\Code\Team40\team40_iteration6_user\bin\Debug\net5.0\appsettings.json
+C:\Users\User\Documents\INF370\Code\Team40\team40_iteration6_user\bin\Debug\net5.0\team40_iteration6_user.StaticWebAssets.xml
+C:\Users\User\Documents\INF370\Code\Team40\team40_iteration6_user\bin\Debug\net5.0\team40_iteration6_user.exe
+C:\Users\User\Documents\INF370\Code\Team40\team40_iteration6_user\bin\Debug\net5.0\team40_iteration6_user.deps.json
+C:\Users\User\Documents\INF370\Code\Team40\team40_iteration6_user\bin\Debug\net5.0\team40_iteration6_user.runtimeconfig.json
+C:\Users\User\Documents\INF370\Code\Team40\team40_iteration6_user\bin\Debug\net5.0\team40_iteration6_user.runtimeconfig.dev.json
+C:\Users\User\Documents\INF370\Code\Team40\team40_iteration6_user\bin\Debug\net5.0\team40_iteration6_user.dll
+C:\Users\User\Documents\INF370\Code\Team40\team40_iteration6_user\bin\Debug\net5.0\ref\team40_iteration6_user.dll
+C:\Users\User\Documents\INF370\Code\Team40\team40_iteration6_user\bin\Debug\net5.0\team40_iteration6_user.pdb
+C:\Users\User\Documents\INF370\Code\Team40\team40_iteration6_user\bin\Debug\net5.0\Audit.NET.dll
+C:\Users\User\Documents\INF370\Code\Team40\team40_iteration6_user\bin\Debug\net5.0\Audit.WebApi.dll
+C:\Users\User\Documents\INF370\Code\Team40\team40_iteration6_user\bin\Debug\net5.0\Humanizer.dll
+C:\Users\User\Documents\INF370\Code\Team40\team40_iteration6_user\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\User\Documents\INF370\Code\Team40\team40_iteration6_user\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\User\Documents\INF370\Code\Team40\team40_iteration6_user\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\User\Documents\INF370\Code\Team40\team40_iteration6_user\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\User\Documents\INF370\Code\Team40\team40_iteration6_user\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\User\Documents\INF370\Code\Team40\team40_iteration6_user\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\User\Documents\INF370\Code\Team40\team40_iteration6_user\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\User\Documents\INF370\Code\Team40\team40_iteration6_user\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\User\Documents\INF370\Code\Team40\team40_iteration6_user\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\User\Documents\INF370\Code\Team40\team40_iteration6_user\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\Documents\INF370\Code\Team40\team40_iteration6_user\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\Documents\INF370\Code\Team40\team40_iteration6_user\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\User\Documents\INF370\Code\Team40\team40_iteration6_user\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\Documents\INF370\Code\Team40\team40_iteration6_user\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\User\Documents\INF370\Code\Team40\team40_iteration6_user\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\Documents\INF370\Code\Team40\team40_iteration6_user\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\User\Documents\INF370\Code\Team40\team40_iteration6_user\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\User\Documents\INF370\Code\Team40\team40_iteration6_user\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\User\Documents\INF370\Code\Team40\team40_iteration6_user\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\User\Documents\INF370\Code\Team40\team40_iteration6_user\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\Documents\INF370\Code\Team40\team40_iteration6_user\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\Documents\INF370\Code\Team40\team40_iteration6_user\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User\Documents\INF370\Code\Team40\team40_iteration6_user\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User\Documents\INF370\Code\Team40\team40_iteration6_user\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\Documents\INF370\Code\Team40\team40_iteration6_user\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\User\Documents\INF370\Code\Team40\team40_iteration6_user\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\User\Documents\INF370\Code\Team40\team40_iteration6_user\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\User\Documents\INF370\Code\Team40\team40_iteration6_user\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\User\Documents\INF370\Code\Team40\team40_iteration6_user\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\User\Documents\INF370\Code\Team40\team40_iteration6_user\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\User\Documents\INF370\Code\Team40\team40_iteration6_user\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\User\Documents\INF370\Code\Team40\team40_iteration6_user\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Documents\INF370\Code\Team40\team40_iteration6_user\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\Documents\INF370\Code\Team40\team40_iteration6_user\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\User\Documents\INF370\Code\Team40\team40_iteration6_user\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Documents\INF370\Code\Team40\team40_iteration6_user\bin\Debug\net5.0\System.Text.Json.dll
+C:\Users\User\Documents\INF370\Code\Team40\team40_iteration6_user\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Documents\INF370\Code\Team40\team40_iteration6_user\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Documents\INF370\Code\Team40\team40_iteration6_user\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Documents\INF370\Code\Team40\team40_iteration6_user\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Documents\INF370\Code\Team40\team40_iteration6_user\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Documents\INF370\Code\Team40\team40_iteration6_user\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Documents\INF370\Code\Team40\team40_iteration6_user\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Documents\INF370\Code\Team40\team40_iteration6_user\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Documents\INF370\Code\Team40\team40_iteration6_user\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Documents\INF370\Code\Team40\team40_iteration6_user\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Documents\INF370\Code\Team40\team40_iteration6_user\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\User\Documents\INF370\Code\Team40\team40_iteration6_user\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Documents\INF370\Code\Team40\team40_iteration6_user\obj\Debug\net5.0\team40_iteration6_user.csproj.AssemblyReference.cache
+C:\Users\User\Documents\INF370\Code\Team40\team40_iteration6_user\obj\Debug\net5.0\team40_iteration6_user.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\INF370\Code\Team40\team40_iteration6_user\obj\Debug\net5.0\team40_iteration6_user.AssemblyInfoInputs.cache
+C:\Users\User\Documents\INF370\Code\Team40\team40_iteration6_user\obj\Debug\net5.0\team40_iteration6_user.AssemblyInfo.cs
+C:\Users\User\Documents\INF370\Code\Team40\team40_iteration6_user\obj\Debug\net5.0\team40_iteration6_user.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\INF370\Code\Team40\team40_iteration6_user\obj\Debug\net5.0\team40_iteration6_user.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\Documents\INF370\Code\Team40\team40_iteration6_user\obj\Debug\net5.0\team40_iteration6_user.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Documents\INF370\Code\Team40\team40_iteration6_user\obj\Debug\net5.0\staticwebassets\team40_iteration6_user.StaticWebAssets.Manifest.cache
+C:\Users\User\Documents\INF370\Code\Team40\team40_iteration6_user\obj\Debug\net5.0\staticwebassets\team40_iteration6_user.StaticWebAssets.xml
+C:\Users\User\Documents\INF370\Code\Team40\team40_iteration6_user\obj\Debug\net5.0\scopedcss\bundle\team40_iteration6_user.styles.css
+C:\Users\User\Documents\INF370\Code\Team40\team40_iteration6_user\obj\Debug\net5.0\team40_iteration6_user.RazorTargetAssemblyInfo.cache
+C:\Users\User\Documents\INF370\Code\Team40\team40_iteration6_user\obj\Debug\net5.0\team40_iteration6_user.csproj.CopyComplete
+C:\Users\User\Documents\INF370\Code\Team40\team40_iteration6_user\obj\Debug\net5.0\team40_iteration6_user.dll
+C:\Users\User\Documents\INF370\Code\Team40\team40_iteration6_user\obj\Debug\net5.0\ref\team40_iteration6_user.dll
+C:\Users\User\Documents\INF370\Code\Team40\team40_iteration6_user\obj\Debug\net5.0\team40_iteration6_user.pdb
+C:\Users\User\Documents\INF370\Code\Team40\team40_iteration6_user\obj\Debug\net5.0\team40_iteration6_user.genruntimeconfig.cache
+C:\Users\User\Documents\INF370\Code\Team40\team40_iteration6_user\bin\Debug\net5.0\20221016195843_638015471236009036.json
+C:\Users\User\Documents\INF370\Code\Team40\team40_iteration6_user\bin\Debug\net5.0\20221016195845_638015471256192748.json
+C:\Users\User\Documents\INF370\Code\Team40\team40_iteration6_user\bin\Debug\net5.0\20221016200104_638015472640338912.json
+C:\Users\User\Documents\INF370\Code\Team40\team40_iteration6_user\bin\Debug\net5.0\20221016200104_638015472640338925.json
+C:\Users\User\Documents\INF370\Code\Team40\team40_iteration6_user\bin\Debug\net5.0\20221016200104_638015472640346771.json
+C:\Users\User\Documents\INF370\Code\Team40\team40_iteration6_user\bin\Debug\net5.0\20221016200106_638015472665408191.json
+C:\Users\User\Documents\INF370\Code\Team40\team40_iteration6_user\bin\Debug\net5.0\20221016200107_638015472671033657.json
+C:\Users\User\Documents\INF370\Code\Team40\team40_iteration6_user\bin\Debug\net5.0\20221016200107_638015472679454995.json
+C:\Users\User\Documents\INF370\Code\Team40\team40_iteration6_user\bin\Debug\net5.0\20221016200113_638015472732349409.json
+C:\Users\User\Documents\INF370\Code\Team40\team40_iteration6_user\bin\Debug\net5.0\20221016200131_638015472911495610.json
+C:\Users\User\Documents\INF370\Code\Team40\team40_iteration6_user\bin\Debug\net5.0\20221016200134_638015472946827587.json
+C:\Users\User\Documents\INF370\Code\Team40\team40_iteration6_user\bin\Debug\net5.0\20221016200135_638015472958221299.json
+C:\Users\User\Documents\INF370\Code\Team40\team40_iteration6_user\bin\Debug\net5.0\20221016200151_638015473117847813.json
+C:\Users\User\Documents\INF370\Code\Team40\team40_iteration6_user\bin\Debug\net5.0\20221016200151_638015473118536168.json
+C:\Users\User\Documents\INF370\Code\Team40\team40_iteration6_user\bin\Debug\net5.0\20221016200152_638015473120360660.json
+C:\Users\User\Documents\INF370\Code\Team40\team40_iteration6_user\bin\Debug\net5.0\20221016200158_638015473182005577.json
+C:\Users\User\Documents\INF370\Code\Team40\team40_iteration6_user\bin\Debug\net5.0\20221016200158_638015473182069611.json
+C:\Users\User\Documents\INF370\Code\Team40\team40_iteration6_user\bin\Debug\net5.0\20221016202201_638015485216022379.json
+C:\Users\User\Documents\INF370\Code\Team40\team40_iteration6_user\bin\Debug\net5.0\20221016210751_638015512714984501.json
+C:\Users\User\Documents\INF370\Code\Team40\team40_iteration6_user\bin\Debug\net5.0\20221016210831_638015513114648190.json
+C:\Users\User\Documents\INF370\Code\Team40\team40_iteration6_user\bin\Debug\net5.0\20221016210914_638015513545046252.json
+C:\Users\User\Documents\INF370\Code\Team40\team40_iteration6_user\bin\Debug\net5.0\20221016210919_638015513598189217.json
+C:\Users\User\Documents\INF370\Code\Team40\team40_iteration6_user\bin\Debug\net5.0\20221016212408_638015522489353013.json
+C:\Users\User\Documents\INF370\Code\Team40\team40_iteration6_user\bin\Debug\net5.0\20221016212410_638015522509434406.json
+C:\Users\User\Documents\INF370\Code\Team40\team40_iteration6_user\bin\Debug\net5.0\20221016212411_638015522512301701.json
+C:\Users\User\Documents\INF370\Code\Team40\team40_iteration6_user\bin\Debug\net5.0\20221016212413_638015522531616606.json
+C:\Users\User\Documents\INF370\Code\Team40\team40_iteration6_user\bin\Debug\net5.0\20221016212417_638015522579385255.json
+C:\Users\User\Documents\INF370\Code\Team40\team40_iteration6_user\bin\Debug\net5.0\20221016212418_638015522582353052.json
+C:\Users\User\Documents\INF370\Code\Team40\team40_iteration6_user\bin\Debug\net5.0\20221016212419_638015522596271432.json
+C:\Users\User\Documents\INF370\Code\Team40\team40_iteration6_user\bin\Debug\net5.0\20221016212421_638015522611228114.json
+C:\Users\User\Documents\INF370\Code\Team40\team40_iteration6_user\bin\Debug\net5.0\20221016212424_638015522644685941.json
+C:\Users\User\Documents\INF370\Code\Team40\team40_iteration6_user\bin\Debug\net5.0\20221016212426_638015522664058599.json
+C:\Users\User\Documents\INF370\Code\Team40\team40_iteration6_user\bin\Debug\net5.0\20221016212512_638015523124737434.json
+C:\Users\User\Documents\INF370\Code\Team40\team40_iteration6_user\bin\Debug\net5.0\20221016212531_638015523310552748.json
+C:\Users\User\Documents\INF370\Code\Team40\team40_iteration6_user\bin\Debug\net5.0\20221016212617_638015523778601599.json
+C:\Users\User\Documents\INF370\Code\Team40\team40_iteration6_user\bin\Debug\net5.0\20221016212953_638015525933326586.json
+C:\Users\User\Documents\INF370\Code\Team40\team40_iteration6_user\bin\Debug\net5.0\20221016213118_638015526780803048.json
+C:\Users\User\Documents\INF370\Code\Team40\team40_iteration6_user\bin\Debug\net5.0\20221016213352_638015528320543249.json
+C:\Users\User\Documents\INF370\Code\Team40\team40_iteration6_user\bin\Debug\net5.0\20221016213428_638015528689909158.json
+C:\Users\User\Documents\INF370\Code\Team40\team40_iteration6_user\bin\Debug\net5.0\20221016213439_638015528796884995.json
+C:\Users\User\Documents\INF370\Code\Team40\team40_iteration6_user\bin\Debug\net5.0\20221016221451_638015552915562415.json
+C:\Users\tokol\Downloads\Team40-main (3)\Team40-main\team40_iteration6_user\bin\Debug\net5.0\20221016195843_638015471236009036.json
+C:\Users\tokol\Downloads\Team40-main (3)\Team40-main\team40_iteration6_user\bin\Debug\net5.0\20221016195845_638015471256192748.json
+C:\Users\tokol\Downloads\Team40-main (3)\Team40-main\team40_iteration6_user\bin\Debug\net5.0\20221016200104_638015472640338912.json
+C:\Users\tokol\Downloads\Team40-main (3)\Team40-main\team40_iteration6_user\bin\Debug\net5.0\20221016200104_638015472640338925.json
+C:\Users\tokol\Downloads\Team40-main (3)\Team40-main\team40_iteration6_user\bin\Debug\net5.0\20221016200104_638015472640346771.json
+C:\Users\tokol\Downloads\Team40-main (3)\Team40-main\team40_iteration6_user\bin\Debug\net5.0\20221016200106_638015472665408191.json
+C:\Users\tokol\Downloads\Team40-main (3)\Team40-main\team40_iteration6_user\bin\Debug\net5.0\20221016200107_638015472671033657.json
+C:\Users\tokol\Downloads\Team40-main (3)\Team40-main\team40_iteration6_user\bin\Debug\net5.0\20221016200107_638015472679454995.json
+C:\Users\tokol\Downloads\Team40-main (3)\Team40-main\team40_iteration6_user\bin\Debug\net5.0\20221016200113_638015472732349409.json
+C:\Users\tokol\Downloads\Team40-main (3)\Team40-main\team40_iteration6_user\bin\Debug\net5.0\20221016200131_638015472911495610.json
+C:\Users\tokol\Downloads\Team40-main (3)\Team40-main\team40_iteration6_user\bin\Debug\net5.0\20221016200134_638015472946827587.json
+C:\Users\tokol\Downloads\Team40-main (3)\Team40-main\team40_iteration6_user\bin\Debug\net5.0\20221016200135_638015472958221299.json
+C:\Users\tokol\Downloads\Team40-main (3)\Team40-main\team40_iteration6_user\bin\Debug\net5.0\20221016200151_638015473117847813.json
+C:\Users\tokol\Downloads\Team40-main (3)\Team40-main\team40_iteration6_user\bin\Debug\net5.0\20221016200151_638015473118536168.json
+C:\Users\tokol\Downloads\Team40-main (3)\Team40-main\team40_iteration6_user\bin\Debug\net5.0\20221016200152_638015473120360660.json
+C:\Users\tokol\Downloads\Team40-main (3)\Team40-main\team40_iteration6_user\bin\Debug\net5.0\20221016200158_638015473182005577.json
+C:\Users\tokol\Downloads\Team40-main (3)\Team40-main\team40_iteration6_user\bin\Debug\net5.0\20221016200158_638015473182069611.json
+C:\Users\tokol\Downloads\Team40-main (3)\Team40-main\team40_iteration6_user\bin\Debug\net5.0\20221016202201_638015485216022379.json
+C:\Users\tokol\Downloads\Team40-main (3)\Team40-main\team40_iteration6_user\bin\Debug\net5.0\20221016210751_638015512714984501.json
+C:\Users\tokol\Downloads\Team40-main (3)\Team40-main\team40_iteration6_user\bin\Debug\net5.0\20221016210831_638015513114648190.json
+C:\Users\tokol\Downloads\Team40-main (3)\Team40-main\team40_iteration6_user\bin\Debug\net5.0\20221016210914_638015513545046252.json
+C:\Users\tokol\Downloads\Team40-main (3)\Team40-main\team40_iteration6_user\bin\Debug\net5.0\20221016210919_638015513598189217.json
+C:\Users\tokol\Downloads\Team40-main (3)\Team40-main\team40_iteration6_user\bin\Debug\net5.0\20221016212408_638015522489353013.json
+C:\Users\tokol\Downloads\Team40-main (3)\Team40-main\team40_iteration6_user\bin\Debug\net5.0\20221016212410_638015522509434406.json
+C:\Users\tokol\Downloads\Team40-main (3)\Team40-main\team40_iteration6_user\bin\Debug\net5.0\20221016212411_638015522512301701.json
+C:\Users\tokol\Downloads\Team40-main (3)\Team40-main\team40_iteration6_user\bin\Debug\net5.0\20221016212413_638015522531616606.json
+C:\Users\tokol\Downloads\Team40-main (3)\Team40-main\team40_iteration6_user\bin\Debug\net5.0\20221016212417_638015522579385255.json
+C:\Users\tokol\Downloads\Team40-main (3)\Team40-main\team40_iteration6_user\bin\Debug\net5.0\20221016212418_638015522582353052.json
+C:\Users\tokol\Downloads\Team40-main (3)\Team40-main\team40_iteration6_user\bin\Debug\net5.0\20221016212419_638015522596271432.json
+C:\Users\tokol\Downloads\Team40-main (3)\Team40-main\team40_iteration6_user\bin\Debug\net5.0\20221016212421_638015522611228114.json
+C:\Users\tokol\Downloads\Team40-main (3)\Team40-main\team40_iteration6_user\bin\Debug\net5.0\20221016212424_638015522644685941.json
+C:\Users\tokol\Downloads\Team40-main (3)\Team40-main\team40_iteration6_user\bin\Debug\net5.0\20221016212426_638015522664058599.json
+C:\Users\tokol\Downloads\Team40-main (3)\Team40-main\team40_iteration6_user\bin\Debug\net5.0\20221016212512_638015523124737434.json
+C:\Users\tokol\Downloads\Team40-main (3)\Team40-main\team40_iteration6_user\bin\Debug\net5.0\20221016212531_638015523310552748.json
+C:\Users\tokol\Downloads\Team40-main (3)\Team40-main\team40_iteration6_user\bin\Debug\net5.0\20221016212617_638015523778601599.json
+C:\Users\tokol\Downloads\Team40-main (3)\Team40-main\team40_iteration6_user\bin\Debug\net5.0\20221016212953_638015525933326586.json
+C:\Users\tokol\Downloads\Team40-main (3)\Team40-main\team40_iteration6_user\bin\Debug\net5.0\20221016213118_638015526780803048.json
+C:\Users\tokol\Downloads\Team40-main (3)\Team40-main\team40_iteration6_user\bin\Debug\net5.0\20221016213352_638015528320543249.json
+C:\Users\tokol\Downloads\Team40-main (3)\Team40-main\team40_iteration6_user\bin\Debug\net5.0\20221016213428_638015528689909158.json
+C:\Users\tokol\Downloads\Team40-main (3)\Team40-main\team40_iteration6_user\bin\Debug\net5.0\20221016213439_638015528796884995.json
+C:\Users\tokol\Downloads\Team40-main (3)\Team40-main\team40_iteration6_user\bin\Debug\net5.0\20221016221451_638015552915562415.json
+C:\Users\tokol\Downloads\Team40-main (3)\Team40-main\team40_iteration6_user\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\tokol\Downloads\Team40-main (3)\Team40-main\team40_iteration6_user\bin\Debug\net5.0\appsettings.json
+C:\Users\tokol\Downloads\Team40-main (3)\Team40-main\team40_iteration6_user\bin\Debug\net5.0\team40_iteration6_user.StaticWebAssets.xml
+C:\Users\tokol\Downloads\Team40-main (3)\Team40-main\team40_iteration6_user\bin\Debug\net5.0\team40_iteration6_user.exe
+C:\Users\tokol\Downloads\Team40-main (3)\Team40-main\team40_iteration6_user\bin\Debug\net5.0\team40_iteration6_user.deps.json
+C:\Users\tokol\Downloads\Team40-main (3)\Team40-main\team40_iteration6_user\bin\Debug\net5.0\team40_iteration6_user.runtimeconfig.json
+C:\Users\tokol\Downloads\Team40-main (3)\Team40-main\team40_iteration6_user\bin\Debug\net5.0\team40_iteration6_user.runtimeconfig.dev.json
+C:\Users\tokol\Downloads\Team40-main (3)\Team40-main\team40_iteration6_user\bin\Debug\net5.0\team40_iteration6_user.dll
+C:\Users\tokol\Downloads\Team40-main (3)\Team40-main\team40_iteration6_user\bin\Debug\net5.0\team40_iteration6_user.pdb
+C:\Users\tokol\Downloads\Team40-main (3)\Team40-main\team40_iteration6_user\bin\Debug\net5.0\Audit.NET.dll
+C:\Users\tokol\Downloads\Team40-main (3)\Team40-main\team40_iteration6_user\bin\Debug\net5.0\Audit.WebApi.dll
+C:\Users\tokol\Downloads\Team40-main (3)\Team40-main\team40_iteration6_user\bin\Debug\net5.0\Humanizer.dll
+C:\Users\tokol\Downloads\Team40-main (3)\Team40-main\team40_iteration6_user\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\tokol\Downloads\Team40-main (3)\Team40-main\team40_iteration6_user\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\tokol\Downloads\Team40-main (3)\Team40-main\team40_iteration6_user\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\tokol\Downloads\Team40-main (3)\Team40-main\team40_iteration6_user\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\tokol\Downloads\Team40-main (3)\Team40-main\team40_iteration6_user\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\tokol\Downloads\Team40-main (3)\Team40-main\team40_iteration6_user\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\tokol\Downloads\Team40-main (3)\Team40-main\team40_iteration6_user\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\tokol\Downloads\Team40-main (3)\Team40-main\team40_iteration6_user\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\tokol\Downloads\Team40-main (3)\Team40-main\team40_iteration6_user\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\tokol\Downloads\Team40-main (3)\Team40-main\team40_iteration6_user\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\tokol\Downloads\Team40-main (3)\Team40-main\team40_iteration6_user\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\tokol\Downloads\Team40-main (3)\Team40-main\team40_iteration6_user\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\tokol\Downloads\Team40-main (3)\Team40-main\team40_iteration6_user\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\tokol\Downloads\Team40-main (3)\Team40-main\team40_iteration6_user\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\tokol\Downloads\Team40-main (3)\Team40-main\team40_iteration6_user\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\tokol\Downloads\Team40-main (3)\Team40-main\team40_iteration6_user\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\tokol\Downloads\Team40-main (3)\Team40-main\team40_iteration6_user\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\tokol\Downloads\Team40-main (3)\Team40-main\team40_iteration6_user\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\tokol\Downloads\Team40-main (3)\Team40-main\team40_iteration6_user\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\tokol\Downloads\Team40-main (3)\Team40-main\team40_iteration6_user\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\tokol\Downloads\Team40-main (3)\Team40-main\team40_iteration6_user\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\tokol\Downloads\Team40-main (3)\Team40-main\team40_iteration6_user\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\tokol\Downloads\Team40-main (3)\Team40-main\team40_iteration6_user\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\tokol\Downloads\Team40-main (3)\Team40-main\team40_iteration6_user\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\tokol\Downloads\Team40-main (3)\Team40-main\team40_iteration6_user\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\tokol\Downloads\Team40-main (3)\Team40-main\team40_iteration6_user\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\tokol\Downloads\Team40-main (3)\Team40-main\team40_iteration6_user\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\tokol\Downloads\Team40-main (3)\Team40-main\team40_iteration6_user\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\tokol\Downloads\Team40-main (3)\Team40-main\team40_iteration6_user\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\tokol\Downloads\Team40-main (3)\Team40-main\team40_iteration6_user\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\tokol\Downloads\Team40-main (3)\Team40-main\team40_iteration6_user\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\tokol\Downloads\Team40-main (3)\Team40-main\team40_iteration6_user\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\tokol\Downloads\Team40-main (3)\Team40-main\team40_iteration6_user\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\tokol\Downloads\Team40-main (3)\Team40-main\team40_iteration6_user\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\tokol\Downloads\Team40-main (3)\Team40-main\team40_iteration6_user\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\tokol\Downloads\Team40-main (3)\Team40-main\team40_iteration6_user\bin\Debug\net5.0\System.Text.Json.dll
+C:\Users\tokol\Downloads\Team40-main (3)\Team40-main\team40_iteration6_user\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\tokol\Downloads\Team40-main (3)\Team40-main\team40_iteration6_user\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\tokol\Downloads\Team40-main (3)\Team40-main\team40_iteration6_user\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tokol\Downloads\Team40-main (3)\Team40-main\team40_iteration6_user\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\tokol\Downloads\Team40-main (3)\Team40-main\team40_iteration6_user\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tokol\Downloads\Team40-main (3)\Team40-main\team40_iteration6_user\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\tokol\Downloads\Team40-main (3)\Team40-main\team40_iteration6_user\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tokol\Downloads\Team40-main (3)\Team40-main\team40_iteration6_user\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\tokol\Downloads\Team40-main (3)\Team40-main\team40_iteration6_user\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tokol\Downloads\Team40-main (3)\Team40-main\team40_iteration6_user\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\tokol\Downloads\Team40-main (3)\Team40-main\team40_iteration6_user\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\tokol\Downloads\Team40-main (3)\Team40-main\team40_iteration6_user\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\tokol\Downloads\Team40-main (3)\Team40-main\team40_iteration6_user\obj\Debug\net5.0\team40_iteration6_user.csproj.AssemblyReference.cache
+C:\Users\tokol\Downloads\Team40-main (3)\Team40-main\team40_iteration6_user\obj\Debug\net5.0\team40_iteration6_user.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tokol\Downloads\Team40-main (3)\Team40-main\team40_iteration6_user\obj\Debug\net5.0\team40_iteration6_user.AssemblyInfoInputs.cache
+C:\Users\tokol\Downloads\Team40-main (3)\Team40-main\team40_iteration6_user\obj\Debug\net5.0\team40_iteration6_user.AssemblyInfo.cs
+C:\Users\tokol\Downloads\Team40-main (3)\Team40-main\team40_iteration6_user\obj\Debug\net5.0\team40_iteration6_user.csproj.CoreCompileInputs.cache
+C:\Users\tokol\Downloads\Team40-main (3)\Team40-main\team40_iteration6_user\obj\Debug\net5.0\team40_iteration6_user.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\tokol\Downloads\Team40-main (3)\Team40-main\team40_iteration6_user\obj\Debug\net5.0\team40_iteration6_user.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\tokol\Downloads\Team40-main (3)\Team40-main\team40_iteration6_user\obj\Debug\net5.0\scopedcss\bundle\team40_iteration6_user.styles.css
+C:\Users\tokol\Downloads\Team40-main (3)\Team40-main\team40_iteration6_user\obj\Debug\net5.0\staticwebassets\team40_iteration6_user.StaticWebAssets.Manifest.cache
+C:\Users\tokol\Downloads\Team40-main (3)\Team40-main\team40_iteration6_user\obj\Debug\net5.0\staticwebassets\team40_iteration6_user.StaticWebAssets.xml
+C:\Users\tokol\Downloads\Team40-main (3)\Team40-main\team40_iteration6_user\obj\Debug\net5.0\team40_iteration6_user.RazorTargetAssemblyInfo.cache
+C:\Users\tokol\Downloads\Team40-main (3)\Team40-main\team40_iteration6_user\obj\Debug\net5.0\team40_iteration6_user.csproj.CopyComplete
+C:\Users\tokol\Downloads\Team40-main (3)\Team40-main\team40_iteration6_user\obj\Debug\net5.0\team40_iteration6_user.dll
+C:\Users\tokol\Downloads\Team40-main (3)\Team40-main\team40_iteration6_user\obj\Debug\net5.0\refint\team40_iteration6_user.dll
+C:\Users\tokol\Downloads\Team40-main (3)\Team40-main\team40_iteration6_user\obj\Debug\net5.0\team40_iteration6_user.pdb
+C:\Users\tokol\Downloads\Team40-main (3)\Team40-main\team40_iteration6_user\obj\Debug\net5.0\team40_iteration6_user.genruntimeconfig.cache
+C:\Users\tokol\Downloads\Team40-main (3)\Team40-main\team40_iteration6_user\obj\Debug\net5.0\ref\team40_iteration6_user.dll
+C:\Users\tokol\Downloads\Team40-main (3)\Team40-main\team40_iteration6_user\bin\Debug\net5.0\20221016230141_638015581011041684.json
+C:\Users\tokol\Downloads\Team40-main (3)\Team40-main\team40_iteration6_user\bin\Debug\net5.0\20221016230142_638015581025457591.json
+C:\Users\tokol\Downloads\Team40-main (3)\Team40-main\team40_iteration6_user\bin\Debug\net5.0\20221016230523_638015583233765194.json
+C:\Users\tokol\Downloads\Team40-main (3)\Team40-main\team40_iteration6_user\bin\Debug\net5.0\20221016230638_638015583981402091.json
+C:\Users\tokol\Downloads\Team40-main (3)\Team40-main\team40_iteration6_user\bin\Debug\net5.0\20221016230710_638015584304994507.json
+C:\Users\tokol\Downloads\Team40-main (3)\Team40-main\team40_iteration6_user\bin\Debug\net5.0\20221016230758_638015584789388781.json
+C:\Users\tokol\Downloads\Team40-main (3)\Team40-main\team40_iteration6_user\bin\Debug\net5.0\20221016230802_638015584826640136.json
+C:\Users\tokol\Downloads\Team40-main (3)\Team40-main\team40_iteration6_user\bin\Debug\net5.0\20221016230807_638015584873416375.json
+C:\Users\tokol\Downloads\Team40-main (3)\Team40-main\team40_iteration6_user\bin\Debug\net5.0\20221016230834_638015585149949749.json
+C:\Users\tokol\Downloads\Team40-main (3)\Team40-main\team40_iteration6_user\bin\Debug\net5.0\20221016230910_638015585504951904.json
+C:\Users\tokol\Downloads\Team40-main (3)\Team40-main\team40_iteration6_user\bin\Debug\net5.0\20221016230920_638015585601020427.json
+C:\Users\tokol\Downloads\Team40-main (3)\Team40-main\team40_iteration6_user\bin\Debug\net5.0\20221016230920_638015585603800564.json
+C:\Users\tokol\Downloads\Team40-main (3)\Team40-main\team40_iteration6_user\bin\Debug\net5.0\20221016230923_638015585634960262.json
+C:\Users\tokol\Downloads\Team40-main (3)\Team40-main\team40_iteration6_user\bin\Debug\net5.0\20221016231025_638015586254851129.json
+C:\Users\tokol\Downloads\Team40-main (3)\Team40-main\team40_iteration6_user\bin\Debug\net5.0\20221016231027_638015586272998028.json
+C:\Users\tokol\Downloads\Team40-main (3)\Team40-main\team40_iteration6_user\bin\Debug\net5.0\20221016235239_638015611591728303.json
+C:\Users\tokol\Downloads\Team40-main (3)\Team40-main\team40_iteration6_user\bin\Debug\net5.0\20221016235243_638015611634791419.json
+C:\Users\tokol\Downloads\Team40-main (3)\Team40-main\team40_iteration6_user\bin\Debug\net5.0\20221016235300_638015611803088504.json
+C:\Users\tokol\Downloads\Team40-main (3)\Team40-main\team40_iteration6_user\bin\Debug\net5.0\20221016235300_638015611803088536.json
+C:\Users\tokol\Downloads\Team40-main (3)\Team40-main\team40_iteration6_user\bin\Debug\net5.0\20221016235300_638015611804865890.json
+C:\Users\tokol\Downloads\Team40-main (3)\Team40-main\team40_iteration6_user\bin\Debug\net5.0\20221016235313_638015611934382419.json
+C:\Users\tokol\Downloads\Team40-main (3)\Team40-main\team40_iteration6_user\bin\Debug\net5.0\20221016235316_638015611961555006.json
+C:\Users\tokol\Downloads\Team40-main (3)\Team40-main\team40_iteration6_user\bin\Debug\net5.0\20221016235316_638015611962309755.json
+C:\Users\tokol\Downloads\Team40-main (3)\Team40-main\team40_iteration6_user\bin\Debug\net5.0\20221016235343_638015612230673668.json
+C:\Users\tokol\Downloads\Team40-main (3)\Team40-main\team40_iteration6_user\bin\Debug\net5.0\20221016235353_638015612333207314.json
+C:\Users\tokol\Downloads\Team40-main (3)\Team40-main\team40_iteration6_user\bin\Debug\net5.0\20221016235353_638015612333207326.json
+C:\Users\tokol\Downloads\Team40-main (3)\Team40-main\team40_iteration6_user\bin\Debug\net5.0\20221016235411_638015612516844444.json
+C:\Users\tokol\Downloads\Team40-main (3)\Team40-main\team40_iteration6_user\bin\Debug\net5.0\20221016235411_638015612516844471.json
+C:\Users\tokol\Downloads\Team40-main (3)\Team40-main\team40_iteration6_user\bin\Debug\net5.0\20221016235419_638015612599411153.json
+C:\Users\tokol\Downloads\Team40-main (3)\Team40-main\team40_iteration6_user\bin\Debug\net5.0\20221016235419_638015612599515006.json
+C:\Users\tokol\Downloads\Team40-main (3)\Team40-main\team40_iteration6_user\bin\Debug\net5.0\20221016235426_638015612661801430.json
+C:\Users\tokol\Downloads\Team40-main (3)\Team40-main\team40_iteration6_user\bin\Debug\net5.0\20221016235527_638015613278366129.json
+C:\Users\tokol\Downloads\Team40-main (3)\Team40-main\team40_iteration6_user\bin\Debug\net5.0\20221016235628_638015613883461654.json
+C:\Users\tokol\Downloads\Team40-main (3)\Team40-main\team40_iteration6_user\bin\Debug\net5.0\20221016235744_638015614642353395.json
+C:\Users\tokol\Downloads\Team40-main (3)\Team40-main\team40_iteration6_user\bin\Debug\net5.0\20221016235747_638015614679397405.json
+C:\Users\tokol\Downloads\Team40-main (3)\Team40-main\team40_iteration6_user\bin\Debug\net5.0\20221016235748_638015614682500475.json
+C:\Users\tokol\Downloads\Team40-main (3)\Team40-main\team40_iteration6_user\bin\Debug\net5.0\20221016235801_638015614813980506.json
+C:\Users\tokol\Downloads\Team40-main (3)\Team40-main\team40_iteration6_user\bin\Debug\net5.0\20221016235801_638015614814099518.json

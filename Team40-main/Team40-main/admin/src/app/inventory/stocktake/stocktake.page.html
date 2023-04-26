@@ -1,0 +1,68 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-button class="ion-float-left" id="homebtn" (click)="HomeBtn()">
+      <ion-icon name="home"></ion-icon>
+      </ion-button>
+    <ion-title>Stocktake History</ion-title>
+        <!-- cancel and save buttons -->
+    <ion-buttons slot="secondary">
+      
+      <ion-button class="ion-float-right" id="titlebtn" (click)="Stocktake()" >
+        Perform Stocktake
+       </ion-button>
+    </ion-buttons>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content>
+
+  <ion-searchbar [(ngModel)]="searchTerm" placeholder="Search inventory items"></ion-searchbar>
+  <!-- view table -->
+<ion-grid>
+
+  <!-- headers -->
+  <ion-row id="tblheader">
+    <ion-col>
+      <div>Stocktake date</div>
+    </ion-col>
+    <ion-col>
+      <div>Recorded By</div>
+    </ion-col>
+    <ion-col>
+      <div>Item Name</div>
+    </ion-col>
+    <ion-col>
+      <div>Stock Take Total Quantity</div>
+    </ion-col>
+    <ion-col>
+      <div>Remarks</div>
+    </ion-col>
+    <ion-col>
+    </ion-col>
+  </ion-row>
+
+  <!-- contents -->
+   <ion-row *ngFor="let s of items | filter: searchTerm">
+    <ion-col>
+      <div>{{s.stockTakeDate}}</div>
+    </ion-col>
+    <ion-col>
+      <div>{{s.name}}</div>
+    </ion-col>
+    <ion-col>
+      <div>{{s.itemName}}</div>
+    </ion-col>
+    <ion-col>
+      <div>{{s.stockTakeTotalQty}}</div>
+    </ion-col>
+    <ion-col>
+      <div>{{s.remarks}}</div>
+    </ion-col>
+    <ion-col>
+      <ion-icon name="pencil" (click)="Update(s.stockTakeId,s.stockTakeTotalId)"></ion-icon>
+      <!--<ion-icon name="trash-outline" (click)="Delete(s)"></ion-icon>-->
+    </ion-col>
+   </ion-row>
+
+   </ion-grid>
+

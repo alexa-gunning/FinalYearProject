@@ -1,0 +1,63 @@
+<ion-header [translucent]="true">
+  <ion-toolbar>
+    <ion-title class="ion-text-center">
+    Products<ion-icon name="information-circle" (click)="Info()"></ion-icon>
+    <ion-button class="ion-float-right" id="titlebtn" (click)="AddBtn()">
+      Add product
+     </ion-button> 
+     <!-- <ion-button class="ion-float-right" id="titlebtn" (click)="price()">
+      Manage Prices
+     </ion-button> -->
+     <ion-button class="ion-float-right" id="titlebtn" (click)="colors()">
+      Manage Colours
+     </ion-button>     <ion-button class="ion-float-right" id="titlebtn" (click)="types()">
+      Manage Product Types
+     </ion-button>
+       <!-- <ion-button class="ion-float-right" id="titlebtn" (click)="mgprods()">
+      Manage Products
+     </ion-button> -->
+    </ion-title>
+  </ion-toolbar>
+</ion-header>
+<ion-content [fullscreen]="true">
+  <ion-searchbar [(ngModel)]="searchTerm" placeholder="Search products"></ion-searchbar>
+  <ion-card *ngFor="let product of this.Product| filter: searchTerm">
+    <ion-card-header>
+      <ion-thumbnail slot="start">
+        <ion-img [src]="product.image"></ion-img>
+      </ion-thumbnail>
+<ion-card-title>{{product.productName}}
+  <ion-icon name="trash-outline" (click)="Delete(product)"></ion-icon>
+  <ion-icon name="pencil"  (click)="Update(product.productId)"></ion-icon>
+  <!-- <ion-icon name="trash-outline" (Click)="Delete()"></ion-icon> -->
+</ion-card-title>
+<ion-card-subtitle>{{product.price | currency: 'R'}} {{product.date}} <br> Quantity On Hand: {{product.quantityOnHand}}</ion-card-subtitle>
+    </ion-card-header>
+<ion-card-content>
+<p style="font-weight: bold">Colour: </p> <br> {{product.colorName}} ({{product.colorDescription}}) <br> <br>
+<p style="font-weight: bold">Product Type: </p> <br> {{product.productTypeName}} <br>
+  {{product.typeDescription}}
+  <!-- <ion-icon name="pencil" (Click)="Update(product.productId)"></ion-icon> -->
+  <!-- <ion-icon name="trash-outline" (Click)="Delete(product)"></ion-icon> -->
+</ion-card-content>
+  </ion-card>
+
+  <!-- <ion-card >
+    <ion-card-header>
+      <ion-item>
+        <ion-thumbnail slot="start">
+          <img alt="Silhouette of mountains" src="https://ionicframework.com/docs/img/demos/thumbnail.svg" />
+        </ion-thumbnail>
+        <ion-label>Item Thumbnail</ion-label>
+      </ion-item>
+<ion-card-title>product.productName   <ion-icon name="pencil" ></ion-icon>
+  <ion-icon name="trash-outline" ></ion-icon></ion-card-title>
+<ion-card-subtitle>Rproduct.productPrice product.date</ion-card-subtitle>
+    </ion-card-header>
+<ion-card-content>
+<p style="font-weight: bold">Colour: </p> <br> product.colorName product.colorDescription <br> <br>
+<p style="font-weight: bold">Type: </p> <br> product.productTypeName <br>
+  product.typeDescription
+</ion-card-content>
+  </ion-card> -->
+

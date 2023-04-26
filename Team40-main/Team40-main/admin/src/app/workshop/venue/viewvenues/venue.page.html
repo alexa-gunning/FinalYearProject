@@ -1,0 +1,46 @@
+<ion-header [translucent]="true">
+  <ion-toolbar>
+    <ion-button class="ion-float-left" id="homebtn" (click)="HomeBtn()">
+      <ion-icon name="home"></ion-icon>
+      </ion-button>
+    <ion-title class="ion-text-center">
+    Venues
+
+      <ion-button class="ion-float-right" id="titlebtn" (click)="AddBtn()"> Add venue</ion-button>
+    </ion-title>
+
+
+  </ion-toolbar>
+</ion-header>
+<ion-content [fullscreen]="true">
+  <ion-searchbar [(ngModel)]="searchTerm"  placeholder="Search venues"></ion-searchbar>
+  <!-- view table -->
+<ion-grid>
+
+  <!-- headers -->
+  <ion-row id="tblheader">
+    <ion-col>
+      <div>Venue Name</div>
+    </ion-col>
+    <ion-col>
+      <div>Address</div>
+    </ion-col>
+    <ion-col>
+    </ion-col>
+  </ion-row>
+
+  <!-- contents -->
+   <ion-row *ngFor="let venue of Venues | filter: searchTerm">
+    <ion-col >
+      <div>{{venue.venueName}}</div>
+    </ion-col>
+    <ion-col>
+      <div>{{venue.address}}</div>
+    </ion-col>
+    <ion-col>
+      <ion-icon name="pencil"(click)="Update(venue.workshopVenueId)"></ion-icon>
+      <ion-icon name="trash-outline"(click)="Delete(venue)"></ion-icon>
+    </ion-col>
+   </ion-row>
+
+   </ion-grid>

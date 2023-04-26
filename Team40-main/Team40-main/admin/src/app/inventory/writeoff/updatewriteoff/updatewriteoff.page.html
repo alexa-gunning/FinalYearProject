@@ -1,0 +1,27 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-button class="ion-float-left" id="homebtn" (click)="HomeBtn()">
+      <ion-icon name="home"></ion-icon>
+      </ion-button>
+    <ion-title>Update Write-Off Inventory Reason<ion-icon name="information-circle" (click)="Info()"></ion-icon></ion-title>
+    <!-- cancel and update buttons -->
+    <ion-buttons slot="secondary">
+      <ion-back-button text="Cancel"></ion-back-button>
+      <ion-button>Update</ion-button>
+    </ion-buttons>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content>
+  <ion-card>
+    <ion-item>
+      <ion-label position="stacked">Write-Off Reason ID</ion-label><br>
+      <ion-input type="text"></ion-input>
+    </ion-item>
+    <ion-item>
+      <ion-label position="stacked">Write-Off Reason</ion-label><br>
+      <ion-input type="text"></ion-input>
+    </ion-item>
+  </ion-card>
+
+</ion-content>

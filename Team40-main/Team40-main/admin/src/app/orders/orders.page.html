@@ -1,0 +1,56 @@
+<ion-header [translucent]="true">
+  <ion-toolbar>
+    <ion-title class="ion-text-center">
+     Orders
+
+    </ion-title>
+  </ion-toolbar>
+</ion-header> 
+<ion-content [fullscreen]="true">
+  <ion-searchbar [(ngModel)]="searchTerm" placeholder="Search orders"></ion-searchbar>
+<ion-grid>
+  <ion-row id="tblheader">
+    <ion-col>
+      <div>Order Number</div>
+    </ion-col>
+    <ion-col>
+      <div>Order Date</div>
+    </ion-col>
+    <ion-col>
+      <div>Client Name</div>
+    </ion-col>
+    <ion-col>
+      <div>Delivery Company Name and Base Rate</div>
+    </ion-col>
+    <ion-col>
+      <div>Delivery Address</div>
+    </ion-col>
+    <!-- <ion-col>
+      <div>Order Status</div>
+    </ion-col> -->
+    <ion-col>
+      <div>Product Ordered</div>
+    </ion-col>
+    <ion-col>
+      <div>Quantity Ordered</div>
+    </ion-col>
+  </ion-row>
+</ion-grid>
+ <div *ngFor="let i of orders | filter: searchTerm">
+<ion-row >
+  
+  <ion-col>{{i.orderProductId}}</ion-col>
+  <ion-col>{{i.date}}</ion-col>
+  <ion-col>{{i.name}} {{i.surname}}</ion-col>
+  <ion-col>{{i.deliveryCompanyName}}: {{i.deliveryCompanyBaseRate | currency: 'R'}}</ion-col>
+  <ion-col>{{i.streetNumber}} {{i.streetName}}, {{i.city}}, {{i.province}}, {{i.areaCode}},{{i.country}} </ion-col>
+  <!-- <ion-col>{{i.description}} </ion-col> -->
+  <ion-col>{{i.productName}}</ion-col>
+  <ion-col>{{i.quantity}}</ion-col>
+  
+</ion-row>
+</div>
+
+
+  </ion-content>
+ 

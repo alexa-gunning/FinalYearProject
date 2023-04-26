@@ -1,0 +1,58 @@
+<ion-header [translucent]="true"> 
+  <ion-toolbar>
+    <ion-title class="ion-text-center">
+     Discounts
+      <ion-button class="ion-float-right" id="titlebtn" (click)="AddBtn()">
+       Add discount
+      </ion-button>
+
+    </ion-title>
+  </ion-toolbar>
+</ion-header>
+<ion-content [fullscreen]="true">
+  <ion-searchbar [(ngModel)]="searchTerm" placeholder="Search discounts"></ion-searchbar>
+  <!-- view table -->
+<ion-grid>
+
+  <!-- headers -->
+  <ion-row id="tblheader">
+    <!-- <ion-col>
+      <div>Type</div>
+    </ion-col> -->
+    <ion-col>
+      <div>Description</div>
+    </ion-col>
+    <ion-col>
+      <div>Percentage</div>
+    </ion-col>
+   
+    <ion-col>
+      <div>Status</div>
+    </ion-col>
+    <ion-col></ion-col>
+  </ion-row> 
+
+  <!-- contents -->
+   <ion-row *ngFor="let item of items | filter: searchTerm"> 
+    <!-- <ion-col>
+      <div>{{item.typeDescription}}</div>
+    </ion-col> --> 
+    <ion-col>
+      <div>{{item.discountDescription}}</div>
+    </ion-col>
+    <ion-col>
+      <div>{{item.percentage}}</div>
+    </ion-col>
+    <!-- <ion-col>
+      <div>{{item.discountDescription}}</div>
+    </ion-col> -->
+    <ion-col>
+      <div>{{item.statusDescription}}</div>
+    </ion-col>
+    <ion-col>
+      <ion-icon name="pencil" (click)="Update(item.discountId)"></ion-icon>
+      <ion-icon name="trash-outline" (click)="Delete(item)"></ion-icon>
+    </ion-col> 
+   </ion-row> 
+
+   </ion-grid>

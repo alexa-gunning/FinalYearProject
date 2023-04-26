@@ -1,0 +1,32 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-button class="ion-float-left" id="homebtn" (click)="HomeBtn()">
+      <ion-icon name="home"></ion-icon>
+      </ion-button>
+    <ion-title>Add policy <ion-icon name="information-circle" (click)="Info()"></ion-icon></ion-title>
+        <!-- cancel and save buttons -->
+    <ion-buttons slot="secondary">
+      <ion-back-button text="Cancel"></ion-back-button>
+      <ion-button (click)="addItem()">Save</ion-button>
+    </ion-buttons>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content>
+
+  <form [formGroup]="PolicyForm"  >
+    <ion-item>
+      <ion-label position="stacked">Policy Name</ion-label><br>
+      <ion-input type="text" formControlName="policyName" placeholder="Workshop Policy"></ion-input>
+    </ion-item>
+    <ion-item>
+      <ion-label position="stacked">Description</ion-label><br>
+      <ion-input type="text" formControlName="description" placeholder="Clients must arrive 10 minutes before thw workshop starts"></ion-input>
+    </ion-item>
+    <ion-item>
+      <ion-label position="stacked">Date</ion-label><br>
+      <!-- <ion-input type="text" formControlName="lastUpdated"> -->
+        <ion-datetime displayFormat="YYYY-MM-DDTHH:mm:ss" formControlName="date" ></ion-datetime>
+      <!-- </ion-input> -->
+    </ion-item>
+    <ion-item>

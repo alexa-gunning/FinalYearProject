@@ -1,0 +1,42 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-button class="ion-float-left" id="homebtn" (click)="HomeBtn()">
+      <ion-icon name="home"></ion-icon>
+      </ion-button>
+    <ion-title>Add Delivery Company <ion-icon name="information-circle" (click)="Info()"></ion-icon></ion-title>
+      
+    
+        <!-- cancel and save buttons -->
+    <ion-buttons slot="secondary">
+      <ion-back-button text="Cancel"></ion-back-button>
+      <ion-button (click)="addDelivery()">Save</ion-button>
+    </ion-buttons>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content>
+
+ <!-- <ion-card >-->
+  <form [formGroup]="DeliveryForm">
+    <ion-item>
+    <ion-label position="stacked">Delivery Company Name</ion-label><br>
+      <ion-input type="text" formControlName="deliveryCompanyName" placeholder="James Delivery Company"></ion-input>
+    </ion-item>
+    <ion-item>
+      <ion-label position="stacked">Delivery Company Email</ion-label><br>
+      <ion-input type="text" formControlName="deliveryCompanyEmail"  placeholder="delvierycompany@gmail.com"></ion-input>
+    </ion-item>
+    <ion-item>
+      <ion-label position="stacked">Contact Person Name</ion-label><br>
+      <ion-input type="text"formControlName="contactPersonName" placeholder="James Franco"></ion-input>
+    </ion-item>
+    <ion-item>
+      <ion-label position="stacked">Base Rate (R)</ion-label><br>
+      <ion-input type="number" formControlName="deliveryCompanyBaseRate" placeholder="245"></ion-input>
+    </ion-item>
+    <!-- <ion-item>
+      <ion-label position="stacked">Where the company can deliver to</ion-label><br>
+      <ion-input type="text" formControlName="method" placeholder="To address, to nearest store..."></ion-input>
+    </ion-item> -->
+  </form>
+  <!--</ion-card>-->

@@ -1,0 +1,28 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-button class="ion-float-left" id="homebtn" (click)="HomeBtn()">
+      <ion-icon name="home"></ion-icon>
+      </ion-button>
+    <ion-title>Update product type<ion-icon name="information-circle" (click)="Info()"></ion-icon></ion-title>
+        <!-- cancel and save buttons -->
+    <ion-buttons slot="secondary">
+      <ion-back-button text="Cancel"></ion-back-button>
+      <ion-button (click)="update()">Save</ion-button>
+    </ion-buttons>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content>
+
+  <form [formGroup]="uTypeForm"  >
+    <div *ngFor="let i of item">
+    <ion-item>
+      <ion-label position="stacked">Colour Name</ion-label><br>
+      <ion-input type="text" formControlName="productTypeName" [(ngModel)]="i.productTypeName"></ion-input>
+    </ion-item>
+    <ion-item>
+      <ion-label position="stacked">Description</ion-label><br>
+      <ion-input type="text" formControlName="description"  [(ngModel)]="i.description"></ion-input>
+    </ion-item>
+  
+  </div>

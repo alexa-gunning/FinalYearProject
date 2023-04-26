@@ -1,0 +1,64 @@
+<ion-header [translucent]="true">
+  <ion-toolbar>
+    <ion-button class="ion-float-left" id="homebtn" (click)="HomeBtn()">
+      <ion-icon name="home"></ion-icon>
+      </ion-button>
+    <ion-title class="ion-text-center">
+     Supplier Purchase History
+
+      <ion-button class="ion-float-right" id="titlebtn" (click)="add()" >
+       Add purchase
+      </ion-button>
+    </ion-title>
+  </ion-toolbar>
+</ion-header>
+<ion-content [fullscreen]="true">
+  <ion-searchbar [(ngModel)]="searchTerm" placeholder="Search purchases"></ion-searchbar>
+  <!-- view table -->
+<ion-grid>
+
+  <!-- headers -->
+  <ion-row id="tblheader">
+    <ion-col>
+      <div>Item name</div>
+    </ion-col>
+    <ion-col>
+      <div>Supplier Name</div>
+    </ion-col>
+    <ion-col>
+      <div>Date</div>
+    </ion-col>
+    <ion-col>
+      <div>Price</div>
+    </ion-col>
+    <ion-col>
+      <div>Quantity Purchased</div>
+    </ion-col>
+    <ion-col>
+    </ion-col>
+  </ion-row>
+
+  <!-- contents -->
+   <ion-row *ngFor="let inv of items | filter: searchTerm">
+    <ion-col>
+      <div>{{inv.itemName}}</div>
+    </ion-col>
+    <ion-col>
+      <div>{{inv.supplierName}}</div>
+    </ion-col>
+    <ion-col>
+      <div>{{inv.date}}</div>
+    </ion-col>
+    <ion-col>
+      <div>{{inv.price}}</div>
+    </ion-col>
+    <ion-col>
+      <div>{{inv.quantityPurchased}}</div>
+    </ion-col>
+    <ion-col>
+      <!-- <ion-icon name="pencil" (click)="update(inv.supplierPurchaseId)" ></ion-icon> -->
+      <ion-icon name="trash-outline" (click)="Delete(inv)"></ion-icon>
+    </ion-col>
+   </ion-row>
+
+   </ion-grid>

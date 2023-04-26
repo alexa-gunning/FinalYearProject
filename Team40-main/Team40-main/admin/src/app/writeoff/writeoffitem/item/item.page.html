@@ -1,0 +1,73 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-button class="ion-float-left" id="homebtn" (click)="HomeBtn()">
+      <ion-icon name="home"></ion-icon>
+      </ion-button>
+    <ion-title>Write-Off Inventory Item History</ion-title>
+        <!-- cancel and save buttons -->
+    <ion-buttons slot="secondary">
+      <ion-button class="ion-float-right" id="titlebtn" (click)="ManageReason()">
+        Manage Write-off Inventory Reason
+       </ion-button>
+      <ion-button class="ion-float-right" id="titlebtn" (click)="WriteOff()" >
+        Write Off Inventory Item
+       </ion-button>
+    </ion-buttons>
+  </ion-toolbar> 
+</ion-header>
+
+<ion-content>
+
+  <ion-grid>
+
+    <!-- headers -->
+    <ion-row id="tblheader">
+      <ion-col>
+        <div>Write-off Date</div>
+      </ion-col>
+      <ion-col>
+        <div>Recorded By</div>
+      </ion-col>
+      <ion-col>
+        <div>Inventory Item Name</div>
+      </ion-col>
+  
+      <ion-col>
+        <div>Writeoff Quantity</div>
+      </ion-col>
+      <ion-col>
+        <div>Writeoff Reason</div>
+      </ion-col>
+      <ion-col>
+  
+      </ion-col>
+    </ion-row>
+  
+    <!-- contents -->
+     <ion-row *ngFor="let del of this.writeoffhistory | filter: searchTerm">
+      <ion-col>
+        <div>{{del.writeOffDate}}</div>
+      </ion-col>
+      <ion-col> 
+        <div>
+          <p>{{del.name}}</p>
+        </div>
+      </ion-col>
+      <ion-col>
+        <div>{{del.itemName}}</div>
+      </ion-col>
+      <ion-col>
+        <div>{{del.writeOffQty}}</div>
+      </ion-col>
+      <ion-col>
+        <div>{{del.writeOffReasonDescription}}</div>
+      </ion-col>
+      <ion-col>
+        <ion-icon name="pencil" (click)="Update(del.writeOffId, del.writeOffQty)"></ion-icon>
+        <ion-icon name="trash-outline" (click)="Delete(del)"></ion-icon>
+      </ion-col>
+     </ion-row>
+  
+     </ion-grid>
+
+

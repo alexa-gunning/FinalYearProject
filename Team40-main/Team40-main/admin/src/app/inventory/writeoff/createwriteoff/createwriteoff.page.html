@@ -1,0 +1,28 @@
+<ion-header>
+  <ion-toolbar>
+    
+    
+    <ion-title>Add Write-Off Inventory Reason<ion-icon name="information-circle" (click)="Info()"></ion-icon></ion-title>
+        <!-- cancel and save buttons -->
+    <ion-buttons slot="secondary">
+      <ion-back-button text="Cancel"></ion-back-button>
+      <ion-button (click)="addReason()">Save</ion-button>
+    </ion-buttons>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content>
+
+  <form [formGroup]="ReasonForm" >
+    <ion-item>
+      <ion-label position="stacked">Write-Off Reason ID</ion-label><br>
+      <ion-input type="text" formControlName="writeOffReasonId" placeholder="2"></ion-input>
+    </ion-item>
+    <ion-item>
+      <ion-label position="stacked">Write-Off Reason Description</ion-label><br>
+      <ion-input type="text" formControlName="writeOffReasonDescription" placeholder="New Description"></ion-input>
+    </ion-item>
+    </form>
+  </ion-content>
+
+

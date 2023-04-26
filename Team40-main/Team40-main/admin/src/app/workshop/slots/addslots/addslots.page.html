@@ -1,0 +1,60 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-button class="ion-float-left" id="homebtn" (click)="HomeBtn()">
+      <ion-icon name="home"></ion-icon>
+      </ion-button>
+    <ion-title>Add Workshop Slot<ion-icon name="information-circle" (click)="Info()"></ion-icon></ion-title>
+
+    <ion-buttons slot="secondary">
+      <ion-back-button text="Cancel"></ion-back-button>
+      <ion-button (click)="addSlot()">Save</ion-button>
+    </ion-buttons> 
+  </ion-toolbar>
+</ion-header>
+
+<ion-content>
+  <form [formGroup]="WSlotForm">
+   <ion-item>
+      <ion-label position="stacked">Workshop Date</ion-label><br>
+      <ion-datetime displayFormat="YYYY-MM-DDTHH:mm:ss" formControlName="workshopDate" ></ion-datetime>
+    </ion-item>
+    <br>
+    <br>
+    <ion-list>
+      <ion-item>
+        <ion-label position="stacked">Workshop Type </ion-label><br>
+        <ion-select  formControlName="workshopTypeId">
+          <ion-select-option  *ngFor="let i of Wtypes" value="{{i.workshopTypeId}}">{{i.description}}</ion-select-option>
+        </ion-select>
+      </ion-item>
+    </ion-list>
+    <br>
+    <br>
+    <ion-list>
+      <ion-item>
+        <ion-label position="stacked">Host </ion-label><br>
+        <ion-select  formControlName="hostId">
+          <ion-select-option  *ngFor="let i of hosts" value="{{i.hostId}}">{{i.hostName}}  {{i.hostSurname}}</ion-select-option>
+        </ion-select>
+      </ion-item>
+    </ion-list>
+    <br>
+    <br>
+    <ion-list>
+      <ion-item>
+        <ion-label position="stacked">Venue </ion-label><br>
+        <ion-select  formControlName="workshopVenueId">
+          <ion-select-option  *ngFor="let i of venues" value="{{i.workshopVenueId}}">{{i.venueName}}</ion-select-option>
+        </ion-select>
+      </ion-item>
+    </ion-list>
+    <br>
+    <br>
+    <ion-item>
+      <ion-label position="stacked">Price (R)</ion-label><br>
+      <ion-input type="number" formControlName="price" placeholder="300"></ion-input>
+    </ion-item>
+
+  </form>
+
+</ion-content>

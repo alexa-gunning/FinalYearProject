@@ -1,0 +1,57 @@
+<header >
+    Login
+    </header>
+      <div style="display:flex;justify-content:center;align-items:center;height:100%">
+       <form [formGroup]="form">
+    
+            <title>ResinArt By Paige</title>
+       
+            <!--Username Code-->
+  
+            <form class="form" [formGroup]="form">
+            <div>
+              <label position="floating">Username (Email Address)</label><br>
+              <input type="text" formControlName="userName">
+            </div>
+            <!--<ion-label color="danger" *ngIf="form.get('emailAddress').touched && form.get('emailAddress').errors?.required">Please enter a username</ion-label>-->
+            <br>
+             <!--Password Code-->
+            <div>
+              <label position="floating">Password</label><br>
+              <input type="password" formControlName="password">
+              </div>
+              <div>
+                <label position="floating">Name</label><br>
+                <input type="text" formControlName="name">
+                </div>
+                <div>
+                    <label position="floating">Surname</label><br>
+                    <input type="text" formControlName="surname">
+                    </div>
+                    <div>
+                        <label position="floating">Phone Number</label><br>
+                        <input type="text" formControlName="phoneNumber">
+                        </div>
+                        <div>
+                            <label position="floating">Birth Date</label><br>
+                            <input type="date" format="yyyy-mm-dd" formControlName="birthDate">
+                            </div>
+                           
+            <!--<ion-label color="danger" *ngIf="form.get('password').touched && form.get('password').errors?.required">Please enter a passowrd</ion-label>-->
+            <br>
+            <!--Buttons Code-->
+            <!-- <button color="medium" Fill="clear" size="full">Forgot Password</button>
+            <br> -->
+            <span>
+              <!-- <button color="success" style="color: #E9BF4B" (click)="Login()">Login</button> -->
+              <button color="medium"style="color: #E9BF4B" (click)="Signup()">SignUp</button>
+              <!-- <button color="medium"style="color: #E9BF4B" (click)="Forgot()">Forgot password</button> -->
+              <!--[disabled]="!form.valid" -->
+            </span>
+          </form>
+     
+       </form>
+      </div>
+  
+    
+    

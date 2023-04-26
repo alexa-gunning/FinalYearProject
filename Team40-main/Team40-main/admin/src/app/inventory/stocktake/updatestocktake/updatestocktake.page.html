@@ -1,0 +1,55 @@
+<ion-header [translucent]="true">
+  <ion-toolbar>
+    <ion-button class="ion-float-left" id="homebtn" (click)="HomeBtn()">
+      <ion-icon name="home"></ion-icon>
+      </ion-button>
+    <ion-title class="ion-text-center">
+     Perform Stock Take
+
+      
+    </ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content>
+    <form [formGroup]="ustocktakeform" >
+      
+      <ion-list>
+        <ion-item>
+          <ion-label position="stacked">Inventory Item </ion-label><br>
+          <ion-select  formControlName="inventoryId">
+            <ion-select-option  *ngFor="let i of inventoryitems" value="{{i.inventoryId}}">{{i.itemName}}</ion-select-option>
+          </ion-select>
+        </ion-item>
+      </ion-list>
+      <br>
+      <br>
+
+      <ion-list>
+        <ion-item>
+          <ion-label position="stacked">Stock Take Quantity</ion-label><br>
+          <ion-input type="number" formControlName="stockTakeTotalQty" placeholder="2"></ion-input>
+        </ion-item>
+      </ion-list>
+
+      <br>
+      <br>
+
+      <ion-list>
+        <ion-item>
+          <ion-label position="stacked">Remarks</ion-label><br>
+          <ion-input type="text" formControlName="remarks" placeholder="More products were bought"></ion-input>
+        </ion-item>
+      </ion-list>
+      <br>
+      <br>
+      <ion-list>
+        <ion-item>
+          <ion-label position="stacked">Performed by</ion-label><br>
+          <ion-input type="text" formControlName="name" placeholder="Paige"></ion-input>
+        </ion-item>
+      </ion-list>
+      <ion-button class="ion-float-right" id="titlebtn" (click)="update()" >
+        Update
+       </ion-button>
+

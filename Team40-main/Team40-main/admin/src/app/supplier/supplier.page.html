@@ -1,0 +1,71 @@
+<ion-header [translucent]="true">
+  <ion-toolbar>
+    <ion-button class="ion-float-left" id="homebtn" (click)="HomeBtn()">
+      <ion-icon name="home"></ion-icon>
+      </ion-button>
+    <ion-title class="ion-text-center">
+     Suppliers
+      <ion-button class="ion-float-right" id="titlebtn" (click)="AddBtn()">
+       Add Supplier
+      </ion-button>
+    </ion-title>
+  </ion-toolbar>
+</ion-header>
+<ion-content [fullscreen]="true">
+  <ion-searchbar [(ngModel)]="searchTerm"  placeholder="Search suppliers"></ion-searchbar>
+
+
+
+  <!-- view table -->
+<ion-grid>
+
+  <!-- headers -->
+  <ion-row id="tblheader">
+    <ion-col>
+      <div>Supplier Name</div>
+    </ion-col>
+    <ion-col>
+      <div>Supplier Phone Number</div>
+    </ion-col>
+    <ion-col>
+      <div>Supplier Email</div>
+    </ion-col>
+
+    <ion-col>
+      <div>Address</div>
+    </ion-col>
+    <!-- <ion-col>
+      <div>Where the company can deliver to</div>
+    </ion-col> -->
+    <ion-col>
+
+    </ion-col>
+  </ion-row>
+
+  <!-- contents -->
+   <ion-row *ngFor="let del of this.Supply | filter: searchTerm">
+    <ion-col>
+      <div>{{del.supplierName}}</div>
+    </ion-col>
+    <ion-col>
+      <div>{{del.supplierPhoneNumber}}</div>
+    </ion-col>
+    <ion-col>
+      <div>{{del.supplierEmail}}</div>
+    </ion-col>
+    <ion-col>
+      <div>{{del.supplierAddress}}</div>
+    </ion-col>
+    <!-- <ion-col>
+      <div>{{del.method}}</div>
+    </ion-col> -->
+    <ion-col>
+      <ion-icon name="pencil" (click)="Update(del.supplierId)"></ion-icon>
+      <ion-icon name="trash-outline" (click)="Delete(del)"></ion-icon>
+    </ion-col>
+   </ion-row>
+
+   </ion-grid>
+
+
+

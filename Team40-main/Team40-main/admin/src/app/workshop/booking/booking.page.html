@@ -1,0 +1,52 @@
+<ion-header [translucent]="true">
+  <ion-toolbar>
+    <ion-button class="ion-float-left" id="homebtn" (click)="HomeBtn()">
+      <ion-icon name="home"></ion-icon>
+      </ion-button> 
+    <ion-title class="ion-text-center">
+  Bookings
+
+      <!-- <ion-button class="ion-float-right" id="titlebtn" (click)="AddBtn()">
+       Add booking
+      </ion-button> -->
+    </ion-title>
+  </ion-toolbar>
+</ion-header>
+<ion-content [fullscreen]="true">
+   <!--<ion-searchbar [(ngModel)]="searchTerm" placeholder="Search inventory items"></ion-searchbar> -->
+  <!-- view table -->
+<ion-grid>
+
+  <!-- headers -->
+  <ion-row id="tblheader">
+    <ion-col>
+      <div>Workshop Details</div>
+    </ion-col>
+    <ion-col>
+      <div>Client Booked</div>
+    </ion-col>
+    <!-- <ion-col>
+    </ion-col> -->
+  </ion-row>
+
+  <!-- contents -->
+   <!-- <ion-row *ngFor="let inv of items | filter: searchTerm"> -->
+    <ion-row *ngFor="let i of item">
+    <ion-col>
+      <div>Workshop: {{i.typeDescription}} <br>
+         Date: {{i.workshopDate}} <br>
+         Venue: {{i.venueName}} <br>
+         Host: {{i.hostName}}
+        </div>
+    </ion-col>
+    <ion-col>
+      <div>{{i.name}} {{i.surname}}</div>
+    </ion-col>
+
+    <!-- <ion-col> -->
+      <!-- <ion-icon name="pencil" (click)="Update(inv.inventoryId)"></ion-icon>
+      <ion-icon name="trash-outline" (click)="Delete(inv)"></ion-icon> -->
+    <!-- </ion-col> -->
+   </ion-row>
+
+   </ion-grid>

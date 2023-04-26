@@ -1,0 +1,23 @@
+
+      <header >
+      Products
+      </header>
+
+  <content >
+    <!-- <ion-searchbar [(ngModel)]="searchTerm" placeholder="Search products"></ion-searchbar>
+    <ion-card *ngFor="let product of this.Product  | filter: searchTerm"> -->
+      <!-- <ion-card-header> -->
+    <div *ngFor="let product of Product" id="div">
+  <h3>{{product.productName}} </h3>
+  <label>{{product.price | currency: 'R'}} {{product.date}}</label><br>
+ <!-- <label>{{product.quantityOnHand}}</label> -->
+  <p style="font-weight: bold">Colour: </p> {{product.colorName}} ({{product.colorDescription}}) <br> <br>
+  <p style="font-weight: bold">Product Type: </p> {{product.productTypeName}} <br>
+    {{product.typeDescription}} <br> <br>
+    <p style="font-weight: bold" >Quantity</p>
+    <input id="quantity({{product.productId}})" min="1" type="number" placeholder="1" value="1"> 
+    <button style="color: #E9BF4B" (click)="addProduct(product)" size="medium" color="primary">Add to basket</button>
+      <br><br>
+</div>
+
+  

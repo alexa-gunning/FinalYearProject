@@ -1,0 +1,54 @@
+<ion-header [translucent]="true">
+  <ion-toolbar>
+    <ion-button class="ion-float-left" id="homebtn" (click)="HomeBtn()">
+      <ion-icon name="home"></ion-icon>
+      </ion-button>
+    <ion-title class="ion-text-center">
+     View Write-off Inventory Reason
+     
+      <ion-button class="ion-float-right" id="titlebtn" (click)="AddBtn()">
+       Add Write-off Inventory Reason
+      </ion-button>
+    </ion-title>
+  </ion-toolbar>
+</ion-header>
+<ion-content [fullscreen]="true">
+
+<ion-searchbar [(ngModel)]="searchTerm"  placeholder="Search Reason"></ion-searchbar>
+
+  <!-- view table -->
+<ion-grid>
+  <!-- headers -->
+  <ion-row id="tblheader">
+    <ion-col>
+      <div>Write-Off ID</div>
+    </ion-col>
+    <ion-col>
+      <div>Write-Off Reason</div>
+    </ion-col>
+    <ion-col>
+    </ion-col>
+  </ion-row>
+ 
+  <!-- contents -->
+  
+    <ion-row *ngFor="let res of reasons | filter: searchTerm">
+      <ion-col>
+        <div>{{res.writeOffReasonId}}</div>
+      </ion-col>
+      <ion-col>
+        <div>{{res.writeOffReasonDescription}}</div>
+      </ion-col>
+      <ion-col>
+        <ion-icon name="pencil" (click)="Update(res.writeOffReasonId)"></ion-icon>
+        <ion-icon name="trash-outline" (click)="Delete(res)"></ion-icon>
+      </ion-col>
+     </ion-row>
+ 
+
+   </ion-grid>
+
+   <!-- <ion-button class="ion-float-left" id="stocktakebtn" (click)="StockTake()">
+    <ion-icon name="document-text-outline"></ion-icon>
+    Perform Stock Take
+    </ion-button> -->

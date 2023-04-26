@@ -1,0 +1,18 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-title>Help</ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content>
+  <ion-searchbar [(ngModel)]="searchTerm" placeholder="Search help"></ion-searchbar>
+ <ion-grid>
+  <ion-row *ngFor="let i of helpData | filter: searchTerm">
+    <ion-col>
+      <ion-title id="helptitle"> {{i.name}} </ion-title> 
+      {{i.description}}
+    </ion-col>
+  </ion-row>
+ 
+ </ion-grid>
+</ion-content>

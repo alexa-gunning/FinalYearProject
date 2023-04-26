@@ -1,0 +1,31 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-button class="ion-float-left" id="homebtn" (click)="HomeBtn()">
+      <ion-icon name="home"></ion-icon>
+      </ion-button>
+    <ion-title>Update Workshop Equipment<ion-icon name="information-circle" (click)="Info()"></ion-icon></ion-title>
+    <!-- cancel and update buttons -->
+    <ion-buttons slot="secondary">
+      <ion-back-button text="Cancel"></ion-back-button>
+      <ion-button (click)="Update()">Update</ion-button>
+    </ion-buttons>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content>
+
+  <form [formGroup]="uEquipmentForm" >
+    <div *ngFor="let Equipment of Equipment_">
+      <!-- <ion-item>
+      <ion-label position="stacked">Workshop Equipment ID</ion-label><br>
+      <ion-input type="text" formControlName="workshopEquipmentId"[(ngModel)]="Equipment.workshopEquipmentId"></ion-input>
+    </ion-item> -->
+
+    <ion-item>
+      <ion-label position="stacked">Workshop Equipment Description</ion-label><br>
+      <ion-input type="text" formControlName="description" [(ngModel)]="Equipment.description"></ion-input>
+    </ion-item>
+  </div>
+    </form>
+
+</ion-content>

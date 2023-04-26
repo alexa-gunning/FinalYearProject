@@ -1,0 +1,44 @@
+<header>My bookings</header>
+<content >
+
+    <h2 style="text-align: center">Upcoming bookings</h2>
+<table >
+<tr class="header">
+    
+    <td class="col1">Date of workshop</td> 
+    <td class="col2">Type of workshop</td>
+    <td class="col3">Host details</td>
+    <td class="col4">Venue details</td>
+    <td class="col5">Date booked</td>
+</tr>
+<tr  *ngFor="let i of bookings">
+    <td class="col1">{{i.workshopDate}}</td> 
+    <td class="col2">{{i.typeDescription}}</td>
+    <td class="col3">{{i.hostName}} <br> {{i.hostEmail}}</td>
+    <td class="col4">{{i.venueName}} <br> {{i.address}}</td>
+    <td class="col5"> {{i.date}}</td>
+    <td class="col6"><button (click)="Delete(i)" style="color: red" >Cancel booking</button></td>
+</tr>
+
+</table>
+
+<h2 style="text-align: center">Past bookings</h2>
+<table >
+<tr class="header">
+    
+    <td class="col1">Date of workshop</td> 
+    <td class="col2">Type of workshop</td>
+    <td class="col3">Host details</td>
+    <td class="col4">Venue details</td>
+    <td class="col5">Date booked</td>
+</tr>
+<tr  *ngFor="let i of pbookings">
+    <td class="col1">{{i.workshopDate}}</td> 
+    <td class="col2">{{i.typeDescription}}</td>
+    <td class="col3">{{i.hostName}} <br> {{i.hostEmail}}</td>
+    <td class="col4">{{i.venueName}} <br> {{i.address}}</td>
+    <td class="col5"> {{i.date}}</td>
+</tr>
+
+</table>
+</content>

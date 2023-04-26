@@ -1,0 +1,69 @@
+<div class="navbar navbar-default" style="background-color: white" >
+  <div class="container-fluid">
+    <!-- <div class="navbar-header">
+      <a class="navbar-brand" >Resin Art By Page</a>
+    </div> -->
+    <div class="collapse navbar-collapse">
+      <ul class="nav navbar-nav">
+        <li ><a (click)="Logout()" [routerLink]="['login']">Logout</a></li>
+        <li><a [routerLink]="['login']">Login</a></li>
+        <li *ngFor="let i of item" (click)="Viewbookings(i.clientId)">
+          <a [routerLink]="['products']">Products</a>
+        </li>
+       
+        <li><a [routerLink]="['makebooking']">Workshops</a></li>
+        <li><a [routerLink]="['help']">Help</a></li>
+        <li *ngFor="let i of item"><a [routerLink]="['profile']" (click)="Viewbookings(i.clientId)">Profile</a></li>
+        <li *ngFor="let i of item"><a [routerLink]="['cart']" (click)="Viewbookings(i.clientId)">Cart</a></li>
+        <li><a [routerLink]="['policy']">Policy</a></li>
+        <li *ngFor="let i of item"><a [routerLink]="['vieworders']" (click)="Viewbookings(i.clientId)">My orders</a></li>
+        <!-- <button *ngFor="let i of item"> -->
+        <li *ngFor="let i of item"><a [routerLink]="['viewbookings']" (click)="Viewbookings(i.clientId)">My bookings</a></li>
+      <!-- </button> -->
+      <img src="assets/logo2.png" id="img">
+      </ul>
+    </div>
+  </div>
+</div>
+
+
+
+<!-- 
+<footer  class="text-center text-white fixed-bottom" style="background-color: #21081a;">
+  
+    <div>
+        <img src="assets/logo.png" id="img2">
+      </div>
+      <div>
+
+<label>Follow us on:</label> <br>
+<img src="assets/tiktoklogo.png" id="socialslogo">
+<label> @resinbypaigea</label> <br>
+<img src="assets/instagramlogo.png" id="socialslogo">
+<label> @resinbypaigea</label>
+</div>
+</footer> -->
+
+<!-- <app-lectures></app-lectures> -->
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/ng2-bootstrap/x.x.x/ng2-bootstrap.min.js"></script>
+
+<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+<router-outlet></router-outlet>
+
+
+<footer  class=" footer fixed-bottom">
+  <span>
+  <div>
+      <img src="assets/logo.png" id="img2">
+  </div>
+    <div>
+
+<label>Follow us on:</label> <br>
+<img src="assets/tiktoklogo.png" id="socialslogo">
+<label> @resinbypaigea</label> <br>
+<img src="assets/instagramlogo.png" id="socialslogo">
+<label> @resinbypaigea</label>
+</div>
+</span>
+</footer>

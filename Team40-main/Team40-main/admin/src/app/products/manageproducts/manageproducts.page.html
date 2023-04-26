@@ -1,0 +1,49 @@
+<ion-header [translucent]="true">
+  <ion-toolbar>
+    <ion-button class="ion-float-left" id="homebtn" (click)="HomeBtn()">
+      <ion-icon name="home"></ion-icon>
+      </ion-button>
+    <ion-title class="ion-text-center">
+   Products
+
+    </ion-title>
+  </ion-toolbar>
+</ion-header>
+<ion-content [fullscreen]="true">
+
+<ion-grid>
+
+
+  <ion-row id="tblheader">
+    <ion-col>
+      <div>Product Name</div>
+    </ion-col>
+    <ion-col>
+      <div>Type</div>
+    </ion-col>
+    <ion-col>
+      <div>Colour</div>
+    </ion-col>
+    <ion-col>
+    </ion-col>
+  </ion-row>
+
+
+   <ion-row *ngFor="let inv of items">
+    <ion-col>
+      <div>{{inv.productName}}</div>
+    </ion-col>
+    <ion-col>
+      <div>{{inv.productTypeName}}</div>
+    </ion-col>
+    <ion-col>
+      <div>{{inv.colorName}}</div>
+    </ion-col>
+    <ion-col>
+      <ion-icon name="pencil" (click)="Update(inv.productId)"></ion-icon>
+      <ion-icon name="trash-outline" (click)="Delete(inv)"></ion-icon>
+    </ion-col>
+   </ion-row>
+
+   </ion-grid>
+</ion-content>

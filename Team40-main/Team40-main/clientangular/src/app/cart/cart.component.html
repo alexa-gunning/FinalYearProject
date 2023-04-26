@@ -1,0 +1,72 @@
+<header>Cart</header>
+<content>
+
+  <form action="https://sandbox.payfast.co.za/eng/process" method="post">
+    <ng-container *ngFor="let item of basketList">
+      <br> <br><label>Product Name: {{item.productName}}</label><br>
+       <label>Product Price: {{item.price| currency: 'R'}}</label><br>
+       <label>Quantity: {{item.Quantity}}</label>  <br>
+       <label class="subtotal">Product Subtotal: {{item.price * item.Quantity | currency: 'R'}}</label> <br>
+       <!-- <input type="hidden" id="quantity({{item.productId}})" value="{{item.price * item.Quantity}}"><br> -->
+       <button style="color: #E9BF4B" (click)="deleteItem(item)">Remove product from cart</button> <br>
+       <!-- <label>{{item.price * item.Quantity}}</label> -->
+       <!-- <button  style="color: #E9BF4B" (click)="total1(item)">Calculate total</button> <br> -->
+       <input type="hidden" id="price" value="{{item.price}}">
+       <input type="hidden" id="quantity" value="{{item.Quantity}}">
+       <input type="hidden" id="total" value="{{item.Quantity*item.price}}">
+      <br>
+      <!-- <label >Total: {{ item.total | currency: 'R' }}</label> -->
+       <!-- <button  style="color: #E9BF4B" (click)="Total(item)">Calculate total</button> -->
+      </ng-container> <br>
+      <ng-container >
+        <label >Total without delivery: {{ Total2 | currency: 'R' }}</label>
+      </ng-container>
+      <ng-container> <br><br>
+        <label>Choose a delivery company</label> <br>
+       <!-- <button style="color: #E9BF4B" (click)="Deliver()">Choose Delivery Company</button> <br> <br> -->
+       <!-- [(ngModel)]="d.state" -->
+<select name="d"  (change)="Addcomp($event)" id="d">
+  <option  *ngFor="let d of delcomp" 
+  [value]="d.id" [attr.deliveryCompanyId]="d.deliveryCompanyId"
+  value="{{d.deliveryCompanyId}}"
+  >
+   {{d.deliveryCompanyName}}: {{d.deliveryCompanyBaseRate | currency: 'R'}} 
+  </option>
+</select> <br> <br>
+<label>Selected Delivery Company: </label> <br>
+<label *ngFor="let d of delcomp1">{{d.deliveryCompanyName}}: {{d.deliveryCompanyBaseRate | currency: 'R'}} </label>
+ <br> <br>
+       <label>Select delivery address</label> <br>
+       <select  name="d"  (change)="Addaddress($event)" id="d" >
+        <option  *ngFor="let a of address" 
+         id="address" value="{{a.addressId}}"
+         [value]="a.id" [attr.addressId]="a.addressId"
+        
+         >
+         {{a.streetNumber}} {{a.streetName}}, {{a.city}}, {{a.province}}, {{a.areaCode}}, {{a.country}} 
+        </option>
+      </select> <br>
+       <button style="color: #E9BF4B" (click)="Address()">Manage/Add Addresses</button> <br><br> <br>
+       <label>Selected Address: </label> <br>
+       <label *ngFor="let a of address1"> {{a.streetNumber}} {{a.streetName}}, {{a.city}}, {{a.province}}, {{a.areaCode}}, {{a.country}}  </label>
+        <br> <br>
+       <!-- <p>OR</p> 
+       <button style="color: #E9BF4B" (click)="Place()">Add Closest Place To Deliver</button> <br> -->
+      <br> <ng-container >
+        <label >Total with delivery: {{ TotalWithDelivery | currency: 'R' }}</label>
+      </ng-container>
+
+      </ng-container>
+    <ng-container *ngFor="let detail of (onRemoteSiteUserData| keyvalue)">
+     <br> <input type="hidden" name="{{detail.key}}" value="{{detail.value}}">
+    </ng-container>
+    <input type="hidden" name="merchant_id" value="10027471">
+    <input type="hidden" name="merchant_key" value="w5t5y5f1076qe">
+    <input type="hidden" name="amount" value="{{TotalWithDelivery}}">
+    <input type="hidden" name="item_name" value="Products">
+    <input type="hidden" name="return_url" value="http://localhost:4200/success">
+    <input type="hidden" name="cancel_url" value="http://localhost:4200/cancelled">
+    <button type="submit" class="btn btn-primary mb-3">Checkout</button>
+ </form> 
+ <!-- <button (click)="createorder()">Create Order</button> -->
+</content>

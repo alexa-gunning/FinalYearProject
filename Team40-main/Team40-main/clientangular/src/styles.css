@@ -1,0 +1,52 @@
+/* You can add global styles to this file, and also import other style files */
+
+@import url('https://fonts.googleapis.com/css?family=Abel&display=swap');
+
+header{ 
+    font-size: 50px; 
+    text-align: center;
+    color: black;
+    font-family: 'Abel';
+    font-weight: bold;
+}
+/* ion-back-button {
+    --background-hover: lightgrey;
+    font-family: 'Abel';
+} */
+button{
+    margin-top: 15px;
+ /* --background: #fde68a; */
+    background: black;
+    color: #E9BF4B;
+    font-family: 'Abel' ;
+    font-weight: bold;
+    text-transform: none;
+   
+}
+
+tr{
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-bottom-color: gray;
+    font-family: 'Abel';
+    background-color: #EDFDE3;
+}
+tr.header{
+    font-size: 18px;
+    font-family: 'Abel';
+    /* // background-color:  #adebad; */
+    background-color: #399004;
+    color:white;
+    text-align: center;
+  
+    
+}
+/* 
+ion-tab-button:hover{
+    border-bottom: 3px solid #3CB371;
+    text-decoration: none;
+}
+ion-tab-button{
+    font-family: 'Abel';
+    font-size: 15px;
+} */

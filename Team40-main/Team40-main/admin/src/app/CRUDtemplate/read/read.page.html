@@ -1,0 +1,48 @@
+<ion-header [translucent]="true">
+  <ion-toolbar>
+    <ion-title class="ion-text-center">
+     CRUD template
+      <ion-button class="ion-float-right" id="titlebtn" (click)="AddBtn()">
+       Add ...
+      </ion-button>
+    </ion-title>
+  </ion-toolbar>
+</ion-header>
+<ion-content [fullscreen]="true">
+
+  <!-- view table -->
+<ion-grid>
+
+  <!-- headers -->
+  <ion-row id="tblheader">
+    <ion-col>
+      <div>Row 1</div>
+    </ion-col>
+    <ion-col>
+      <div>Row 2</div>
+    </ion-col>
+    <ion-col>
+      <div>Row 3</div>
+    </ion-col>
+    <ion-col> 
+    </ion-col>
+  </ion-row> 
+
+  <!-- contents -->
+   <ion-row> 
+    <ion-col>
+      <div>Row 1 info</div>
+    </ion-col>
+    <ion-col>
+      <div>Row 2 info</div>
+    </ion-col>
+    <ion-col>
+      <div>Row 3 info</div>
+    </ion-col>
+    <ion-col>
+      <ion-icon name="pencil" (click)="Update()"></ion-icon>
+      <ion-icon name="trash-outline"></ion-icon>
+    </ion-col> 
+   </ion-row> 
+
+   </ion-grid>

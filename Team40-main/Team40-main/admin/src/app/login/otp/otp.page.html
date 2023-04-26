@@ -1,0 +1,11 @@
+<form [formGroup]="otpFormGroup">
+  <ion-card>
+    <ion-card-header>
+      <ion-card-title>Please enter the OTP sent to your email</ion-card-title>
+    </ion-card-header>
+    <ion-card-content>
+      <ion-input formControlName="Otp" placeholder="enter OTP here"></ion-input>
+      <ion-button (click)="SubmitOtp()" >Confirm</ion-button>
+    </ion-card-content>
+  </ion-card>
+</form>

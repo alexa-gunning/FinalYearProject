@@ -1,0 +1,48 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-button class="ion-float-left" id="homebtn" (click)="HomeBtn()">
+      <ion-icon name="home"></ion-icon>
+      </ion-button>
+    <ion-title>Update Delivery Company Details <ion-icon name="information-circle" (click)="Info()"></ion-icon></ion-title>
+    
+        <!-- cancel and save buttons -->
+    <ion-buttons slot="secondary">
+      <ion-back-button text="Cancel"></ion-back-button>
+      <ion-button (click)="Update()">Update</ion-button>
+    </ion-buttons>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content>
+
+ <form [formGroup]="DeliveryForm">
+  <div *ngFor="let del of DelComp" >
+    <ion-item  >
+      <ion-label position="stacked">Delivery Company Name</ion-label><br>
+      <ion-input type="text" formControlName="deliveryCompanyName" [(ngModel)]="del.deliveryCompanyName" ></ion-input>
+    </ion-item>
+
+    <ion-item  >
+      <ion-label position="stacked">Contact Person</ion-label><br>
+      <ion-input type="text" formControlName="contactPersonName" [(ngModel)]="del.contactPersonName"></ion-input>
+    </ion-item>
+
+    <ion-item  >
+      <ion-label position="stacked">Email Address</ion-label><br>
+      <ion-input type="text" formControlName="deliveryCompanyEmail" [(ngModel)]="del.deliveryCompanyEmail" ></ion-input>
+    </ion-item>
+
+    <ion-item  >
+      <ion-label position="stacked">Base Rate (R)</ion-label><br>
+      <ion-input type="number" formControlName="deliveryCompanyBaseRate" [(ngModel)]="del.deliveryCompanyBaseRate" ></ion-input>
+    </ion-item>
+
+    <!-- <ion-item  >
+      <ion-label position="stacked">Where the company can deliver to</ion-label><br>
+      <ion-input type="text" formControlName="method" [(ngModel)]="del.method" ></ion-input>
+    </ion-item> -->
+  </div>
+
+ </form>
+  
+</ion-content>

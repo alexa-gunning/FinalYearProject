@@ -1,0 +1,39 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-button class="ion-float-left" id="homebtn" (click)="HomeBtn()">
+      <ion-icon name="home"></ion-icon>
+      </ion-button>
+     
+    <ion-title>Update discount<ion-icon name="information-circle" (click)="Info()"></ion-icon></ion-title>
+        <!-- cancel and save buttons -->
+    <ion-buttons slot="secondary">
+      <ion-back-button text="Cancel"></ion-back-button>
+      <ion-button (click)="Update()">Save</ion-button>
+    </ion-buttons>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content>
+
+  <form [formGroup]="uDiscountForm"  *ngFor="let d of Discount_">
+    <ion-item>
+      <ion-label position="stacked">Discount Description</ion-label><br>
+      <ion-input type="text" formControlName="discountDescription" [(ngModel)]="d.discountDescription"></ion-input>
+    </ion-item>
+    <ion-list>
+    <ion-item>
+      <ion-label position="stacked">Percentage </ion-label><br>
+      <ion-select  formControlName="discountTypeId">
+        <ion-select-option   *ngFor="let i of types" value="{{i.discountTypeId}}">{{i.percentage}}%</ion-select-option>
+      </ion-select>
+      <ion-button (click)="type()">Add new percentage</ion-button>
+    </ion-item>
+  </ion-list>
+  <ion-list>
+    <ion-item>
+      <ion-label position="stacked">Discount Status</ion-label><br>
+      <ion-select  formControlName="discountStatusId">
+        <ion-select-option  *ngFor="let i of statuses" value="{{i.discountStatusId}}">{{i.description}}</ion-select-option>
+      </ion-select>
+    </ion-item>
+  </ion-list>

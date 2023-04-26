@@ -1,0 +1,28 @@
+<header>
+   
+     Profile
+    
+  </header>
+  <content>
+  
+  
+    <!-- <card *ngFor="let i of item">
+      <ion-card-header>
+  <ion-card-title>Name: {{i.name}} {{i.surname}}</ion-card-title>
+      </ion-card-header>
+  <ion-card-content>
+    Email Address: {{i.emailAddress}}<br>
+    Birthday: {{i.birthDate}}<br>
+    Phone Number: {{i.phoneNumber}}<br>
+  <ion-button (click)="update(i.clientId)">Update profile</ion-button>
+   <ion-button (click)="Delete(i)">Delete profile</ion-button> 
+  </ion-card-content>
+    </ion-card> -->
+    <form *ngFor="let i of item">
+<label>Name: {{i.name}} {{i.surname}}</label><br>
+<label>Email Address: {{i.emailAddress}}</label><br>
+<label>Birthday: {{i.birthDate}}</label><br>
+<label>Phone Number: {{i.phoneNumber}}</label><br>
+<!-- <button style="color: #E9BF4B" (click)="update(i.clientId)">Update profile</button> -->
+    </form>
+</content>

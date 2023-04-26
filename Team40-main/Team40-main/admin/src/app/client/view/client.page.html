@@ -1,0 +1,68 @@
+<ion-header [translucent]="true">
+  <ion-toolbar>
+    <ion-title class="ion-text-center">
+     Clients
+      <ion-button class="ion-float-right" id="titlebtn" (click)="AddBtn()">
+       Add Client
+      </ion-button>
+    </ion-title>
+  </ion-toolbar>
+</ion-header>
+<ion-content [fullscreen]="true">
+<ion-searchbar [(ngModel)]="searchTermClient"  placeholder="Search clients"></ion-searchbar>
+<!-- view table -->
+
+  <!-- view table -->
+<ion-grid>
+
+  <!-- headers -->
+  <ion-row id="tblheader">
+    <ion-col>
+      <div>Name</div>
+    </ion-col>
+    <ion-col>
+      <div>Surname</div>
+    </ion-col>
+    <ion-col>
+      <div>Email Address</div>
+    </ion-col>
+    <ion-col>
+      <div>Phone Number</div>
+    </ion-col>
+    <ion-col>
+      <div>Birthdate</div>
+    </ion-col>
+    <!-- <ion-col>
+      <div>Address</div>
+    </ion-col> -->
+    <ion-col>
+    </ion-col>
+  </ion-row>
+
+  <!-- contents -->
+   <ion-row *ngFor="let item of items | filter:searchTermClient">
+    <ion-col>
+      <div>{{item.name}}</div>
+    </ion-col>
+    <ion-col>
+      <div>{{item.surname}}</div>
+    </ion-col>
+    <ion-col>
+      <div>{{item.emailAddress}}</div>
+    </ion-col>
+    <ion-col>
+      <div>{{item.phoneNumber}}</div>
+    </ion-col>
+    <ion-col>
+      <div>{{item.birthDate}}</div>
+    </ion-col>
+    <!-- <ion-col>
+      <div>{{item.streetNumber}}, {{item.streetName}}, {{item.city}}, {{item.province}} ,{{item.areaCode}}, {{item.country}}</div>
+    </ion-col> -->
+    <ion-col>
+      <ion-icon name="pencil" (click)="Update(item.clientId)"></ion-icon>
+      <ion-icon name="trash-outline" (click)="Delete(item)"></ion-icon>
+    </ion-col>
+   </ion-row>
+
+   </ion-grid>

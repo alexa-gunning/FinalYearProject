@@ -1,0 +1,37 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-button class="ion-float-left" id="homebtn" (click)="HomeBtn()">
+      <ion-icon name="home"></ion-icon>
+      </ion-button>
+    <ion-title>Update host<ion-icon name="information-circle" (click)="Info()"></ion-icon></ion-title>
+    <!-- cancel and update buttons -->
+    <ion-buttons slot="secondary">
+      <ion-back-button text="Cancel"></ion-back-button>
+      <ion-button (click)="Update()">Update</ion-button>
+    </ion-buttons>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content>
+
+  <form [formGroup]="uHostForm" >
+    <div *ngFor="let Host of Host_"> 
+    <ion-item  >
+      <ion-label position="stacked">Name</ion-label><br>
+      <ion-input type="text" formControlName="hostName" [(ngModel)]="Host.hostName"></ion-input>
+    </ion-item>
+
+    <ion-item > 
+    
+      <ion-label position="stacked">Surname</ion-label><br>
+      <ion-input type="text" formControlName="hostSurname"[(ngModel)]="Host.hostSurname"></ion-input>
+    </ion-item>
+    <ion-item > 
+    
+      <ion-label position="stacked">Email</ion-label><br>
+      <ion-input type="email" formControlName="hostEmail"[(ngModel)]="Host.hostEmail"></ion-input>
+    </ion-item>
+  </div>
+    </form>
+
+</ion-content>

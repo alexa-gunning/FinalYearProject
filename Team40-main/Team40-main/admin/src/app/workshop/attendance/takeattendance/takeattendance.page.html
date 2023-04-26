@@ -1,0 +1,41 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-button class="ion-float-left" id="homebtn" (click)="HomeBtn()">
+      <ion-icon name="home"></ion-icon>
+      </ion-button>
+     
+    <ion-title>Take Attendance<ion-icon name="information-circle" (click)="Info()"></ion-icon></ion-title>
+        <!-- cancel and save buttons -->
+    <ion-buttons slot="secondary">
+      <ion-back-button text="Cancel"></ion-back-button>
+      <ion-button (click)="Save()">Save</ion-button>
+    </ion-buttons>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content>
+  <form [formGroup]="attendanceForm"  *ngFor="let d of Booking_">
+    <ion-item>
+      <ion-label position="stacked">Booking Id</ion-label><br>
+      <ion-input type="text" formControlName="bookingId" [(ngModel)]="d.bookingId" [disabled]="true"></ion-input>
+    </ion-item>
+
+    <ion-item>
+      <ion-label position="stacked">ClientName</ion-label><br>
+      <ion-input type="text" formControlName="client" [(ngModel)]="d.name" [disabled]="true"></ion-input>
+    </ion-item>
+
+    <ion-item>
+      <ion-label position="stacked">Workshop ID</ion-label><br>
+      <ion-input type="text" formControlName="workshopId" [(ngModel)]="d.workshopId" [disabled]="true"></ion-input>
+    </ion-item>
+    
+  <ion-list>
+    <ion-item>
+      <ion-label position="stacked">Attendance Status</ion-label><br>
+      <ion-select  formControlName="attendanceStatus">
+        <ion-select-option  *ngFor="let i of attendance" value="{{i.attendanceStatusId}}">{{i.attendanceStatusName}}</ion-select-option>
+      </ion-select>
+    </ion-item>
+  </ion-list>
+

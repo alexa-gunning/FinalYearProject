@@ -1,0 +1,73 @@
+<ion-header [translucent]="true">
+  <ion-toolbar>
+    <ion-button class="ion-float-left" id="homebtn" (click)="HomeBtn()">
+      <ion-icon name="home"></ion-icon>
+      </ion-button>
+    <ion-title class="ion-text-center">
+
+     Delivery Companies
+     
+      <ion-button class="ion-float-right" id="titlebtn" (click)="AddBtn()">
+       Add Delivery Company
+      </ion-button>
+    </ion-title>
+  </ion-toolbar>
+</ion-header>
+<ion-content [fullscreen]="true">
+  <ion-searchbar [(ngModel)]="searchTerm"  placeholder="Search delivery company"></ion-searchbar>
+
+
+
+  <!-- view table -->
+<ion-grid>
+
+  <!-- headers -->
+  <ion-row id="tblheader">
+    <ion-col>
+      <div>Delivery Company Name</div>
+    </ion-col>
+    <ion-col>
+      <div>Delivery Company Email</div>
+    </ion-col>
+    <ion-col>
+      <div>Contact Person Name</div>
+    </ion-col>
+
+    <ion-col>
+      <div>Base Rate(R)</div>
+    </ion-col>
+    <!-- <ion-col>
+      <div>Where the company can deliver to</div>
+    </ion-col> -->
+    <ion-col>
+
+    </ion-col>
+  </ion-row>
+
+  <!-- contents -->
+   <ion-row *ngFor="let del of this.Delivery | filter: searchTerm">
+    <ion-col>
+      <div>{{del.deliveryCompanyName}}</div>
+    </ion-col>
+    <ion-col>
+      <div>{{del.deliveryCompanyEmail}}</div>
+    </ion-col>
+    <ion-col>
+      <div>{{del.contactPersonName}}</div>
+    </ion-col>
+    <ion-col>
+      <div>{{del.deliveryCompanyBaseRate}}</div>
+    </ion-col>
+    <!-- <ion-col>
+      <div>{{del.method}}</div>
+    </ion-col> -->
+    <ion-col>
+      <ion-icon name="pencil" (click)="Update(del.deliveryCompanyId)"></ion-icon>
+      <ion-icon name="trash-outline" (click)="Delete(del)"></ion-icon>
+    </ion-col>
+   </ion-row>
+
+   </ion-grid>
+
+  
+

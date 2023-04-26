@@ -1,0 +1,39 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-button class="ion-float-left" id="homebtn" (click)="HomeBtn()">
+      <ion-icon name="home"></ion-icon>
+      </ion-button>
+    <ion-title>Update policy<ion-icon name="information-circle" (click)="Info()"></ion-icon></ion-title>
+        <!-- cancel and update buttons -->
+    <ion-buttons slot="secondary">
+      <ion-back-button text="Cancel"></ion-back-button>
+      <ion-button (click)="Update()">Update</ion-button>
+    </ion-buttons>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content>
+
+  <form [formGroup]="uPolicyForm" >
+    <div *ngFor="let i of item"> 
+    <ion-item  >
+      <ion-label position="stacked">Policy Name</ion-label><br>
+      <ion-input type="text" formControlName="policyName" [(ngModel)]="i.policyName"></ion-input>
+    </ion-item>
+
+    <ion-item > 
+    
+      <ion-label position="stacked">Description</ion-label><br>
+      <ion-input type="text" formControlName="description"[(ngModel)]="i.description"></ion-input>
+    </ion-item>
+    <ion-item > 
+    
+      <ion-label position="stacked">Date</ion-label><br>
+      <ion-datetime displayFormat="YYYY-MM-DDTHH:mm:ss" formControlName="date" [(ngModel)]="i.date"></ion-datetime>
+    </ion-item>
+  </div>
+    </form>
+
+ 
+
+</ion-content>

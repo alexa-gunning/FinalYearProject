@@ -1,0 +1,37 @@
+<ion-content >
+  <div style="display:flex;justify-content:center;align-items:center;height:100%">
+   <form [formGroup]="UserForm">
+    <ion-card>
+      <ion-card-header>
+        <ion-card-title color="warning">ResinArt By Paige</ion-card-title>
+      </ion-card-header>
+        <!--Username Code-->
+      <ion-card-content>
+        <form class="form" [formGroup]="UserForm">
+        <ion-item>
+          <ion-label position="floating">Username</ion-label>
+          <ion-input type="text" formControlName="userName"></ion-input>
+        </ion-item>
+        <ion-label color="danger" *ngIf="UserForm.get('userName').touched && UserForm.get('userName').errors?.required">Please enter a username</ion-label>
+        <br>
+         <!--Password Code-->
+        <ion-item>
+          <ion-label position="floating">Password</ion-label>
+          <ion-input type="password" formControlName="password"></ion-input>
+        </ion-item>
+        <ion-label color="danger" *ngIf="UserForm.get('password').touched && UserForm.get('password').errors?.required">Please enter a passowrd</ion-label>
+        <br>
+        <!--Buttons Code-->
+        
+        <br>
+        <span>
+          <ion-button color="success" [disabled]="!UserForm.valid"(click)="registerUser()">Register</ion-button>
+          <ion-button color="prrimary" (click)="Cancel()" >Cancel</ion-button>
+          <!--[disabled]="!form.valid" -->
+        </span>
+      </form>
+      </ion-card-content>
+    </ion-card>
+   </form>
+  </div>
+</ion-content>

@@ -1,0 +1,22 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-button class="ion-float-left" id="homebtn" (click)="HomeBtn()">
+      <ion-icon name="home"></ion-icon>
+      </ion-button>
+    <ion-title>Add Workshop Equipment<ion-icon name="information-circle" (click)="Info()"></ion-icon></ion-title>
+        <!-- cancel and save buttons -->
+    <ion-buttons slot="secondary">
+      <ion-back-button text="Cancel"></ion-back-button>
+      <ion-button (click)="addEquipment()">Save</ion-button>
+    </ion-buttons>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content>
+  <form [formGroup]="EquipmentForm"  >
+    <ion-item>
+      <ion-label position="stacked">Description</ion-label><br>
+      <ion-input type="text" formControlName="description" placeholder="New Equipment Description"></ion-input>
+    </ion-item>
+  </form>
+</ion-content>

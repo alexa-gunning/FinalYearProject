@@ -1,0 +1,33 @@
+#img{
+    height:60px;
+    margin-right: 20px;
+    float: right;
+    }
+    #img2{
+        height:90px;
+        }
+    
+    
+    #footer{
+        background-color:#FFF1CA;
+       
+    }
+    ion-row{
+        border:none;
+        background-color:#FFF1CA;
+    }
+    #socialslogo{
+    height:25px;
+    
+    }
+    .footer {
+        /* position: fixed ; */
+        background-color:#FFF1CA;
+        width: 100%;
+        text-align: center;
+        left: 0;
+         bottom: 0;
+    }
+.nav{
+    width: 100%;
+}

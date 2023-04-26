@@ -1,0 +1,73 @@
+<ion-header [translucent]="true">
+  <ion-toolbar>
+    <ion-button class="ion-float-left" id="homebtn" (click)="HomeBtn()">
+      <ion-icon name="home"></ion-icon>
+      </ion-button>
+    <ion-title class="ion-text-center">Modify Workshop Slots</ion-title>
+  </ion-toolbar>
+</ion-header> 
+
+<ion-content>
+  <ion-searchbar [(ngModel)]="searchstring" placeholder="Search Workshop Slots"></ion-searchbar>
+  <ion-grid>
+
+    <!-- headers -->
+    <ion-row id="tblheader">
+      <!-- <ion-col>
+        <div>Type</div>
+      </ion-col> -->
+      <ion-col>
+        <div>Workshop Date</div>
+      </ion-col>
+      <ion-col>
+        <div>Workshop Type</div>
+      </ion-col>
+     
+      <ion-col>
+        <div>Host Name</div>
+      </ion-col>
+      <ion-col>
+        <div>Venue Name</div>
+      </ion-col>
+      <ion-col>
+        <div>Price (R)</div>
+      </ion-col>
+      <ion-col></ion-col>
+    </ion-row> 
+  
+    <!-- contents -->
+     <ion-row *ngFor="let item of slots | filter: searchstring"> 
+      <ion-col>
+        <div>{{item.workshopDate}}</div>
+      </ion-col>
+      <!-- <ion-col>
+        <div>{{item.typeDescription}}</div>
+      </ion-col> -->
+      <!-- <ion-col>
+        <div>{{item.workshopDate}}</div>
+      </ion-col> -->
+      <ion-col>
+        <div>{{item.typeDescription}}</div>
+      </ion-col>
+      <!-- <ion-col>
+        <div>{{item.discountDescription}}</div>
+      </ion-col> -->
+      <ion-col>
+        <div>{{item.hostName}}</div>
+      </ion-col>
+      <ion-col>
+        <div>{{item.venueName}}</div>
+      </ion-col>
+      <ion-col>
+        <div>{{item.price | currency: 'R'}}</div>
+      </ion-col>
+      
+      <ion-col>
+        <ion-icon name="pencil" (click)="Update(item.workshopId)"></ion-icon>
+        <ion-icon name="trash-outline" (click)="Delete(item)"></ion-icon>
+      </ion-col> 
+     </ion-row> 
+  
+     </ion-grid>
+  
+

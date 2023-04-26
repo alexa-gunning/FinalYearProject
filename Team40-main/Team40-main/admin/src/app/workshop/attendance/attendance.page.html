@@ -1,0 +1,69 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-title>Workshop Attendance
+      
+    </ion-title>
+  </ion-toolbar>
+</ion-header>
+
+
+  <ion-content>
+    <ion-searchbar [(ngModel)]="searchstring" placeholder="Search Attendace "></ion-searchbar>
+    <ion-grid>
+  
+      <!-- headers -->
+      <ion-row id="tblheader">
+        <!-- <ion-col>
+          <div>Type</div>
+        </ion-col> -->
+        <ion-col>
+          <div>Workshop Date</div>
+        </ion-col>
+        <ion-col>
+          <div>Booking Id</div>
+        </ion-col>
+       
+        <ion-col>
+          <div>Name</div>
+        </ion-col>
+        <ion-col>
+          <div>Surname</div>
+        </ion-col>
+        <ion-col>
+          <div>Attendance Status</div>
+        </ion-col>
+        <ion-col></ion-col>
+      </ion-row> 
+    
+      <!-- contents -->
+       <ion-row *ngFor="let item of items | filter: searchstring"> 
+        <ion-col>
+          <div>{{item.workshopDate}}</div>
+        </ion-col> 
+        <ion-col>
+          <div>{{item.bookingId}}</div>
+        </ion-col>
+        <ion-col>
+          <div>{{item.name}}</div>
+        </ion-col>
+         <ion-col>
+          <div>{{item.surname}}</div>
+        </ion-col> 
+        <ion-col>
+          <div>{{item.attendanceStatusName}}</div>
+        </ion-col>
+        <!--<ion-col>
+          <div>{{item.venueName}}</div>
+        </ion-col>
+        <ion-col>
+          <div>{{item.price}}</div>
+        </ion-col>-->
+        
+        <ion-col>
+          <ion-icon name="pencil" (click)="Update(item.bookingId)" ></ion-icon>
+          
+        </ion-col> 
+       </ion-row> 
+    
+       </ion-grid>
+
