@@ -69,8 +69,8 @@ namespace team40_iteration6_user.Team40
             if (!optionsBuilder.IsConfigured)
             {
                 //#warning To protect potentially sensitive information in your connection string, you should move it out of source code. See http://go.microsoft.com/fwlink/?LinkId=723263 for guidance on storing connection strings.
-                optionsBuilder.UseSqlServer("Server=tcp:inf370team40.database.windows.net,1433;Database=Team40;Persist Security Info=False;User ID= inf370team40_admin;Password= tuksofniks2022!;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;");
-                //optionsBuilder.UseSqlServer("Server=LAPTOP-G49DL6P0\\SQLEXPRESS;Database=Team40_1;Trusted_Connection=True;MultipleActiveResultSets=True");
+                //optionsBuilder.UseSqlServer("Server=tcp:inf370team40.database.windows.net,1433;Database=Team40;Persist Security Info=False;User ID= inf370team40_admin;Password= tuksofniks2022!;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;");
+               optionsBuilder.UseSqlServer("Server=LAPTOP-G49DL6P0\\SQLEXPRESS;Database=Team40_1;Trusted_Connection=True;MultipleActiveResultSets=True");
             }
         }
       

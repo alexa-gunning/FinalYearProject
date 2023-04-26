@@ -6698,24 +6698,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\tokol\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\User\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tokol\\Downloads\\Team40-main (3)\\Team40-main\\team40_iteration6_user\\team40_iteration6_user.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Documents\\FDM Training\\finalYearProject\\finalYearProject\\Team40-main\\Team40-main\\team40_iteration6_user\\team40_iteration6_user.csproj",
       "projectName": "team40_iteration6_user",
-      "projectPath": "C:\\Users\\tokol\\Downloads\\Team40-main (3)\\Team40-main\\team40_iteration6_user\\team40_iteration6_user.csproj",
-      "packagesPath": "C:\\Users\\tokol\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tokol\\Downloads\\Team40-main (3)\\Team40-main\\team40_iteration6_user\\obj\\",
+      "projectPath": "C:\\Users\\User\\Documents\\FDM Training\\finalYearProject\\finalYearProject\\Team40-main\\Team40-main\\team40_iteration6_user\\team40_iteration6_user.csproj",
+      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\User\\Documents\\FDM Training\\finalYearProject\\finalYearProject\\Team40-main\\Team40-main\\team40_iteration6_user\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\tokol\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -6802,7 +6797,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.407\\RuntimeIdentifierGraph.json"
       }
     }
   }
