@@ -25,6 +25,7 @@ This was a group project but the following are the activities I personally did (
 - Register profile
 - OTP
 - Forgot Password
+- Authentication with hashed passwords
 - Make booking
 - Add and remove items from cart
 - View cart (Including calculating total price)
