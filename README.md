@@ -35,5 +35,5 @@ This was a group project but the following are the activities I personally did (
 - View orders
 - View bookings
 - Inventory report
-
+- Global CSS and navigation
  
