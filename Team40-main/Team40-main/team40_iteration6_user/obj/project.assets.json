@@ -6703,11 +6703,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Documents\\FDM Training\\finalYearProject\\finalYearProject\\Team40-main\\Team40-main\\team40_iteration6_user\\team40_iteration6_user.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Documents\\GitHub\\finalYearProject\\Team40-main\\Team40-main\\team40_iteration6_user\\team40_iteration6_user.csproj",
       "projectName": "team40_iteration6_user",
-      "projectPath": "C:\\Users\\User\\Documents\\FDM Training\\finalYearProject\\finalYearProject\\Team40-main\\Team40-main\\team40_iteration6_user\\team40_iteration6_user.csproj",
+      "projectPath": "C:\\Users\\User\\Documents\\GitHub\\finalYearProject\\Team40-main\\Team40-main\\team40_iteration6_user\\team40_iteration6_user.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Documents\\FDM Training\\finalYearProject\\finalYearProject\\Team40-main\\Team40-main\\team40_iteration6_user\\obj\\",
+      "outputPath": "C:\\Users\\User\\Documents\\GitHub\\finalYearProject\\Team40-main\\Team40-main\\team40_iteration6_user\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
