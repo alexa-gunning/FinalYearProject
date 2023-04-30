@@ -23,7 +23,7 @@ export class AddtypePage implements OnInit {
   addType(){
     if(this.TypeForm.valid == true){
     this.service.AddWorkshopType(this.TypeForm.value).subscribe(() =>{
-      this.router.navigate(['./addproduct']);
+      this.router.navigate(['./tabs/type']);
    
       this.presentToast();
     }  , (response: HttpErrorResponse) => {
